@@ -1,0 +1,287 @@
+TMyTableView
+v7
+r0
+t290522806.611219
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/Info.plist Info.plist
+cCompileXIB /Users/todd/Desktop/MySQLiteTableView/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/MySQLTableView.app/names.db names.db
+cCpResource build/Debug-iphonesimulator/MySQLTableView.app/names2.db names2.db
+cProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-dbnqbcbynniejtgzqvhblwypzeac/MyTableView_Prefix.pch.gch MyTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o /Users/todd/Desktop/MySQLiteTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o /Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o /Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView normal i386
+cGenerateDSYMFile /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app.dSYM /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView
+cTouch /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004B6B207200000000000000EE
+t1265311858
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026DAB0
+t1250040081
+s2546352
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027D510
+t1249267860
+s2610448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F590000000001670E70
+t1249668953
+s23531120
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/sqlite3.h
+c000000004A764E4A000000000003D86F
+t1249267274
+s252015
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/lib/libsqlite3.dylib
+c000000004A764E6900000000000C3980
+t1249267305
+s801152
+
+N/Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewAppDelegate.h
+c000000004B66FA53000000000000013E
+t1265039955
+s318
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewAppDelegate.m
+c000000004B66FA5300000000000002BF
+t1265039955
+s703
+i"MyTableViewAppDelegate.h"
+i"MyTableViewController.h"
+
+N/Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewController.h
+c000000004B66FA5300000000000000AA
+t1265039955
+s170
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewController.m
+c000000004BA0CF1D00000000000005ED
+t1268829981
+s1517
+i"MyTableViewController.h"
+i"sqlite3.h"
+
+N/Users/todd/Desktop/MySQLiteTableView/MainWindow.xib
+c000000004A10364E0000000000001D0F
+t1242576462
+s7439
+
+N/Users/todd/Desktop/MySQLiteTableView/MyTableView_Prefix.pch
+c000000004A10364E00000000000000BF
+t1242576462
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app
+t1268830006
+s272
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app.dSYM
+t1268830006
+s102
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/Info.plist
+t1268829996
+s585
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MainWindow.nib
+t1268829997
+s969
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView
+t1268830006
+s20200
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/PkgInfo
+t1268829996
+s8
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/names.db
+t1268829996
+s4096
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/names2.db
+t1268829996
+s4096
+
+N/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MySQLTableView.LinkFileList
+c000000004BA0CF2C00000000000001A6
+t1268829996
+s422
+
+N/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o
+t1268830006
+s38380
+
+N/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o
+t1268830006
+s34088
+
+N/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o
+t1268830005
+s5948
+
+N/Users/todd/Desktop/MySQLiteTableView/main.m
+c000000004A10364E000000000000016B
+t1242576462
+s363
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/MySQLiteTableView/names.db
+c000000004B66FA670000000000001000
+t1265039975
+s4096
+
+N/Users/todd/Desktop/MySQLiteTableView/names2.db
+c000000004BA0CEB30000000000001000
+t1268829875
+s4096
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-dbnqbcbynniejtgzqvhblwypzeac/MyTableView_Prefix.pch.gch
+t1268830005
+s13034960
+
+NInfo.plist
+c000000004A10364E0000000000000381
+t1242576462
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290522796#290522796#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o /Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290522805.819988
+e290522806.137291
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o
+x/Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewAppDelegate.m290522805#290522806#0(0"0(0#0#70"/Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewAppDelegate.m4300885448#1982"    cd /Users/todd/Desktop/MySQLiteTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-generated-files.hmap -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-own-target-headers.hmap -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-project-headers.hmap -F/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-dbnqbcbynniejtgzqvhblwypzeac/MyTableView_Prefix.pch -c /Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewAppDelegate.m -o /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o /Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290522805.995316
+e290522806.199783
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o
+x/Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewController.m290522805#290522806#0(0"0(0#0#69"/Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewController.m4300885448#1980"    cd /Users/todd/Desktop/MySQLiteTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-generated-files.hmap -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-own-target-headers.hmap -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-project-headers.hmap -F/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-dbnqbcbynniejtgzqvhblwypzeac/MyTableView_Prefix.pch -c /Users/todd/Desktop/MySQLiteTableView/Classes/MyTableViewController.m -o /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o /Users/todd/Desktop/MySQLiteTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290522805.763758
+e290522805.995190
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/MySQLiteTableView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/todd/Desktop/MySQLiteTableView/main.m290522805#290522805#0(0"0(0#0#44"/Users/todd/Desktop/MySQLiteTableView/main.m4300885448#1938"    cd /Users/todd/Desktop/MySQLiteTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-generated-files.hmap -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-own-target-headers.hmap -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-project-headers.hmap -F/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-dbnqbcbynniejtgzqvhblwypzeac/MyTableView_Prefix.pch -c /Users/todd/Desktop/MySQLiteTableView/main.m -o /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/todd/Desktop/MySQLiteTableView/MainWindow.xib
+s290522796.610961
+e290522797.767448
+r1
+xCompileXIB
+x/Users/todd/Desktop/MySQLiteTableView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290522796#290522797#0(0"0(0#0#52"/Users/todd/Desktop/MySQLiteTableView/MainWindow.xib4300885448#484"    cd /Users/todd/Desktop/MySQLiteTableView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MainWindow.nib /Users/todd/Desktop/MySQLiteTableView/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/MySQLTableView.app/names.db names.db
+s290522796.953099
+e290522796.961984
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MySQLTableView.app/names.db
+xnames.db
+lSLF07#2@13"Copy names.db290522796#290522796#0(0"0(0#0#46"/Users/todd/Desktop/MySQLiteTableView/names.db4300885448#456"    cd /Users/todd/Desktop/MySQLiteTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/todd/Desktop/MySQLiteTableView/names.db /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app0#
+
+CCpResource build/Debug-iphonesimulator/MySQLTableView.app/names2.db names2.db
+s290522796.954304
+e290522796.966820
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MySQLTableView.app/names2.db
+xnames2.db
+lSLF07#2@14"Copy names2.db290522796#290522796#0(0"0(0#0#47"/Users/todd/Desktop/MySQLiteTableView/names2.db4300885448#457"    cd /Users/todd/Desktop/MySQLiteTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/todd/Desktop/MySQLiteTableView/names2.db /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app0#
+
+CGenerateDSYMFile /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app.dSYM /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView
+s290522806.554846
+e290522806.606668
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app.dSYM
+x/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/MySQLTableView.app.dSYM build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView290522806#290522806#0(0"0(0#0#99"/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView4300885448#401"    cd /Users/todd/Desktop/MySQLiteTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView -o /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app.dSYM0#
+
+CLd /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView normal i386
+s290522806.200048
+e290522806.554726
+r1
+xLd
+x/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView
+xnormal
+xi386
+lSLF07#2@104"Link /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView290522806#290522806#0(0"0(0#0#0"4300885448#896"    cd /Users/todd/Desktop/MySQLiteTableView    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator -F/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator -filelist /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MySQLTableView.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3 -o /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/MySQLTableView0#
+
+CProcessInfoPlistFile /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/Info.plist Info.plist
+s290522796.342086
+e290522796.610858
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist290522796#290522796#0(0"0(0#0#48"/Users/todd/Desktop/MySQLiteTableView/Info.plist4300885448#482"    cd /Users/todd/Desktop/MySQLiteTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app/Info.plist0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-dbnqbcbynniejtgzqvhblwypzeac/MyTableView_Prefix.pch.gch MyTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290522797.767598
+e290522805.763459
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-dbnqbcbynniejtgzqvhblwypzeac/MyTableView_Prefix.pch.gch
+xMyTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MyTableView_Prefix.pch290522797#290522805#0(0"0(0#0#60"/Users/todd/Desktop/MySQLiteTableView/MyTableView_Prefix.pch4300885448#1827"    cd /Users/todd/Desktop/MySQLiteTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-generated-files.hmap -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-own-target-headers.hmap -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MySQLTableView-project-headers.hmap -F/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/MySQLiteTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -c /Users/todd/Desktop/MySQLiteTableView/MyTableView_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-dbnqbcbynniejtgzqvhblwypzeac/MyTableView_Prefix.pch.gch0#
+
+CTouch /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app
+s290522806.606813
+e290522806.611167
+r1
+xTouch
+x/Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app
+lSLF07#2@90"Touch /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app290522806#290522806#0(0"0(0#0#0"4300885448#283"    cd /Users/todd/Desktop/MySQLiteTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/MySQLiteTableView/build/Debug-iphonesimulator/MySQLTableView.app0#
+

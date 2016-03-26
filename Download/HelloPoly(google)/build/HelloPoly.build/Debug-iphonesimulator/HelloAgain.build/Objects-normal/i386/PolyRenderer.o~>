@@ -1,0 +1,2 @@
+/Users/t3knomanser/Programming/Stanford/HelloPoly/Classes/PolyRenderer.m:14: warning: incomplete implementation of class 'PolyRenderer'
+/Users/t3knomanser/Programming/Stanford/HelloPoly/Classes/PolyRenderer.m:14: warning: method definition for '-renderPolygon:withRadius:inContext:' not found

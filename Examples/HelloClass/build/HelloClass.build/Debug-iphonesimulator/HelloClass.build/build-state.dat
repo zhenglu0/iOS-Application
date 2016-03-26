@@ -1,0 +1,250 @@
+THelloClass
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/Info.plist HelloClass/HelloClass-Info.plist
+cProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloClass-Prefix-bynjnqdqzuzhfbctxmtfzwcptzvx/HelloClass-Prefix.pch.pth HelloClass/HelloClass-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/main.o /Users/todd/Desktop/HelloClass/HelloClass/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/AppDelegate.o /Users/todd/Desktop/HelloClass/HelloClass/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/ViewController.o /Users/todd/Desktop/HelloClass/HelloClass/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/HelloClass normal i386
+cGenerateDSYMFile /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app.dSYM /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/HelloClass
+cCopyStringsFile /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/en.lproj/InfoPlist.strings HelloClass/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/todd/Desktop/HelloClass/HelloClass/en.lproj/MainStoryboard.storyboard
+cTouch /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F0F9F730000000000000110
+t1326423923
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/todd/Desktop/HelloClass/HelloClass/AppDelegate.h
+c000000004FD67A91000000000000011F
+t1339456145
+s287
+
+N/Users/todd/Desktop/HelloClass/HelloClass/AppDelegate.m
+c000000004FD67A910000000000000888
+t1339456145
+s2184
+
+N/Users/todd/Desktop/HelloClass/HelloClass/HelloClass-Prefix.pch
+c000000004FD67A910000000000000143
+t1339456145
+s323
+
+N/Users/todd/Desktop/HelloClass/HelloClass/ViewController.h
+c000000004FD67D380000000000000157
+t1339456824
+s343
+
+N/Users/todd/Desktop/HelloClass/HelloClass/ViewController.m
+c000000004FD67D670000000000000602
+t1339456871
+s1538
+
+N/Users/todd/Desktop/HelloClass/HelloClass/en.lproj/InfoPlist.strings
+c000000004FD67A91000000000000002D
+t1339456145
+s45
+
+N/Users/todd/Desktop/HelloClass/HelloClass/en.lproj/MainStoryboard.storyboard
+c000000004FD67D380000000000000E6B
+t1339456824
+s3691
+
+N/Users/todd/Desktop/HelloClass/HelloClass/main.m
+c000000004FD67A91000000000000015A
+t1339456145
+s346
+
+N/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app
+t1339456465
+s204
+
+N/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app.dSYM
+t1339456463
+s102
+
+N/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/HelloClass
+t1339456463
+s17596
+
+N/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/Info.plist
+t1339456206
+s879
+
+N/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/PkgInfo
+t1339456206
+s8
+
+N/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/en.lproj/InfoPlist.strings
+t1339456208
+s42
+
+N/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/en.lproj/MainStoryboard.storyboardc
+t1339456465
+s170
+
+N/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/AppDelegate.o
+t1339456208
+s49400
+
+N/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/HelloClass.LinkFileList
+c000000004FD67ACE0000000000000179
+t1339456206
+s377
+
+N/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/main.o
+t1339456208
+s2544
+
+N/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloClass-Prefix-bynjnqdqzuzhfbctxmtfzwcptzvx/HelloClass-Prefix.pch.pth
+t1339456208
+s3907332
+
+NHelloClass/HelloClass-Info.plist
+c000000004FD67A9100000000000004FE
+t1339456145
+s1278
+
+CBuild AST from /Users/todd/Desktop/HelloClass/HelloClass/AppDelegate.m
+r0
+
+CBuild AST from /Users/todd/Desktop/HelloClass/HelloClass/ViewController.m
+r0
+
+CBuild AST from /Users/todd/Desktop/HelloClass/HelloClass/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdac54ce9b486b541^073f4de9b486b541^---0#1#0#--18"Check dependencies36"F37C1F2D-9C63-4F87-8A1D-9CCD010966D0-
+
+CCompileC build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/AppDelegate.o /Users/todd/Desktop/HelloClass/HelloClass/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361149008.355098
+e361149008.423228
+r1
+xCompileC
+xbuild/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/AppDelegate.o
+x/Users/todd/Desktop/HelloClass/HelloClass/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/todd/Desktop/HelloClass/HelloClass/AppDelegate.m89085b50b286b541^da596c50b286b541^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/todd/Desktop/HelloClass/HelloClass/AppDelegate.m0000000000000000^2633"CompileC build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/AppDelegate.o HelloClass/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/todd/Desktop/HelloClass    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-generated-files.hmap -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-own-target-headers.hmap -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-all-target-headers.hmap -iquote /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-project-headers.hmap -I/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/DerivedSources/i386 -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/DerivedSources -F/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloClass-Prefix-bynjnqdqzuzhfbctxmtfzwcptzvx/HelloClass-Prefix.pch -MMD -MT dependencies -MF /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/AppDelegate.d -c /Users/todd/Desktop/HelloClass/HelloClass/AppDelegate.m -o /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/AppDelegate.o36"2924ED8B-1E64-4CF3-AF76-18ACD3D76D35-
+
+CCompileC build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/ViewController.o /Users/todd/Desktop/HelloClass/HelloClass/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361149673.313727
+e361149673.413740
+r1
+xCompileC
+xbuild/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/ViewController.o
+x/Users/todd/Desktop/HelloClass/HelloClass/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/todd/Desktop/HelloClass/HelloClass/ViewController.m547050e9b486b541^d9eb69e9b486b541^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/todd/Desktop/HelloClass/HelloClass/ViewController.m0000000000000000^2648"CompileC build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/ViewController.o HelloClass/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/todd/Desktop/HelloClass    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-generated-files.hmap -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-own-target-headers.hmap -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-all-target-headers.hmap -iquote /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-project-headers.hmap -I/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/DerivedSources/i386 -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/DerivedSources -F/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloClass-Prefix-bynjnqdqzuzhfbctxmtfzwcptzvx/HelloClass-Prefix.pch -MMD -MT dependencies -MF /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/ViewController.d -c /Users/todd/Desktop/HelloClass/HelloClass/ViewController.m -o /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/ViewController.o36"C6B04B28-08DF-4343-81AD-211A60ECD7A6-
+
+CCompileC build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/main.o /Users/todd/Desktop/HelloClass/HelloClass/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361149008.297512
+e361149008.353890
+r1
+xCompileC
+xbuild/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/HelloClass/HelloClass/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/todd/Desktop/HelloClass/HelloClass/main.m0b474c50b286b541^74995a50b286b541^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Users/todd/Desktop/HelloClass/HelloClass/main.m0000000000000000^2598"CompileC build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/main.o HelloClass/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/todd/Desktop/HelloClass    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-generated-files.hmap -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-own-target-headers.hmap -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-all-target-headers.hmap -iquote /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-project-headers.hmap -I/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/DerivedSources/i386 -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/DerivedSources -F/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloClass-Prefix-bynjnqdqzuzhfbctxmtfzwcptzvx/HelloClass-Prefix.pch -MMD -MT dependencies -MF /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/main.d -c /Users/todd/Desktop/HelloClass/HelloClass/main.m -o /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/main.o36"8DDE4648-9FC0-435A-A6BA-CDBE68F4DE40-
+
+CCompileStoryboard /Users/todd/Desktop/HelloClass/HelloClass/en.lproj/MainStoryboard.storyboard
+s361149673.518638
+e361149673.786622
+r1
+xCompileStoryboard
+x/Users/todd/Desktop/HelloClass/HelloClass/en.lproj/MainStoryboard.storyboard
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard HelloClass/en.lproj/MainStoryboard.storyboard1bda84e9b486b541^0762c9e9b486b541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/todd/Desktop/HelloClass/HelloClass/en.lproj/MainStoryboard.storyboard0000000000000000^724"CompileStoryboard HelloClass/en.lproj/MainStoryboard.storyboard    cd /Users/todd/Desktop/HelloClass    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/en.lproj/MainStoryboard.storyboardc /Users/todd/Desktop/HelloClass/HelloClass/en.lproj/MainStoryboard.storyboard --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"815BF60A-6025-48EA-BDF2-B1210270B6A1-
+
+CCopyStringsFile /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/en.lproj/InfoPlist.strings HelloClass/en.lproj/InfoPlist.strings
+s361149008.606429
+e361149008.612181
+r1
+xCopyStringsFile
+x/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/en.lproj/InfoPlist.strings
+xHelloClass/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy HelloClass/en.lproj/InfoPlist.stringsbc939b50b286b541^5ab89c50b286b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/todd/Desktop/HelloClass/HelloClass/en.lproj/InfoPlist.strings0000000000000000^507"CopyStringsFile build/Debug-iphonesimulator/HelloClass.app/en.lproj/InfoPlist.strings HelloClass/en.lproj/InfoPlist.strings    cd /Users/todd/Desktop/HelloClass    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/en.lproj -- HelloClass/en.lproj/InfoPlist.strings36"050D4FBF-D8A8-42E1-888C-0B1C99470F8F-
+
+CGenerateDSYMFile /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app.dSYM /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/HelloClass
+s361149673.480004
+e361149673.515404
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app.dSYM
+x/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/HelloClass
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Generating /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app.dSYMe0f47ae9b486b541^84f183e9b486b541^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app.dSYM/0000000000000000^487"GenerateDSYMFile build/Debug-iphonesimulator/HelloClass.app.dSYM build/Debug-iphonesimulator/HelloClass.app/HelloClass    cd /Users/todd/Desktop/HelloClass    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/HelloClass -o /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app.dSYM36"C8878E2A-24EE-432F-8370-4317602EDEA3-
+
+CLd /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/HelloClass normal i386
+s361149673.415622
+e361149673.478544
+r1
+xLd
+x/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/HelloClass
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Link /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/HelloClass5b7c6ae9b486b541^5e837ae9b486b541^---0#0#0#--1012"Ld build/Debug-iphonesimulator/HelloClass.app/HelloClass normal i386    cd /Users/todd/Desktop/HelloClass    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator -F/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator -filelist /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/Objects-normal/i386/HelloClass.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/HelloClass36"F408C6B0-F477-4164-8B0A-12395197A4C6-
+
+CProcessInfoPlistFile /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/Info.plist HelloClass/HelloClass-Info.plist
+s361149006.675083
+e361149006.679989
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/Info.plist
+xHelloClass/HelloClass-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process HelloClass/HelloClass-Info.plist3b1cad4eb286b541^ba85ae4eb286b541^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/todd/Desktop/HelloClass/HelloClass/HelloClass-Info.plist0000000000000000^583"ProcessInfoPlistFile build/Debug-iphonesimulator/HelloClass.app/Info.plist HelloClass/HelloClass-Info.plist    cd /Users/todd/Desktop/HelloClass    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloClass/HelloClass-Info.plist -genpkginfo /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app/Info.plist36"0C32C3C9-B658-4474-A7A2-BB16A440AC99-
+
+CProcessPCH /Users/todd/Library/Developer/Xcode/DerivedData/HelloClass-fcrvohhalrtbxbdibstbvlpttqzy/Index/PrecompiledHeaders/HelloClass-Prefix-cxcywzjcyhhbmoalisvwyjhkbsgj_ast/HelloClass-Prefix.pch.pth HelloClass/HelloClass-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloClass-Prefix-bynjnqdqzuzhfbctxmtfzwcptzvx/HelloClass-Prefix.pch.pth HelloClass/HelloClass-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361149006.682532
+e361149008.292414
+r1
+xProcessPCH
+x/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloClass-Prefix-bynjnqdqzuzhfbctxmtfzwcptzvx/HelloClass-Prefix.pch.pth
+xHelloClass/HelloClass-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile HelloClass/HelloClass-Prefix.pch50e3ae4eb286b541^a1f34a50b286b541^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/todd/Desktop/HelloClass/HelloClass/HelloClass-Prefix.pch0000000000000000^2643"ProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloClass-Prefix-bynjnqdqzuzhfbctxmtfzwcptzvx/HelloClass-Prefix.pch.pth HelloClass/HelloClass-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/todd/Desktop/HelloClass    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-generated-files.hmap -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-own-target-headers.hmap -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-all-target-headers.hmap -iquote /Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/HelloClass-project-headers.hmap -I/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/DerivedSources/i386 -I/Users/todd/Desktop/HelloClass/build/HelloClass.build/Debug-iphonesimulator/HelloClass.build/DerivedSources -F/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator -c /Users/todd/Desktop/HelloClass/HelloClass/HelloClass-Prefix.pch -o /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloClass-Prefix-bynjnqdqzuzhfbctxmtfzwcptzvx/HelloClass-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloClass-Prefix-bynjnqdqzuzhfbctxmtfzwcptzvx/HelloClass-Prefix.pch.d36"8387A582-AC82-43B6-88BE-341DA0F4504F-
+
+CTouch /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app
+s361149673.791117
+e361149673.808942
+r1
+xTouch
+x/Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Touch /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.appee98cae9b486b541^8718cfe9b486b541^---0#0#0#--314"Touch build/Debug-iphonesimulator/HelloClass.app    cd /Users/todd/Desktop/HelloClass    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/HelloClass/build/Debug-iphonesimulator/HelloClass.app36"A3965AC5-BFE8-4A95-93AC-493C342D0C79-
+

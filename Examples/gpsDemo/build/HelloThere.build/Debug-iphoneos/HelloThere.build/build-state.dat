@@ -1,0 +1,738 @@
+THelloThere
+v7
+r0
+t290959617.708899
+cCheck dependencies
+cCpResource build/Debug-iphoneos/HelloThere.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/Info.plist Info.plist
+cCompileXIB /Users/todd/Desktop/gpsDemo/MainWindow.xib
+cCompileXIB /Users/todd/Desktop/gpsDemo/HelloThereViewController.xib
+cProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-gybomdpwqigblrbuuockmqbswfav/HelloThere_Prefix.pch.gch HelloThere_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/main.o /Users/todd/Desktop/gpsDemo/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereAppDelegate.o /Users/todd/Desktop/gpsDemo/Classes/HelloThereAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereViewController.o /Users/todd/Desktop/gpsDemo/Classes/HelloThereViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/MyCLController.o /Users/todd/Desktop/gpsDemo/Classes/MyCLController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThere normal armv6
+cGenerateDSYMFile /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app.dSYM /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThere
+cProcessProductPackaging "/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision" /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision
+cTouch /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent
+cCodeSign /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk
+c000000004A42FA5A0000000000000110
+t1245903450
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/ResourceRules.plist
+c00000000493E25EF00000000000001E5
+t1228809711
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004967D3CF0000000000215BA0
+t1231541199
+s2186144
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004967D792000000000000FFE0
+t1231542162
+s65504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004967C2530000000000000165
+t1231536723
+s357
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004967D4FC0000000000197700
+t1231541500
+s1668864
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000493E0BE40000000000001355
+t1228803044
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004967C241000000000000067D
+t1231536705
+s1661
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004967D74500000000004724B0
+t1231542085
+s4662448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004A7645DE0000000000000110
+t1249265118
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+c000000004A0BA04000000000000000DD
+t1242275904
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004A1222C30000000000080DA0
+t1242702531
+s527776
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004A0CD38700000000000001AF
+t1242354567
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
+c000000004B6B205C0000000000000110
+t1265311836
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+c000000004A767D3000000000000000DD
+t1249279280
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+c000000004A767D3000000000000001E5
+t1249279280
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004A77B0F20000000000085550
+t1249358066
+s546128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004A77B0ED00000000000001AF
+t1249358061
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7656460000000000001355
+t1249269318
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E9C0000000000000788
+t1249668764
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereAppDelegate.h
+c00000000498AF6C000000000000001EF
+t1233843904
+s495
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereAppDelegate.m
+c00000000498AF6C00000000000000277
+t1233843904
+s631
+i"HelloThereAppDelegate.h"
+i"HelloThereViewController.h"
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereViewController.h
+c00000000498AF6C0000000000000012D
+t1233843904
+s301
+i<UIKit/UIKit.h>
+i"MyCLController.h"
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereViewController.m
+c00000000498AF6C00000000000000253
+t1233843904
+s595
+i"HelloThereViewController.h"
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/MyCLController.h
+c00000000498AF6C00000000000000287
+t1233843904
+s647
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/MyCLController.m
+c00000000498AF6C000000000000002E4
+t1233843904
+s740
+i"MyCLController.h"
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/HelloThereViewController.xib
+c00000000498AF6C00000000000001F06
+t1233843904
+s7942
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/HelloThere_Prefix.pch
+c00000000498AF6C00000000000000080
+t1233843904
+s128
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/MainWindow.xib
+c00000000498AF6C000000000000021E0
+t1233843904
+s8672
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app
+t1258407633
+s374
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app.dSYM
+t1258407631
+s102
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/HelloThere
+t1258407631
+s28160
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/HelloThereViewController.nib
+t1258407627
+s1792
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/Info.plist
+t1258407626
+s638
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/MainWindow.nib
+t1258407627
+s1501
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/PkgInfo
+t1258407626
+s8
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/ResourceRules.plist
+t1258407626
+s485
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision
+t1258407631
+s7162
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent
+t1258407631
+s323
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThere.LinkFileList
+c000000004B01C6CA000000000000023F
+t1258407626
+s575
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereAppDelegate.o
+t1258407630
+s40716
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereViewController.o
+t1258407630
+s35684
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/MyCLController.o
+t1258407630
+s15496
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/main.o
+t1258407630
+s6560
+
+N/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/main.m
+c00000000498AF6C0000000000000016A
+t1233843904
+s362
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/gpsDemo/Classes/HelloThereAppDelegate.h
+c00000000498AF6C000000000000001EF
+t1233843904
+s495
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/gpsDemo/Classes/HelloThereAppDelegate.m
+c00000000498AF6C00000000000000277
+t1233843904
+s631
+i"HelloThereAppDelegate.h"
+i"HelloThereViewController.h"
+
+N/Users/todd/Desktop/gpsDemo/Classes/HelloThereViewController.h
+c00000000498AF6C0000000000000012D
+t1233843904
+s301
+i<UIKit/UIKit.h>
+i"MyCLController.h"
+
+N/Users/todd/Desktop/gpsDemo/Classes/HelloThereViewController.m
+c00000000498AF6C00000000000000253
+t1233843904
+s595
+i"HelloThereViewController.h"
+
+N/Users/todd/Desktop/gpsDemo/Classes/MyCLController.h
+c00000000498AF6C00000000000000287
+t1233843904
+s647
+
+N/Users/todd/Desktop/gpsDemo/Classes/MyCLController.m
+c00000000498AF6C000000000000002E4
+t1233843904
+s740
+i"MyCLController.h"
+
+N/Users/todd/Desktop/gpsDemo/HelloThereViewController.xib
+c00000000498AF6C00000000000001F06
+t1233843904
+s7942
+
+N/Users/todd/Desktop/gpsDemo/HelloThere_Prefix.pch
+c00000000498AF6C00000000000000080
+t1233843904
+s128
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/todd/Desktop/gpsDemo/MainWindow.xib
+c00000000498AF6C000000000000021E0
+t1233843904
+s8672
+
+N/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app
+t1269266817
+s374
+
+N/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app.dSYM
+t1269266816
+s102
+
+N/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThere
+t1269266816
+s28304
+
+N/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThereViewController.nib
+t1258407627
+s1792
+
+N/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/Info.plist
+t1258407626
+s638
+
+N/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/MainWindow.nib
+t1258407627
+s1501
+
+N/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/PkgInfo
+t1258407626
+s8
+
+N/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/ResourceRules.plist
+t1258407626
+s485
+
+N/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision
+t1269266816
+s43740
+
+N/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent
+t1258407631
+s323
+
+N/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThere.LinkFileList
+c000000004BA7797E00000000000001EB
+t1269266814
+s491
+
+N/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereAppDelegate.o
+t1269266815
+s41000
+
+N/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereViewController.o
+t1269266815
+s35824
+
+N/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/MyCLController.o
+t1269266816
+s15452
+
+N/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/main.o
+t1269266815
+s6520
+
+N/Users/todd/Desktop/gpsDemo/main.m
+c00000000498AF6C0000000000000016A
+t1233843904
+s362
+i<UIKit/UIKit.h>
+
+N/Users/todd/Library/MobileDevice/Provisioning Profiles/3BED4CFA-AE18-42CC-87F0-4E87BE50272D.mobileprovision
+c000000004ABA74670000000000001BFA
+t1253733479
+s7162
+
+N/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision
+c000000004B951CF3000000000000AADC
+t1268063475
+s43740
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-fnupfadruufejrblmfnrozsbkihb/HelloThere_Prefix.pch.gch
+t1258407630
+s7872836
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-glwamflvoqqrtkelhksnllfzsgjq/HelloThere_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-gybomdpwqigblrbuuockmqbswfav/HelloThere_Prefix.pch.gch
+t1269266815
+s7922044
+
+NInfo.plist
+c00000000498AF6C00000000000000386
+t1233843904
+s902
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290959614#290959614#0(0"0(0#1#0"4300885448#0"0#
+
+CCodeSign /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app
+s280100431.646208
+e280100433.102765
+r1
+xCodeSign
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app
+lSLF07#2@44"CodeSign build/Debug-iphoneos/HelloThere.app280100431#280100433#0(0"0(0#0#84"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app4300882208#701"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Todd Sproull (9YMN2YD9F6)" --resource-rules=/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/ResourceRules.plist --entitlements /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app0#
+
+CCodeSign /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app
+s290959616.780942
+e290959617.708841
+r1
+xCodeSign
+x/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app
+lSLF07#2@44"CodeSign build/Debug-iphoneos/HelloThere.app290959616#290959617#0(0"0(0#0#63"/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app4300885448#617"    cd /Users/todd/Desktop/gpsDemo    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Todd Sproull (9YMN2YD9F6)" --resource-rules=/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/ResourceRules.plist --entitlements /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app0#
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereAppDelegate.o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereAppDelegate.o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s280100430.301924
+e280100430.687761
+r1
+xCompileC
+xbuild/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereAppDelegate.o
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereAppDelegate.m280100430#280100430#0(0"0(0#0#80"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereAppDelegate.m4300882208#1936"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-generated-files.hmap -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-own-target-headers.hmap -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-all-target-headers.hmap -iquote /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-project-headers.hmap -F/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/include -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources/armv6 -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-fnupfadruufejrblmfnrozsbkihb/HelloThere_Prefix.pch -c /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereAppDelegate.m -o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereAppDelegate.o0#
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereAppDelegate.o /Users/todd/Desktop/gpsDemo/Classes/HelloThereAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290959615.772174
+e290959615.915172
+r1
+xCompileC
+xbuild/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereAppDelegate.o
+x/Users/todd/Desktop/gpsDemo/Classes/HelloThereAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/todd/Desktop/gpsDemo/Classes/HelloThereAppDelegate.m290959615#290959616#0(0"0(0#0#59"/Users/todd/Desktop/gpsDemo/Classes/HelloThereAppDelegate.m4300885448#1705"    cd /Users/todd/Desktop/gpsDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-generated-files.hmap -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-own-target-headers.hmap -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-all-target-headers.hmap -iquote /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-project-headers.hmap -F/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos -I/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/include -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources/armv6 -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-gybomdpwqigblrbuuockmqbswfav/HelloThere_Prefix.pch -c /Users/todd/Desktop/gpsDemo/Classes/HelloThereAppDelegate.m -o /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereAppDelegate.o0#
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereViewController.o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereViewController.o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s280100430.652105
+e280100430.789242
+r1
+xCompileC
+xbuild/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereViewController.o
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereViewController.m280100430#280100430#0(0"0(0#0#83"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereViewController.m4300882208#1942"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-generated-files.hmap -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-own-target-headers.hmap -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-all-target-headers.hmap -iquote /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-project-headers.hmap -F/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/include -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources/armv6 -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-fnupfadruufejrblmfnrozsbkihb/HelloThere_Prefix.pch -c /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/HelloThereViewController.m -o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereViewController.o0#
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereViewController.o /Users/todd/Desktop/gpsDemo/Classes/HelloThereViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290959615.876898
+e290959615.999786
+r1
+xCompileC
+xbuild/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereViewController.o
+x/Users/todd/Desktop/gpsDemo/Classes/HelloThereViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/todd/Desktop/gpsDemo/Classes/HelloThereViewController.m290959615#290959616#0(0"0(0#0#62"/Users/todd/Desktop/gpsDemo/Classes/HelloThereViewController.m4300885448#1711"    cd /Users/todd/Desktop/gpsDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-generated-files.hmap -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-own-target-headers.hmap -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-all-target-headers.hmap -iquote /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-project-headers.hmap -F/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos -I/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/include -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources/armv6 -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-gybomdpwqigblrbuuockmqbswfav/HelloThere_Prefix.pch -c /Users/todd/Desktop/gpsDemo/Classes/HelloThereViewController.m -o /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThereViewController.o0#
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/MyCLController.o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/MyCLController.m normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/MyCLController.o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/MyCLController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s280100430.687893
+e280100430.794785
+r1
+xCompileC
+xbuild/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/MyCLController.o
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/MyCLController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/MyCLController.m280100430#280100430#0(0"0(0#0#73"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/MyCLController.m4300882208#1922"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-generated-files.hmap -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-own-target-headers.hmap -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-all-target-headers.hmap -iquote /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-project-headers.hmap -F/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/include -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources/armv6 -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-fnupfadruufejrblmfnrozsbkihb/HelloThere_Prefix.pch -c /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Classes/MyCLController.m -o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/MyCLController.o0#
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/MyCLController.o /Users/todd/Desktop/gpsDemo/Classes/MyCLController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290959615.915304
+e290959616.016751
+r1
+xCompileC
+xbuild/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/MyCLController.o
+x/Users/todd/Desktop/gpsDemo/Classes/MyCLController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/todd/Desktop/gpsDemo/Classes/MyCLController.m290959615#290959616#0(0"0(0#0#52"/Users/todd/Desktop/gpsDemo/Classes/MyCLController.m4300885448#1691"    cd /Users/todd/Desktop/gpsDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-generated-files.hmap -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-own-target-headers.hmap -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-all-target-headers.hmap -iquote /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-project-headers.hmap -F/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos -I/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/include -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources/armv6 -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-gybomdpwqigblrbuuockmqbswfav/HelloThere_Prefix.pch -c /Users/todd/Desktop/gpsDemo/Classes/MyCLController.m -o /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/MyCLController.o0#
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/main.o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/main.m normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/main.o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s280100430.300417
+e280100430.651985
+r1
+xCompileC
+xbuild/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/main.o
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/main.m280100430#280100430#0(0"0(0#0#55"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/main.m4300882208#1894"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-generated-files.hmap -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-own-target-headers.hmap -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-all-target-headers.hmap -iquote /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-project-headers.hmap -F/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/include -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources/armv6 -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-fnupfadruufejrblmfnrozsbkihb/HelloThere_Prefix.pch -c /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/main.m -o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/main.o /Users/todd/Desktop/gpsDemo/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290959615.770655
+e290959615.876404
+r1
+xCompileC
+xbuild/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/main.o
+x/Users/todd/Desktop/gpsDemo/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/todd/Desktop/gpsDemo/main.m290959615#290959616#0(0"0(0#0#34"/Users/todd/Desktop/gpsDemo/main.m4300885448#1663"    cd /Users/todd/Desktop/gpsDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-generated-files.hmap -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-own-target-headers.hmap -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-all-target-headers.hmap -iquote /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-project-headers.hmap -F/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos -I/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/include -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources/armv6 -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-gybomdpwqigblrbuuockmqbswfav/HelloThere_Prefix.pch -c /Users/todd/Desktop/gpsDemo/main.m -o /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/HelloThereViewController.xib
+s280100426.797263
+e280100427.612598
+r1
+xCompileXIB
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/HelloThereViewController.xib
+lSLF07#2@39"CompileXIB HelloThereViewController.xib280100426#280100427#0(0"0(0#0#77"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/HelloThereViewController.xib4300882208#527"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/HelloThereViewController.nib /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/HelloThereViewController.xib0#
+
+CCompileXIB /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/MainWindow.xib
+s280100426.796158
+e280100427.576748
+r1
+xCompileXIB
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib280100426#280100427#0(0"0(0#0#63"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/MainWindow.xib4300882208#499"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/MainWindow.nib /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/MainWindow.xib0#
+
+CCompileXIB /Users/todd/Desktop/gpsDemo/HelloThereViewController.xib
+r0
+
+CCompileXIB /Users/todd/Desktop/gpsDemo/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphoneos/HelloThere.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/HelloThere.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+s280100426.649905
+e280100426.796055
+r1
+xCpResource
+xbuild/Debug-iphoneos/HelloThere.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist280100426#280100426#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist7810779306051726336#503"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app0#
+
+CCpResource build/Debug-iphoneos/HelloThere.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app.dSYM /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/HelloThere
+s280100431.530770
+e280100431.605803
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app.dSYM
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/HelloThere
+lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/HelloThere.app.dSYM build/Debug-iphoneos/HelloThere.app/HelloThere280100431#280100431#0(0"0(0#0#95"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/HelloThere4300882208#401"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/HelloThere -o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app.dSYM0#
+
+CGenerateDSYMFile /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app.dSYM /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThere
+s290959616.664141
+e290959616.731461
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app.dSYM
+x/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThere
+lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/HelloThere.app.dSYM build/Debug-iphoneos/HelloThere.app/HelloThere290959616#290959616#0(0"0(0#0#74"/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThere4300885448#338"    cd /Users/todd/Desktop/gpsDemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThere -o /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app.dSYM0#
+
+CLd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/HelloThere normal armv6
+s280100430.795032
+e280100431.530642
+r1
+xLd
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/HelloThere
+xnormal
+xarmv6
+lSLF07#2@100"Link /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/HelloThere280100430#280100431#0(0"0(0#0#0"4300882208#978"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -L/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos -F/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos -filelist /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThere.LinkFileList -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/HelloThere0#
+
+CLd /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThere normal armv6
+s290959616.016869
+e290959616.663959
+r1
+xLd
+x/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThere
+xnormal
+xarmv6
+lSLF07#2@79"Link /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThere290959616#290959616#0(0"0(0#0#0"4300885448#873"    cd /Users/todd/Desktop/gpsDemo    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -L/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos -F/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos -filelist /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/Objects-normal/armv6/HelloThere.LinkFileList -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/HelloThere0#
+
+CProcessInfoPlistFile /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/Info.plist Info.plist
+s280100426.651861
+e280100426.707525
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist280100426#280100426#0(0"0(0#0#59"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/Info.plist4300882208#603"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/ResourceRules.plist -o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-fnupfadruufejrblmfnrozsbkihb/HelloThere_Prefix.pch.gch HelloThere_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s280100427.612770
+e280100430.300208
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-fnupfadruufejrblmfnrozsbkihb/HelloThere_Prefix.pch.gch
+xHelloThere_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloThere_Prefix.pch280100427#280100430#0(0"0(0#0#70"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/HelloThere_Prefix.pch4300882208#1779"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-generated-files.hmap -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-own-target-headers.hmap -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-all-target-headers.hmap -iquote /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-project-headers.hmap -F/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/include -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources/armv6 -I/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources -c /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/HelloThere_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-fnupfadruufejrblmfnrozsbkihb/HelloThere_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-glwamflvoqqrtkelhksnllfzsgjq/HelloThere_Prefix.pch.gch HelloThere_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-gybomdpwqigblrbuuockmqbswfav/HelloThere_Prefix.pch.gch HelloThere_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290959614.571123
+e290959615.770506
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-gybomdpwqigblrbuuockmqbswfav/HelloThere_Prefix.pch.gch
+xHelloThere_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloThere_Prefix.pch290959614#290959616#0(0"0(0#0#49"/Users/todd/Desktop/gpsDemo/HelloThere_Prefix.pch4300885448#1569"    cd /Users/todd/Desktop/gpsDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-generated-files.hmap -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-own-target-headers.hmap -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-all-target-headers.hmap -iquote /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere-project-headers.hmap -F/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos -I/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/include -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources/armv6 -I/Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/DerivedSources -c /Users/todd/Desktop/gpsDemo/HelloThere_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloThere_Prefix-gybomdpwqigblrbuuockmqbswfav/HelloThere_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/todd/Library/MobileDevice/Provisioning Profiles/3BED4CFA-AE18-42CC-87F0-4E87BE50272D.mobileprovision" /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision
+s280100431.606011
+e280100431.607801
+r1
+xProcessProductPackaging
+x/Users/todd/Library/MobileDevice/Provisioning Profiles/3BED4CFA-AE18-42CC-87F0-4E87BE50272D.mobileprovision
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision
+lSLF07#2@194"ProcessProductPackaging "/Users/todd/Library/MobileDevice/Provisioning Profiles/3BED4CFA-AE18-42CC-87F0-4E87BE50272D.mobileprovision" build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision280100431#280100431#0(0"0(0#0#109"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision4300882208#445"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/todd/Library/MobileDevice/Provisioning Profiles/3BED4CFA-AE18-42CC-87F0-4E87BE50272D.mobileprovision" -o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision" /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision
+s290959616.731600
+e290959616.774628
+r1
+xProcessProductPackaging
+x/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision
+x/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision
+lSLF07#2@194"ProcessProductPackaging "/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision" build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision290959616#290959616#0(0"0(0#0#88"/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision4300885448#403"    cd /Users/todd/Desktop/gpsDemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision" -o /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.2.1.sdk/Entitlements.plist /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent
+s280100431.612626
+e280100431.646103
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent
+lSLF07#2@184"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent280100431#280100431#0(0"0(0#0#120"/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent4300882208#461"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/todd/Desktop/gpsDemo/build/HelloThere.build/Debug-iphoneos/HelloThere.build/HelloThere.xcent
+r0
+
+CTouch /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app
+s280100431.607928
+e280100431.612500
+r1
+xTouch
+x/Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app
+lSLF07#2@90"Touch /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app280100431#280100431#0(0"0(0#0#0"4300882208#287"    cd /Users/todd/Desktop/dcgrigsby-hellothere-785b46b    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/dcgrigsby-hellothere-785b46b/build/Debug-iphoneos/HelloThere.app0#
+
+CTouch /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app
+s290959616.774742
+e290959616.780772
+r1
+xTouch
+x/Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app
+lSLF07#2@69"Touch /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app290959616#290959616#0(0"0(0#0#0"4300885448#245"    cd /Users/todd/Desktop/gpsDemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/gpsDemo/build/Debug-iphoneos/HelloThere.app0#
+

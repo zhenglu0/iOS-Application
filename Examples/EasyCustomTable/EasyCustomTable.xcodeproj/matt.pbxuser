@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* EasyCustomTableAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1078, 879}}";
+			sepNavSelRange = "{490, 0}";
+			sepNavVisRange = "{0, 515}";
+			sepNavWindowFrame = "{{15, 93}, {1125, 930}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* EasyCustomTableAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1078, 879}}";
+			sepNavSelRange = "{225, 0}";
+			sepNavVisRange = "{0, 654}";
+			sepNavWindowFrame = "{{15, 93}, {1125, 930}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* EasyCustomTable */ = {
+		activeExec = 0;
+		executables = (
+			C90225180FA5C3B600BE3D08 /* EasyCustomTable */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C90225180FA5C3B600BE3D08 /* EasyCustomTable */;
+		activeSDKPreference = iphonesimulator2.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* EasyCustomTable */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* EasyCustomTable */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = C90225220FA5C3D500BE3D08 /* Code sense */;
+		executables = (
+			C90225180FA5C3B600BE3D08 /* EasyCustomTable */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					349,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 264127295;
+			PBXWorkspaceStateSaveDate = 264127295;
+		};
+		perUserProjectItems = {
+			C940AB990FBE43E800E99105 /* PBXTextBookmark */ = C940AB990FBE43E800E99105 /* PBXTextBookmark */;
+			C940ABA50FBE443600E99105 /* PBXTextBookmark */ = C940ABA50FBE443600E99105 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C90225210FA5C3D500BE3D08 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C90225180FA5C3B600BE3D08 /* EasyCustomTable */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = EasyCustomTable;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	C90225210FA5C3D500BE3D08 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C90225220FA5C3D500BE3D08 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C902252C0FA5CC1700BE3D08 /* EasyCustomTableController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1078, 856}}";
+			sepNavSelRange = "{417, 0}";
+			sepNavVisRange = "{0, 430}";
+			sepNavWindowFrame = "{{15, 93}, {1125, 930}}";
+		};
+	};
+	C902252D0FA5CC1700BE3D08 /* EasyCustomTableController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {733, 3710}}";
+			sepNavSelRange = "{5437, 0}";
+			sepNavVisRange = "{3151, 2105}";
+			sepNavWindowFrame = "{{300, 73}, {689, 955}}";
+		};
+	};
+	C940AB990FBE43E800E99105 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C902252D0FA5CC1700BE3D08 /* EasyCustomTableController.m */;
+		name = "EasyCustomTableController.m: 49";
+		rLen = 0;
+		rLoc = 1310;
+		rType = 0;
+		vrLen = 1836;
+		vrLoc = 0;
+	};
+	C940ABA50FBE443600E99105 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C902252D0FA5CC1700BE3D08 /* EasyCustomTableController.m */;
+		name = "EasyCustomTableController.m: 193";
+		rLen = 0;
+		rLoc = 5437;
+		rType = 0;
+		vrLen = 2105;
+		vrLoc = 3151;
+	};
+}

@@ -1,0 +1,257 @@
+TScroll
+v7
+r0
+t290312186.344149
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Info.plist Info.plist
+cCompileXIB /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Scroll.app/2.jpg 2.jpg
+cCpResource build/Debug-iphonesimulator/Scroll.app/1.jpg 1.jpg
+cProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Scroll_Prefix-akyezyderzynhiawsqqfrinochyq/Scroll_Prefix.pch.gch Scroll_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/main.o /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/ScrollAppDelegate.o /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Classes/ScrollAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Scroll normal i386
+cGenerateDSYMFile /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app.dSYM /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Scroll
+cTouch /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004B6B206300000000000000EE
+t1265311843
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/1.jpg
+c0000000049EE3D6F000000000008352B
+t1240350063
+s537899
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/2.jpg
+c0000000049EE3D6F0000000000083FFD
+t1240350063
+s540669
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/3.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Classes/ScrollAppDelegate.h
+c0000000049F79720000000000000012D
+t1240962848
+s301
+i<UIKit/UIKit.h>
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Classes/ScrollAppDelegate.m
+c000000004B9D98700000000000000884
+t1268619376
+s2180
+i"ScrollAppDelegate.h"
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/MainWindow.xib
+c0000000049EE3D6F0000000000001CF6
+t1240350063
+s7414
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Scroll_Prefix.pch
+c0000000049EE3D6F00000000000000B5
+t1240350063
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app
+t1268619386
+s272
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app.dSYM
+t1268619386
+s102
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/1.jpg
+t1268619376
+s537899
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/2.jpg
+t1268619377
+s540669
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/3.jpg
+t2
+s0
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Info.plist
+t1268619376
+s553
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/MainWindow.nib
+t1268619380
+s1344
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/PkgInfo
+t1268619376
+s8
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Scroll
+t1268619386
+s19264
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/Scroll.LinkFileList
+c000000004B9D98700000000000000129
+t1268619376
+s297
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/ScrollAppDelegate.o
+t1268619385
+s26276
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/main.o
+t1268619385
+s5996
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/main.m
+c0000000049EE3D6F000000000000015F
+t1240350063
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Scroll_Prefix-akyezyderzynhiawsqqfrinochyq/Scroll_Prefix.pch.gch
+t1268619384
+s12957072
+
+NInfo.plist
+c0000000049EE3D6F0000000000000381
+t1240350063
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290312176#290312176#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/ScrollAppDelegate.o /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Classes/ScrollAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290312185.013137
+e290312185.239588
+r1
+xCompileC
+xbuild/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/ScrollAppDelegate.o
+x/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Classes/ScrollAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Classes/ScrollAppDelegate.m290312185#290312185#0(0"0(0#0#88"/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Classes/ScrollAppDelegate.m4300885448#2113"    cd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-generated-files.hmap -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-own-target-headers.hmap -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-all-target-headers.hmap -iquote /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-project-headers.hmap -F/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/include -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/DerivedSources/i386 -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Scroll_Prefix-akyezyderzynhiawsqqfrinochyq/Scroll_Prefix.pch -c /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Classes/ScrollAppDelegate.m -o /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/ScrollAppDelegate.o0#
+
+CCompileC build/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/main.o /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290312184.973924
+e290312185.238688
+r1
+xCompileC
+xbuild/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/main.o
+x/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/main.m290312184#290312185#0(0"0(0#0#67"/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/main.m4300885448#2079"    cd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-generated-files.hmap -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-own-target-headers.hmap -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-all-target-headers.hmap -iquote /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-project-headers.hmap -F/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/include -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/DerivedSources/i386 -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Scroll_Prefix-akyezyderzynhiawsqqfrinochyq/Scroll_Prefix.pch -c /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/main.m -o /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/MainWindow.xib
+s290312176.827513
+e290312180.721750
+r1
+xCompileXIB
+x/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290312176#290312180#0(0"0(0#0#75"/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/MainWindow.xib4300885448#545"    cd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/MainWindow.nib /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/Scroll.app/1.jpg 1.jpg
+s290312176.883797
+e290312177.366137
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Scroll.app/1.jpg
+x1.jpg
+lSLF07#2@10"Copy 1.jpg290312176#290312177#0(0"0(0#0#66"/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/1.jpg4300885448#514"    cd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/1.jpg /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Scroll.app/2.jpg 2.jpg
+s290312176.881589
+e290312178.391994
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Scroll.app/2.jpg
+x2.jpg
+lSLF07#2@10"Copy 2.jpg290312176#290312178#0(0"0(0#0#66"/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/2.jpg4300885448#514"    cd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/2.jpg /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Scroll.app/3.jpg 3.jpg
+r0
+
+CGenerateDSYMFile /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app.dSYM /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Scroll
+s290312186.114813
+e290312186.295210
+r1
+xGenerateDSYMFile
+x/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app.dSYM
+x/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Scroll
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Scroll.app.dSYM build/Debug-iphonesimulator/Scroll.app/Scroll290312186#290312186#0(0"0(0#0#106"/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Scroll4300885448#446"    cd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Scroll -o /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app.dSYM0#
+
+CLd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Scroll normal i386
+s290312185.240396
+e290312186.114692
+r1
+xLd
+x/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Scroll
+xnormal
+xi386
+lSLF07#2@111"Link /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Scroll290312185#290312186#0(0"0(0#0#0"4300885448#967"    cd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator -F/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator -filelist /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Objects-normal/i386/Scroll.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Scroll0#
+
+CProcessInfoPlistFile /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Info.plist Info.plist
+s290312176.720257
+e290312176.827399
+r1
+xProcessInfoPlistFile
+x/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist290312176#290312176#0(0"0(0#0#71"/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Info.plist4300885448#535"    cd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app/Info.plist0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Scroll_Prefix-akyezyderzynhiawsqqfrinochyq/Scroll_Prefix.pch.gch Scroll_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290312180.722059
+e290312184.973557
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Scroll_Prefix-akyezyderzynhiawsqqfrinochyq/Scroll_Prefix.pch.gch
+xScroll_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Scroll_Prefix.pch290312180#290312184#0(0"0(0#0#78"/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Scroll_Prefix.pch4300885448#1950"    cd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-generated-files.hmap -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-own-target-headers.hmap -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-all-target-headers.hmap -iquote /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/Scroll-project-headers.hmap -F/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/include -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/DerivedSources/i386 -I/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Scroll.build/Debug-iphonesimulator/Scroll.build/DerivedSources -c /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/Scroll_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Scroll_Prefix-akyezyderzynhiawsqqfrinochyq/Scroll_Prefix.pch.gch0#
+
+CTouch /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app
+s290312186.295465
+e290312186.344087
+r1
+xTouch
+x/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app
+lSLF07#2@105"Touch /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app290312186#290312186#0(0"0(0#0#0"4300885448#321"    cd /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug-iphonesimulator/Scroll.app0#
+

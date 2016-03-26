@@ -1,0 +1,51 @@
+TMyTableView
+v7
+r1
+
+N/Users/todd/Desktop/MySQLiteTableView/MainWindow.xib
+c000000004A10364E0000000000001D0F
+t1242576462
+s7439
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug/MySQLTableView.app
+t2
+s0
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug/MySQLTableView.app/Contents/Info.plist
+t2
+s0
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug/MySQLTableView.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug/MySQLTableView.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/todd/Desktop/MySQLiteTableView/build/Debug/MySQLTableView.app/Contents/Resources/names.db
+t2
+s0
+
+N/Users/todd/Desktop/MySQLiteTableView/names.db
+c000000004B66FA670000000000001000
+t1265039975
+s4096
+
+NInfo.plist
+c000000004A10364E0000000000000381
+t1242576462
+s897
+
+CCompileXIB /Users/todd/Desktop/MySQLiteTableView/MainWindow.xib
+r0
+
+CCpResource build/Debug/MySQLTableView.app/Contents/Resources/names.db names.db
+r0
+
+CProcessInfoPlistFile /Users/todd/Desktop/MySQLiteTableView/build/Debug/MySQLTableView.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/todd/Desktop/MySQLiteTableView/build/Debug/MySQLTableView.app
+r0
+

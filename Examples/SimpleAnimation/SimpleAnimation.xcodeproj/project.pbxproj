@@ -1,0 +1,281 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5FD2D5FE1430D74E00C2CBE1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FD2D5FD1430D74E00C2CBE1 /* UIKit.framework */; };
+		5FD2D6001430D74E00C2CBE1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FD2D5FF1430D74E00C2CBE1 /* Foundation.framework */; };
+		5FD2D6021430D74E00C2CBE1 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FD2D6011430D74E00C2CBE1 /* CoreGraphics.framework */; };
+		5FD2D6081430D74E00C2CBE1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5FD2D6061430D74E00C2CBE1 /* InfoPlist.strings */; };
+		5FD2D60B1430D74E00C2CBE1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FD2D60A1430D74E00C2CBE1 /* main.m */; };
+		5FD2D60E1430D74E00C2CBE1 /* SimpleAnimationAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FD2D60D1430D74E00C2CBE1 /* SimpleAnimationAppDelegate.m */; };
+		5FD2D6111430D74E00C2CBE1 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5FD2D60F1430D74E00C2CBE1 /* MainWindow.xib */; };
+		5FD2D6181430D75F00C2CBE1 /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FD2D6171430D75F00C2CBE1 /* green.png */; };
+		5FD2D61B1430D82000C2CBE1 /* Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FD2D61A1430D82000C2CBE1 /* Controller.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5FD2D5F91430D74E00C2CBE1 /* SimpleAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5FD2D5FD1430D74E00C2CBE1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		5FD2D5FF1430D74E00C2CBE1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		5FD2D6011430D74E00C2CBE1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		5FD2D6051430D74E00C2CBE1 /* SimpleAnimation-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SimpleAnimation-Info.plist"; sourceTree = "<group>"; };
+		5FD2D6071430D74E00C2CBE1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5FD2D6091430D74E00C2CBE1 /* SimpleAnimation-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SimpleAnimation-Prefix.pch"; sourceTree = "<group>"; };
+		5FD2D60A1430D74E00C2CBE1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5FD2D60C1430D74E00C2CBE1 /* SimpleAnimationAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimpleAnimationAppDelegate.h; sourceTree = "<group>"; };
+		5FD2D60D1430D74E00C2CBE1 /* SimpleAnimationAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleAnimationAppDelegate.m; sourceTree = "<group>"; };
+		5FD2D6101430D74E00C2CBE1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		5FD2D6171430D75F00C2CBE1 /* green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green.png; sourceTree = "<group>"; };
+		5FD2D6191430D82000C2CBE1 /* Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Controller.h; sourceTree = "<group>"; };
+		5FD2D61A1430D82000C2CBE1 /* Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Controller.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5FD2D5F61430D74E00C2CBE1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5FD2D5FE1430D74E00C2CBE1 /* UIKit.framework in Frameworks */,
+				5FD2D6001430D74E00C2CBE1 /* Foundation.framework in Frameworks */,
+				5FD2D6021430D74E00C2CBE1 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5FD2D5EE1430D74E00C2CBE1 = {
+			isa = PBXGroup;
+			children = (
+				5FD2D6031430D74E00C2CBE1 /* SimpleAnimation */,
+				5FD2D5FC1430D74E00C2CBE1 /* Frameworks */,
+				5FD2D5FA1430D74E00C2CBE1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5FD2D5FA1430D74E00C2CBE1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5FD2D5F91430D74E00C2CBE1 /* SimpleAnimation.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5FD2D5FC1430D74E00C2CBE1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5FD2D5FD1430D74E00C2CBE1 /* UIKit.framework */,
+				5FD2D5FF1430D74E00C2CBE1 /* Foundation.framework */,
+				5FD2D6011430D74E00C2CBE1 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5FD2D6031430D74E00C2CBE1 /* SimpleAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				5FD2D60C1430D74E00C2CBE1 /* SimpleAnimationAppDelegate.h */,
+				5FD2D6171430D75F00C2CBE1 /* green.png */,
+				5FD2D60D1430D74E00C2CBE1 /* SimpleAnimationAppDelegate.m */,
+				5FD2D60F1430D74E00C2CBE1 /* MainWindow.xib */,
+				5FD2D6191430D82000C2CBE1 /* Controller.h */,
+				5FD2D61A1430D82000C2CBE1 /* Controller.m */,
+				5FD2D6041430D74E00C2CBE1 /* Supporting Files */,
+			);
+			path = SimpleAnimation;
+			sourceTree = "<group>";
+		};
+		5FD2D6041430D74E00C2CBE1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5FD2D6051430D74E00C2CBE1 /* SimpleAnimation-Info.plist */,
+				5FD2D6061430D74E00C2CBE1 /* InfoPlist.strings */,
+				5FD2D6091430D74E00C2CBE1 /* SimpleAnimation-Prefix.pch */,
+				5FD2D60A1430D74E00C2CBE1 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5FD2D5F81430D74E00C2CBE1 /* SimpleAnimation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5FD2D6141430D74E00C2CBE1 /* Build configuration list for PBXNativeTarget "SimpleAnimation" */;
+			buildPhases = (
+				5FD2D5F51430D74E00C2CBE1 /* Sources */,
+				5FD2D5F61430D74E00C2CBE1 /* Frameworks */,
+				5FD2D5F71430D74E00C2CBE1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SimpleAnimation;
+			productName = SimpleAnimation;
+			productReference = 5FD2D5F91430D74E00C2CBE1 /* SimpleAnimation.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5FD2D5F01430D74E00C2CBE1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 5FD2D5F31430D74E00C2CBE1 /* Build configuration list for PBXProject "SimpleAnimation" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5FD2D5EE1430D74E00C2CBE1;
+			productRefGroup = 5FD2D5FA1430D74E00C2CBE1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5FD2D5F81430D74E00C2CBE1 /* SimpleAnimation */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5FD2D5F71430D74E00C2CBE1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5FD2D6081430D74E00C2CBE1 /* InfoPlist.strings in Resources */,
+				5FD2D6111430D74E00C2CBE1 /* MainWindow.xib in Resources */,
+				5FD2D6181430D75F00C2CBE1 /* green.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5FD2D5F51430D74E00C2CBE1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5FD2D60B1430D74E00C2CBE1 /* main.m in Sources */,
+				5FD2D60E1430D74E00C2CBE1 /* SimpleAnimationAppDelegate.m in Sources */,
+				5FD2D61B1430D82000C2CBE1 /* Controller.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5FD2D6061430D74E00C2CBE1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5FD2D6071430D74E00C2CBE1 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5FD2D60F1430D74E00C2CBE1 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5FD2D6101430D74E00C2CBE1 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5FD2D6121430D74E00C2CBE1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		5FD2D6131430D74E00C2CBE1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		5FD2D6151430D74E00C2CBE1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimpleAnimation/SimpleAnimation-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "SimpleAnimation/SimpleAnimation-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5FD2D6161430D74E00C2CBE1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SimpleAnimation/SimpleAnimation-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "SimpleAnimation/SimpleAnimation-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5FD2D5F31430D74E00C2CBE1 /* Build configuration list for PBXProject "SimpleAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5FD2D6121430D74E00C2CBE1 /* Debug */,
+				5FD2D6131430D74E00C2CBE1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5FD2D6141430D74E00C2CBE1 /* Build configuration list for PBXNativeTarget "SimpleAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5FD2D6151430D74E00C2CBE1 /* Debug */,
+				5FD2D6161430D74E00C2CBE1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5FD2D5F01430D74E00C2CBE1 /* Project object */;
+}

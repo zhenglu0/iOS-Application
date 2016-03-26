@@ -1,0 +1,90 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* ScrollAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1038.17, 1575}}";
+			sepNavSelRange = "{1812, 0}";
+			sepNavVisRange = "{1066, 825}";
+			sepNavWindowFrame = "{{15, 91}, {1009, 650}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Scroll */ = {
+		activeExec = 0;
+		executables = (
+			ECFA13100FA661FF0015E1BB /* Scroll */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ECFA13100FA661FF0015E1BB /* Scroll */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Scroll */;
+		codeSenseManager = ECFA13180FA6621D0015E1BB /* Code sense */;
+		executables = (
+			ECFA13100FA661FF0015E1BB /* Scroll */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 262562387;
+			PBXWorkspaceStateSaveDate = 262562387;
+		};
+		sourceControlManager = ECFA13170FA6621D0015E1BB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	ECFA13100FA661FF0015E1BB /* Scroll */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Scroll;
+		sourceDirectories = (
+		);
+	};
+	ECFA13170FA6621D0015E1BB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	ECFA13180FA6621D0015E1BB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

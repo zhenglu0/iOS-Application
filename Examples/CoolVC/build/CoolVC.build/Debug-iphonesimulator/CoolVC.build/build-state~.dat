@@ -1,0 +1,240 @@
+TCoolVC
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/Info.plist CoolVC/CoolVC-Info.plist
+cProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoolVC-Prefix-cqqbsxuhwlocusgtzixpnionnepa/CoolVC-Prefix.pch.gch CoolVC/CoolVC-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/main.o /Users/todd/Desktop/CoolVC/CoolVC/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/CoolVCAppDelegate.o /Users/todd/Desktop/CoolVC/CoolVC/CoolVCAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/CoolVC normal i386
+cGenerateDSYMFile /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app.dSYM /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/CoolVC
+cCopyStringsFile /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/en.lproj/InfoPlist.strings CoolVC/en.lproj/InfoPlist.strings
+cCompileXIB /Users/todd/Desktop/CoolVC/CoolVC/en.lproj/MainWindow.xib
+cTouch /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D93ED360000000000000110
+t1301540150
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/todd/Desktop/CoolVC/CoolVC/CoolVC-Prefix.pch
+c000000004E833FE1000000000000013E
+t1317224417
+s318
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/CoolVC/CoolVC/CoolVCAppDelegate.h
+c000000004E8340250000000000000149
+t1317224485
+s329
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/CoolVC/CoolVC/CoolVCAppDelegate.m
+c000000004E83402F00000000000008B1
+t1317224495
+s2225
+i"CoolVCAppDelegate.h"
+
+N/Users/todd/Desktop/CoolVC/CoolVC/en.lproj/InfoPlist.strings
+c000000004E833FE1000000000000002D
+t1317224417
+s45
+
+N/Users/todd/Desktop/CoolVC/CoolVC/en.lproj/MainWindow.xib
+c000000004E833FE100000000000020FB
+t1317224417
+s8443
+
+N/Users/todd/Desktop/CoolVC/CoolVC/main.m
+c000000004E833FE1000000000000015A
+t1317224417
+s346
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/CoolVC.LinkFileList
+c000000004E83402F00000000000000E5
+t1317224495
+s229
+
+N/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/CoolVCAppDelegate.o
+t2
+s0
+
+N/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app
+t2
+s0
+
+N/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app.dSYM
+t2
+s0
+
+N/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/CoolVC
+t2
+s0
+
+N/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/Info.plist
+t2
+s0
+
+N/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/PkgInfo
+t2
+s0
+
+N/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoolVC-Prefix-cqqbsxuhwlocusgtzixpnionnepa/CoolVC-Prefix.pch.gch
+t2
+s0
+
+NCoolVC/CoolVC-Info.plist
+c000000004E833FE100000000000004A6
+t1317224417
+s1190
+
+CBuild AST from /Users/todd/Desktop/CoolVC/CoolVC/CoolVCAppDelegate.m
+r0
+
+CBuild AST from /Users/todd/Desktop/CoolVC/CoolVC/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3a7ab0af7733b441^0d6ce5af7733b441^---0#1#0#--18"Check dependencies
+
+CCompileC build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/CoolVCAppDelegate.o /Users/todd/Desktop/CoolVC/CoolVC/CoolVCAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s338917296.664642
+e338917296.779842
+r1
+xCompileC
+xbuild/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/CoolVCAppDelegate.o
+x/Users/todd/Desktop/CoolVC/CoolVC/CoolVCAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/todd/Desktop/CoolVC/CoolVC/CoolVCAppDelegate.mbc3faab07733b441^f2b5c7b07733b441^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/todd/Desktop/CoolVC/CoolVC/CoolVCAppDelegate.m0000000000000000^1974"CompileC build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/CoolVCAppDelegate.o CoolVC/CoolVCAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/CoolVC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-generated-files.hmap -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-own-target-headers.hmap -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-all-target-headers.hmap -iquote /Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-project-headers.hmap -I/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/DerivedSources/i386 -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/DerivedSources -F/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoolVC-Prefix-cqqbsxuhwlocusgtzixpnionnepa/CoolVC-Prefix.pch -c /Users/todd/Desktop/CoolVC/CoolVC/CoolVCAppDelegate.m -o /Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/CoolVCAppDelegate.o
+
+CCompileC build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/main.o /Users/todd/Desktop/CoolVC/CoolVC/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s338917296.664459
+e338917296.752982
+r1
+xCompileC
+xbuild/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/CoolVC/CoolVC/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Compile /Users/todd/Desktop/CoolVC/CoolVC/main.mb341aab07733b441^81cec0b07733b441^---0#0#0#-19%DVTDocumentLocation2@56"file://localhost/Users/todd/Desktop/CoolVC/CoolVC/main.m0000000000000000^1922"CompileC build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/main.o CoolVC/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/CoolVC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-generated-files.hmap -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-own-target-headers.hmap -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-all-target-headers.hmap -iquote /Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-project-headers.hmap -I/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/DerivedSources/i386 -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/DerivedSources -F/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoolVC-Prefix-cqqbsxuhwlocusgtzixpnionnepa/CoolVC-Prefix.pch -c /Users/todd/Desktop/CoolVC/CoolVC/main.m -o /Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/todd/Desktop/CoolVC/CoolVC/en.lproj/MainWindow.xib
+s338917296.904597
+e338917297.358250
+r1
+xCompileXIB
+x/Users/todd/Desktop/CoolVC/CoolVC/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compiling /Users/todd/Desktop/CoolVC/CoolVC/en.lproj/MainWindow.xibf8a4e7b07733b441^83c35bb17733b441^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/todd/Desktop/CoolVC/CoolVC/en.lproj/MainWindow.xib0000000000000000^609"CompileXIB CoolVC/en.lproj/MainWindow.xib    cd /Users/todd/Desktop/CoolVC    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/en.lproj/MainWindow.nib /Users/todd/Desktop/CoolVC/CoolVC/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/en.lproj/InfoPlist.strings CoolVC/en.lproj/InfoPlist.strings
+s338917296.903883
+e338917296.915255
+r1
+xCopyStringsFile
+x/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/en.lproj/InfoPlist.strings
+xCoolVC/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy CoolVC/en.lproj/InfoPlist.stringsff78e7b07733b441^6a69eab07733b441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/todd/Desktop/CoolVC/CoolVC/en.lproj/InfoPlist.strings0000000000000000^483"CopyStringsFile build/Debug-iphonesimulator/CoolVC.app/en.lproj/InfoPlist.strings CoolVC/en.lproj/InfoPlist.strings    cd /Users/todd/Desktop/CoolVC    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/en.lproj -- CoolVC/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app.dSYM /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/CoolVC
+s338917296.849534
+e338917296.901399
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app.dSYM
+x/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/CoolVC
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Generating /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app.dSYMc2c2d9b07733b441^2504e7b07733b441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app.dSYM0000204d2e05f041^451"GenerateDSYMFile build/Debug-iphonesimulator/CoolVC.app.dSYM build/Debug-iphonesimulator/CoolVC.app/CoolVC    cd /Users/todd/Desktop/CoolVC    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/CoolVC -o /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app.dSYM
+
+CLd /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/CoolVC normal i386
+s338917296.781182
+e338917296.848331
+r1
+xLd
+x/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/CoolVC
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Link /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/CoolVC7218c8b07733b441^b03bd9b07733b441^---0#0#0#--901"Ld build/Debug-iphonesimulator/CoolVC.app/CoolVC normal i386    cd /Users/todd/Desktop/CoolVC    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator -F/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator -filelist /Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/Objects-normal/i386/CoolVC.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/CoolVC
+
+CProcessInfoPlistFile /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/Info.plist CoolVC/CoolVC-Info.plist
+s338917295.900590
+e338917295.906799
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/Info.plist
+xCoolVC/CoolVC-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Process CoolVC/CoolVC-Info.plist179fe6af7733b441^a62be8af7733b441^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/todd/Desktop/CoolVC/CoolVC/CoolVC-Info.plist0000000000000000^543"ProcessInfoPlistFile build/Debug-iphonesimulator/CoolVC.app/Info.plist CoolVC/CoolVC-Info.plist    cd /Users/todd/Desktop/CoolVC    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CoolVC/CoolVC-Info.plist -genpkginfo /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app/Info.plist
+
+CProcessPCH /Users/todd/Library/Developer/Xcode/DerivedData/CoolVC-hbfihzlvkoqiciggbazlzdxpikad/Index/PrecompiledHeaders/CoolVC-Prefix-elkpaozjhdfrricfrsitcyizjfhu_ast/CoolVC-Prefix.pch.pth CoolVC/CoolVC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoolVC-Prefix-cqqbsxuhwlocusgtzixpnionnepa/CoolVC-Prefix.pch.gch CoolVC/CoolVC-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s338917295.909706
+e338917296.662743
+r1
+xProcessPCH
+x/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoolVC-Prefix-cqqbsxuhwlocusgtzixpnionnepa/CoolVC-Prefix.pch.gch
+xCoolVC/CoolVC-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile CoolVC/CoolVC-Prefix.pch0b45eaaf7733b441^0daaa9b07733b441^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/todd/Desktop/CoolVC/CoolVC/CoolVC-Prefix.pch0000000000000000^1922"ProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoolVC-Prefix-cqqbsxuhwlocusgtzixpnionnepa/CoolVC-Prefix.pch.gch CoolVC/CoolVC-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/CoolVC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-generated-files.hmap -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-own-target-headers.hmap -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-all-target-headers.hmap -iquote /Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/CoolVC-project-headers.hmap -I/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/DerivedSources/i386 -I/Users/todd/Desktop/CoolVC/build/CoolVC.build/Debug-iphonesimulator/CoolVC.build/DerivedSources -F/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator -c /Users/todd/Desktop/CoolVC/CoolVC/CoolVC-Prefix.pch -o /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoolVC-Prefix-cqqbsxuhwlocusgtzixpnionnepa/CoolVC-Prefix.pch.gch
+
+CTouch /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app
+s338917297.360802
+e338917297.379297
+r1
+xTouch
+x/Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Touch /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app156f5cb17733b441^bd1961b17733b441^---0#0#0#--298"Touch build/Debug-iphonesimulator/CoolVC.app    cd /Users/todd/Desktop/CoolVC    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/CoolVC/build/Debug-iphonesimulator/CoolVC.app
+

@@ -1,0 +1,292 @@
+TSimpleAnimation
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/Info.plist SimpleAnimation/SimpleAnimation-Info.plist
+cProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnimation-Prefix-aawunrpbonghmbbygprgvbyhjdcf/SimpleAnimation-Prefix.pch.gch SimpleAnimation/SimpleAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/main.o /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/SimpleAnimationAppDelegate.o /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimationAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/Controller.o /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/Controller.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimation normal i386
+cGenerateDSYMFile /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app.dSYM /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimation
+cCopyStringsFile /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/en.lproj/InfoPlist.strings SimpleAnimation/en.lproj/InfoPlist.strings
+cCompileXIB /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/en.lproj/MainWindow.xib
+cCpResource SimpleAnimation/green.png build/Debug-iphonesimulator/SimpleAnimation.app/green.png
+cTouch /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D93ED360000000000000110
+t1301540150
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/Controller.h
+c000000004E80A1160000000000000135
+t1317052694
+s309
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/Controller.m
+c000000004E80D5CC0000000000000247
+t1317066188
+s583
+i"Controller.h"
+
+N/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimation-Prefix.pch
+c000000004E809FCE0000000000000150
+t1317052366
+s336
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimationAppDelegate.h
+c000000004E809FCE0000000000000141
+t1317052366
+s321
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimationAppDelegate.m
+c000000004E809FCE00000000000008CB
+t1317052366
+s2251
+i"SimpleAnimationAppDelegate.h"
+
+N/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/en.lproj/InfoPlist.strings
+c000000004E809FCE000000000000002D
+t1317052366
+s45
+
+N/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/en.lproj/MainWindow.xib
+c000000004E80A1DA00000000000040CD
+t1317052890
+s16589
+
+N/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/green.png
+c000000004E80915E000000000002C699
+t1317048670
+s181913
+
+N/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/main.m
+c000000004E809FCE0000000000000163
+t1317052366
+s355
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app
+t1317066113
+s238
+
+N/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app.dSYM
+t1317066113
+s102
+
+N/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/Info.plist
+t1317052891
+s818
+
+N/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/PkgInfo
+t1317052891
+s8
+
+N/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimation
+t1317066113
+s17072
+
+N/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/en.lproj/InfoPlist.strings
+t1317052893
+s42
+
+N/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/en.lproj/MainWindow.nib
+t1317052893
+s3331
+
+N/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/green.png
+t1317052893
+s181913
+
+N/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/Controller.o
+t1317066113
+s35004
+
+N/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/SimpleAnimation.LinkFileList
+c000000004E80A1DB00000000000001B1
+t1317052891
+s433
+
+N/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/SimpleAnimationAppDelegate.o
+t1317052892
+s46388
+
+N/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/main.o
+t1317052892
+s3100
+
+N/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnimation-Prefix-aawunrpbonghmbbygprgvbyhjdcf/SimpleAnimation-Prefix.pch.gch
+t1317052892
+s12283312
+
+NSimpleAnimation/SimpleAnimation-Info.plist
+c000000004E809FCE00000000000004A6
+t1317052366
+s1190
+
+CBuild AST from /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/Controller.m
+r0
+
+CBuild AST from /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimationAppDelegate.m
+r0
+
+CBuild AST from /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies93c3fb4e0d31b441^e99a054f0d31b441^---0#1#0#--18"Check dependencies
+
+CCompileC build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/Controller.o /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/Controller.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s338758991.035727
+e338758991.176299
+r1
+xCompileC
+xbuild/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/Controller.o
+x/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/Controller.mb745094f0d31b441^60232d4f0d31b441^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/Controller.m0000000000000000^2261"CompileC build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/Controller.o SimpleAnimation/Controller.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/SimpleAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-generated-files.hmap -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-own-target-headers.hmap -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-all-target-headers.hmap -iquote /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-project-headers.hmap -I/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/DerivedSources/i386 -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/DerivedSources -F/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnimation-Prefix-aawunrpbonghmbbygprgvbyhjdcf/SimpleAnimation-Prefix.pch -c /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/Controller.m -o /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/Controller.o
+
+CCompileC build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/SimpleAnimationAppDelegate.o /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimationAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s338745692.807613
+e338745692.990313
+r1
+xCompileC
+xbuild/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/SimpleAnimationAppDelegate.o
+x/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimationAppDelegate.m1ae0ce5cd930b441^3691fd5cd930b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimationAppDelegate.m0000000000000000^2325"CompileC build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/SimpleAnimationAppDelegate.o SimpleAnimation/SimpleAnimationAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/SimpleAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-generated-files.hmap -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-own-target-headers.hmap -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-all-target-headers.hmap -iquote /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-project-headers.hmap -I/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/DerivedSources/i386 -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/DerivedSources -F/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnimation-Prefix-aawunrpbonghmbbygprgvbyhjdcf/SimpleAnimation-Prefix.pch -c /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimationAppDelegate.m -o /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/SimpleAnimationAppDelegate.o
+
+CCompileC build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/main.o /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s338745692.661041
+e338745692.806397
+r1
+xCompileC
+xbuild/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/main.m8a57a95cd930b441^0680ce5cd930b441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/main.m0000000000000000^2237"CompileC build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/main.o SimpleAnimation/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/SimpleAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-generated-files.hmap -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-own-target-headers.hmap -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-all-target-headers.hmap -iquote /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-project-headers.hmap -I/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/DerivedSources/i386 -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/DerivedSources -F/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnimation-Prefix-aawunrpbonghmbbygprgvbyhjdcf/SimpleAnimation-Prefix.pch -c /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/main.m -o /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/en.lproj/MainWindow.xib
+s338745693.092187
+e338745693.517125
+r1
+xCompileXIB
+x/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compiling /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/en.lproj/MainWindow.xib1db0175dd930b441^3d62845dd930b441^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/en.lproj/MainWindow.xib0000000000000000^663"CompileXIB SimpleAnimation/en.lproj/MainWindow.xib    cd /Users/todd/Desktop/SimpleAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/en.lproj/MainWindow.nib /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/en.lproj/InfoPlist.strings SimpleAnimation/en.lproj/InfoPlist.strings
+s338745693.091379
+e338745693.096401
+r1
+xCopyStringsFile
+x/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/en.lproj/InfoPlist.strings
+xSimpleAnimation/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy SimpleAnimation/en.lproj/InfoPlist.strings5379175dd930b441^28ee185dd930b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/en.lproj/InfoPlist.strings0000000000000000^537"CopyStringsFile build/Debug-iphonesimulator/SimpleAnimation.app/en.lproj/InfoPlist.strings SimpleAnimation/en.lproj/InfoPlist.strings    cd /Users/todd/Desktop/SimpleAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/en.lproj -- SimpleAnimation/en.lproj/InfoPlist.strings
+
+CCpResource SimpleAnimation/green.png build/Debug-iphonesimulator/SimpleAnimation.app/green.png
+s338745693.099565
+e338745693.103165
+r1
+xCpResource
+xSimpleAnimation/green.png
+xbuild/Debug-iphonesimulator/SimpleAnimation.app/green.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/SimpleAnimation.app/green.pngb493195dd930b441^d3681a5dd930b441^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/green.png0000204d2e05f041^514"CpResource SimpleAnimation/green.png build/Debug-iphonesimulator/SimpleAnimation.app/green.png    cd /Users/todd/Desktop/SimpleAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/green.png /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app
+
+CGenerateDSYMFile /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app.dSYM /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimation
+s338758991.248157
+e338758991.294603
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app.dSYM
+x/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimation
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Generating /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app.dSYMff973f4f0d31b441^99ba4b4f0d31b441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app.dSYM/0000000000000000^532"GenerateDSYMFile build/Debug-iphonesimulator/SimpleAnimation.app.dSYM build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimation    cd /Users/todd/Desktop/SimpleAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimation -o /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app.dSYM
+
+CLd /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimation normal i386
+s338758991.177926
+e338758991.246964
+r1
+xLd
+x/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimation
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimationdca12d4f0d31b441^b64b3f4f0d31b441^---0#0#0#--1009"Ld build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimation normal i386    cd /Users/todd/Desktop/SimpleAnimation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator -F/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator -filelist /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/Objects-normal/i386/SimpleAnimation.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/SimpleAnimation
+
+CProcessInfoPlistFile /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/Info.plist SimpleAnimation/SimpleAnimation-Info.plist
+s338745691.805673
+e338745691.812534
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/Info.plist
+xSimpleAnimation/SimpleAnimation-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Process SimpleAnimation/SimpleAnimation-Info.plist2a55ce5bd930b441^8109d05bd930b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimation-Info.plist0000000000000000^633"ProcessInfoPlistFile build/Debug-iphonesimulator/SimpleAnimation.app/Info.plist SimpleAnimation/SimpleAnimation-Info.plist    cd /Users/todd/Desktop/SimpleAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleAnimation/SimpleAnimation-Info.plist -genpkginfo /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app/Info.plist
+
+CProcessPCH /Users/todd/Library/Developer/Xcode/DerivedData/SimpleAnimation-fopgdgkjxuligcezwyqbagzdukyi/Index/PrecompiledHeaders/SimpleAnimation-Prefix-dcdgqgvvneozavahhrqhazfqfcjs_ast/SimpleAnimation-Prefix.pch.pth SimpleAnimation/SimpleAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnimation-Prefix-aawunrpbonghmbbygprgvbyhjdcf/SimpleAnimation-Prefix.pch.gch SimpleAnimation/SimpleAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s338745691.822101
+e338745692.658999
+r1
+xProcessPCH
+x/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnimation-Prefix-aawunrpbonghmbbygprgvbyhjdcf/SimpleAnimation-Prefix.pch.gch
+xSimpleAnimation/SimpleAnimation-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile SimpleAnimation/SimpleAnimation-Prefix.pchff94d25bd930b441^78d4a85cd930b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimation-Prefix.pch0000000000000000^2228"ProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnimation-Prefix-aawunrpbonghmbbygprgvbyhjdcf/SimpleAnimation-Prefix.pch.gch SimpleAnimation/SimpleAnimation-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/SimpleAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-generated-files.hmap -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-own-target-headers.hmap -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-all-target-headers.hmap -iquote /Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/SimpleAnimation-project-headers.hmap -I/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/DerivedSources/i386 -I/Users/todd/Desktop/SimpleAnimation/build/SimpleAnimation.build/Debug-iphonesimulator/SimpleAnimation.build/DerivedSources -F/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator -c /Users/todd/Desktop/SimpleAnimation/SimpleAnimation/SimpleAnimation-Prefix.pch -o /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleAnimation-Prefix-aawunrpbonghmbbygprgvbyhjdcf/SimpleAnimation-Prefix.pch.gch
+
+CTouch /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app
+s338758991.316280
+e338758991.333529
+r1
+xTouch
+x/Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Touch /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.appc807514f0d31b441^fc6f554f0d31b441^---0#0#0#--334"Touch build/Debug-iphonesimulator/SimpleAnimation.app    cd /Users/todd/Desktop/SimpleAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/SimpleAnimation/build/Debug-iphonesimulator/SimpleAnimation.app
+

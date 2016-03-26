@@ -1,0 +1,150 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* AVWSamples */ = {
+		activeExec = 0;
+		executables = (
+			C797DEB00FCCE49B0079A6D1 /* AVWSamples */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C797DEB00FCCE49B0079A6D1 /* AVWSamples */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AVWSamples */;
+		codeSenseManager = C797DECF0FCCE4BC0079A6D1 /* Code sense */;
+		executables = (
+			C797DEB00FCCE49B0079A6D1 /* AVWSamples */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					373,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 265095666;
+			PBXWorkspaceStateSaveDate = 265095666;
+		};
+		perUserProjectItems = {
+			C76897A10FCD9E1D005C78A9 /* PBXTextBookmark */ = C76897A10FCD9E1D005C78A9 /* PBXTextBookmark */;
+			C76897A20FCD9E1D005C78A9 /* PBXTextBookmark */ = C76897A20FCD9E1D005C78A9 /* PBXTextBookmark */;
+			C76897A40FCD9E1D005C78A9 /* PBXTextBookmark */ = C76897A40FCD9E1D005C78A9 /* PBXTextBookmark */;
+			C76897A50FCD9E1D005C78A9 /* PBXTextBookmark */ = C76897A50FCD9E1D005C78A9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C797DECE0FCCE4BC0079A6D1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BED9704A0EE31A740051FE9D /* VideoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 980}}";
+			sepNavSelRange = "{760, 0}";
+			sepNavVisRange = "{599, 956}";
+		};
+	};
+	C76897A10FCD9E1D005C78A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BED9704A0EE31A740051FE9D /* VideoViewController.m */;
+		name = "VideoViewController.m: 30";
+		rLen = 0;
+		rLoc = 760;
+		rType = 0;
+		vrLen = 956;
+		vrLoc = 599;
+	};
+	C76897A20FCD9E1D005C78A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C76897A30FCD9E1D005C78A9 /* UIWebView.h */;
+		rLen = 0;
+		rLoc = 2147483647;
+		rType = 0;
+	};
+	C76897A30FCD9E1D005C78A9 /* UIWebView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIWebView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator2.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {870, 896}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 811}";
+		};
+	};
+	C76897A40FCD9E1D005C78A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BED9704A0EE31A740051FE9D /* VideoViewController.m */;
+		name = "VideoViewController.m: 30";
+		rLen = 0;
+		rLoc = 760;
+		rType = 0;
+		vrLen = 956;
+		vrLoc = 599;
+	};
+	C76897A50FCD9E1D005C78A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C76897A60FCD9E1D005C78A9 /* UIWebView.h */;
+		name = "UIWebView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 0;
+	};
+	C76897A60FCD9E1D005C78A9 /* UIWebView.h */ = {
+		isa = PBXFileReference;
+		name = UIWebView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator2.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h;
+		sourceTree = "<absolute>";
+	};
+	C797DEB00FCCE49B0079A6D1 /* AVWSamples */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AVWSamples;
+		sourceDirectories = (
+		);
+	};
+	C797DECE0FCCE4BC0079A6D1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C797DECF0FCCE4BC0079A6D1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

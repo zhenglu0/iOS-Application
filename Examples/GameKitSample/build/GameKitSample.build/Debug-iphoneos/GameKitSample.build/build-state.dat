@@ -1,0 +1,507 @@
+TGameKitSample
+v7
+r0
+t292775857.767987
+cCheck dependencies
+cCpResource build/Debug-iphoneos/GameKitSample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/Info.plist GameKitSample-Info.plist
+cCompileXIB /Users/todd/Desktop/GameKitSample/MainWindow.xib
+cCompileXIB /Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.xib
+cProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-ckfhaqiqdtxypzaofnezlijhieif/GameKitSample_Prefix.pch.gch GameKitSample_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/main.o /Users/todd/Desktop/GameKitSample/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/GameKitSampleAppDelegate.o /Users/todd/Desktop/GameKitSample/Classes/GameKitSampleAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/CommunalTouchBoard.o /Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/TouchValue.o /Users/todd/Desktop/GameKitSample/Classes/TouchValue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/GameKitSample normal armv6
+cGenerateDSYMFile /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app.dSYM /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/GameKitSample
+cProcessProductPackaging "/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision" /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/embedded.mobileprovision
+cTouch /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent
+cCodeSign /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004B47D28D0000000000000110
+t1262998157
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+c000000004A0BA04000000000000000DD
+t1242275904
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004A12224300000000001243F0
+t1242702403
+s1197040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004A0BC1A10000000000000112
+t1242284449
+s274
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004B2B647A000000000011E6C0
+t1261134970
+s1173184
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004B2B645C0000000000000112
+t1261134940
+s274
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
+c000000004B47C9600000000000000110
+t1262995808
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+c000000004A767D3000000000000000DD
+t1249279280
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+c000000004A767D3000000000000001E5
+t1249279280
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7656460000000000001355
+t1249269318
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004A76671C000000000011E6C0
+t1249273628
+s1173184
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004A76670A0000000000000112
+t1249273610
+s274
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E9C0000000000000788
+t1249668764
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.h
+c000000004B8DD5FD000000000000021B
+t1267586557
+s539
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+
+N/Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.m
+c000000004B8DD5FD0000000000001542
+t1267586557
+s5442
+i"CommunalTouchBoard.h"
+i"TouchValue.h"
+
+N/Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.xib
+c000000004B8DD5FD0000000000004D3A
+t1267586557
+s19770
+
+N/Users/todd/Desktop/GameKitSample/Classes/GameKitSampleAppDelegate.h
+c000000004B8DD5FD0000000000000177
+t1267586557
+s375
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/GameKitSample/Classes/GameKitSampleAppDelegate.m
+c000000004B8DD5FD0000000000000326
+t1267586557
+s806
+i"GameKitSampleAppDelegate.h"
+i"CommunalTouchBoard.h"
+
+N/Users/todd/Desktop/GameKitSample/Classes/TouchValue.h
+c000000004B8DD5FD0000000000000118
+t1267586557
+s280
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/GameKitSample/Classes/TouchValue.m
+c000000004B8DD5FD0000000000000245
+t1267586557
+s581
+i"TouchValue.h"
+
+N/Users/todd/Desktop/GameKitSample/GameKitSample_Prefix.pch
+c000000004B8DD5FD00000000000000C3
+t1267586557
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/GameKitSample/MainWindow.xib
+c000000004B8DD5FD0000000000002126
+t1267586557
+s8486
+
+N/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app
+t1271082983
+s374
+
+N/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app.dSYM
+t1271082983
+s102
+
+N/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/CommunalTouchBoard.nib
+t1271082980
+s2007
+
+N/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/GameKitSample
+t1271082983
+s34944
+
+N/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/Info.plist
+t1271082980
+s707
+
+N/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/MainWindow.nib
+t1271082980
+s1366
+
+N/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/PkgInfo
+t1271082980
+s8
+
+N/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/ResourceRules.plist
+t1271082980
+s485
+
+N/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/embedded.mobileprovision
+t1271082807
+s43740
+
+N/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent
+t1271082983
+s326
+
+N/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/CommunalTouchBoard.o
+t1271082983
+s54860
+
+N/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/GameKitSample.LinkFileList
+c000000004BC32F330000000000000214
+t1271082803
+s532
+
+N/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/GameKitSampleAppDelegate.o
+t1271082982
+s40960
+
+N/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/TouchValue.o
+t1271082982
+s10004
+
+N/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/main.o
+t1271082982
+s6428
+
+N/Users/todd/Desktop/GameKitSample/main.m
+c000000004B8DD5FD0000000000000166
+t1267586557
+s358
+i<UIKit/UIKit.h>
+
+N/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision
+c000000004B951CF3000000000000AADC
+t1268063475
+s43740
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-aawfburnbhylyrdwehiszgsuxrto/GameKitSample_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-ckfhaqiqdtxypzaofnezlijhieif/GameKitSample_Prefix.pch.gch
+t1271082982
+s8339584
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-dzrrbkkoucuvgjemildnzsvwmmnq/GameKitSample_Prefix.pch.gch
+t1271082806
+s8388792
+
+NGameKitSample-Info.plist
+c000000004B8DD5FD000000000000038D
+t1267586557
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292775857#292775857#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app
+s292775783.426093
+e292775783.594213
+r1
+xCodeSign
+x/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app
+lSLF07#2@47"CodeSign build/Debug-iphoneos/GameKitSample.app292775783#292775783#0(0"0(0#0#72"/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app4300911832#677"    cd /Users/todd/Desktop/GameKitSample    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Todd Sproull (9YMN2YD9F6)" --resource-rules=/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/ResourceRules.plist --entitlements /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app0#
+
+CCompileC build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/CommunalTouchBoard.o /Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292775782.843512
+e292775783.007004
+r1
+xCompileC
+xbuild/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/CommunalTouchBoard.o
+x/Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.m292775782#292775783#0(0"0(0#0#62"/Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.m4300911832#1825"    cd /Users/todd/Desktop/GameKitSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-generated-files.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-own-target-headers.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-all-target-headers.hmap -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-project-headers.hmap -F/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos -I/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/include -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources/armv6 -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-ckfhaqiqdtxypzaofnezlijhieif/GameKitSample_Prefix.pch -c /Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.m -o /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/CommunalTouchBoard.o0#
+
+CCompileC build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/GameKitSampleAppDelegate.o /Users/todd/Desktop/GameKitSample/Classes/GameKitSampleAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292775782.729351
+e292775782.916862
+r1
+xCompileC
+xbuild/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/GameKitSampleAppDelegate.o
+x/Users/todd/Desktop/GameKitSample/Classes/GameKitSampleAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/todd/Desktop/GameKitSample/Classes/GameKitSampleAppDelegate.m292775782#292775782#0(0"0(0#0#68"/Users/todd/Desktop/GameKitSample/Classes/GameKitSampleAppDelegate.m4300911832#1837"    cd /Users/todd/Desktop/GameKitSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-generated-files.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-own-target-headers.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-all-target-headers.hmap -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-project-headers.hmap -F/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos -I/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/include -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources/armv6 -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-ckfhaqiqdtxypzaofnezlijhieif/GameKitSample_Prefix.pch -c /Users/todd/Desktop/GameKitSample/Classes/GameKitSampleAppDelegate.m -o /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/GameKitSampleAppDelegate.o0#
+
+CCompileC build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/TouchValue.o /Users/todd/Desktop/GameKitSample/Classes/TouchValue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292775782.916999
+e292775782.996803
+r1
+xCompileC
+xbuild/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/TouchValue.o
+x/Users/todd/Desktop/GameKitSample/Classes/TouchValue.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/todd/Desktop/GameKitSample/Classes/TouchValue.m292775782#292775782#0(0"0(0#0#54"/Users/todd/Desktop/GameKitSample/Classes/TouchValue.m4300911832#1809"    cd /Users/todd/Desktop/GameKitSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-generated-files.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-own-target-headers.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-all-target-headers.hmap -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-project-headers.hmap -F/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos -I/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/include -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources/armv6 -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-ckfhaqiqdtxypzaofnezlijhieif/GameKitSample_Prefix.pch -c /Users/todd/Desktop/GameKitSample/Classes/TouchValue.m -o /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/TouchValue.o0#
+
+CCompileC build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/main.o /Users/todd/Desktop/GameKitSample/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292775782.727356
+e292775782.843364
+r1
+xCompileC
+xbuild/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/main.o
+x/Users/todd/Desktop/GameKitSample/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/todd/Desktop/GameKitSample/main.m292775782#292775782#0(0"0(0#0#40"/Users/todd/Desktop/GameKitSample/main.m4300911832#1789"    cd /Users/todd/Desktop/GameKitSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-generated-files.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-own-target-headers.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-all-target-headers.hmap -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-project-headers.hmap -F/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos -I/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/include -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources/armv6 -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-ckfhaqiqdtxypzaofnezlijhieif/GameKitSample_Prefix.pch -c /Users/todd/Desktop/GameKitSample/main.m -o /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.xib
+s292775780.582039
+e292775780.987618
+r1
+xCompileXIB
+x/Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.xib
+lSLF07#2@41"CompileXIB Classes/CommunalTouchBoard.xib292775780#292775780#0(0"0(0#0#64"/Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.xib4300911832#481"    cd /Users/todd/Desktop/GameKitSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/CommunalTouchBoard.nib /Users/todd/Desktop/GameKitSample/Classes/CommunalTouchBoard.xib0#
+
+CCompileXIB /Users/todd/Desktop/GameKitSample/MainWindow.xib
+s292775780.581230
+e292775780.908904
+r1
+xCompileXIB
+x/Users/todd/Desktop/GameKitSample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292775780#292775780#0(0"0(0#0#48"/Users/todd/Desktop/GameKitSample/MainWindow.xib4300911832#457"    cd /Users/todd/Desktop/GameKitSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/MainWindow.nib /Users/todd/Desktop/GameKitSample/MainWindow.xib0#
+
+CCpResource build/Debug-iphoneos/GameKitSample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+s292775780.546998
+e292775780.580572
+r1
+xCpResource
+xbuild/Debug-iphoneos/GameKitSample.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist292775780#292775780#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist4300911832#476"    cd /Users/todd/Desktop/GameKitSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app0#
+
+CCpResource build/Debug-iphoneos/GameKitSample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/GameKitSample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+s292775603.542477
+e292775603.584323
+r1
+xCpResource
+xbuild/Debug-iphoneos/GameKitSample.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist292775603#292775603#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist4300911832#476"    cd /Users/todd/Desktop/GameKitSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app0#
+
+CGenerateDSYMFile /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app.dSYM /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/GameKitSample
+s292775783.368967
+e292775783.394602
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app.dSYM
+x/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/GameKitSample
+lSLF07#2@113"GenerateDSYMFile build/Debug-iphoneos/GameKitSample.app.dSYM build/Debug-iphoneos/GameKitSample.app/GameKitSample292775783#292775783#0(0"0(0#0#86"/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/GameKitSample4300911832#365"    cd /Users/todd/Desktop/GameKitSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/GameKitSample -o /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app.dSYM0#
+
+CLd /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/GameKitSample normal armv6
+s292775783.007120
+e292775783.368802
+r1
+xLd
+x/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/GameKitSample
+xnormal
+xarmv6
+lSLF07#2@91"Link /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/GameKitSample292775783#292775783#0(0"0(0#0#0"4300911832#846"    cd /Users/todd/Desktop/GameKitSample    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -L/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos -F/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos -filelist /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/Objects-normal/armv6/GameKitSample.LinkFileList -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -o /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/GameKitSample0#
+
+CProcessInfoPlistFile /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/Info.plist GameKitSample-Info.plist
+s292775780.548954
+e292775780.581145
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/Info.plist
+xGameKitSample-Info.plist
+lSLF07#2@32"Process GameKitSample-Info.plist292775780#292775780#0(0"0(0#0#58"/Users/todd/Desktop/GameKitSample/GameKitSample-Info.plist4300911832#566"    cd /Users/todd/Desktop/GameKitSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GameKitSample-Info.plist -genpkginfo /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/ResourceRules.plist -o /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/Info.plist0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-aawfburnbhylyrdwehiszgsuxrto/GameKitSample_Prefix.pch.gch GameKitSample_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-ckfhaqiqdtxypzaofnezlijhieif/GameKitSample_Prefix.pch.gch GameKitSample_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292775780.987780
+e292775782.726987
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-ckfhaqiqdtxypzaofnezlijhieif/GameKitSample_Prefix.pch.gch
+xGameKitSample_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile GameKitSample_Prefix.pch292775780#292775782#0(0"0(0#0#58"/Users/todd/Desktop/GameKitSample/GameKitSample_Prefix.pch4300911832#1686"    cd /Users/todd/Desktop/GameKitSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-generated-files.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-own-target-headers.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-all-target-headers.hmap -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-project-headers.hmap -F/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos -I/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/include -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources/armv6 -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources -c /Users/todd/Desktop/GameKitSample/GameKitSample_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-ckfhaqiqdtxypzaofnezlijhieif/GameKitSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-dzrrbkkoucuvgjemildnzsvwmmnq/GameKitSample_Prefix.pch.gch GameKitSample_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292775604.548188
+e292775606.529330
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-dzrrbkkoucuvgjemildnzsvwmmnq/GameKitSample_Prefix.pch.gch
+xGameKitSample_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile GameKitSample_Prefix.pch292775604#292775606#0(0"0(0#0#58"/Users/todd/Desktop/GameKitSample/GameKitSample_Prefix.pch4300911832#1686"    cd /Users/todd/Desktop/GameKitSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-generated-files.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-own-target-headers.hmap -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-all-target-headers.hmap -iquote /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample-project-headers.hmap -F/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos -I/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/include -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources/armv6 -I/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/DerivedSources -c /Users/todd/Desktop/GameKitSample/GameKitSample_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GameKitSample_Prefix-dzrrbkkoucuvgjemildnzsvwmmnq/GameKitSample_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision" /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/embedded.mobileprovision
+s292775607.186133
+e292775607.188743
+r1
+xProcessProductPackaging
+x/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision
+x/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision" build/Debug-iphoneos/GameKitSample.app/embedded.mobileprovision292775607#292775607#0(0"0(0#0#97"/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/embedded.mobileprovision4300911832#418"    cd /Users/todd/Desktop/GameKitSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/todd/Library/MobileDevice/Provisioning Profiles/4B1F35F2-F26B-41F5-A967-E7E8DF400173.mobileprovision" -o /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent
+s292775783.400184
+e292775783.425909
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+x/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent
+lSLF07#2@193"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent292775783#292775783#0(0"0(0#0#114"/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent4300911832#440"    cd /Users/todd/Desktop/GameKitSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent
+s292775607.192957
+e292775607.224761
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+x/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent
+lSLF07#2@193"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent292775607#292775607#0(0"0(0#0#114"/Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent4300911832#440"    cd /Users/todd/Desktop/GameKitSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/todd/Desktop/GameKitSample/build/GameKitSample.build/Debug-iphoneos/GameKitSample.build/GameKitSample.xcent0#
+
+CTouch /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app
+s292775783.394858
+e292775783.400063
+r1
+xTouch
+x/Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app
+lSLF07#2@78"Touch /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app292775783#292775783#0(0"0(0#0#0"4300911832#260"    cd /Users/todd/Desktop/GameKitSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/GameKitSample/build/Debug-iphoneos/GameKitSample.app0#
+

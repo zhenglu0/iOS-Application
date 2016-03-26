@@ -1,0 +1,39 @@
+TLetsMakeAThread
+v7
+r1
+
+N/Users/todd/Desktop/LetsMakeAThread/MainWindow.xib
+c0000000049C11E5A000000000000394F
+t1237392986
+s14671
+
+N/Users/todd/Desktop/LetsMakeAThread/build/Debug/LetsMakeAThread.app
+t2
+s0
+
+N/Users/todd/Desktop/LetsMakeAThread/build/Debug/LetsMakeAThread.app/Contents/Info.plist
+t2
+s0
+
+N/Users/todd/Desktop/LetsMakeAThread/build/Debug/LetsMakeAThread.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/todd/Desktop/LetsMakeAThread/build/Debug/LetsMakeAThread.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NInfo.plist
+c0000000049C11E5A0000000000000381
+t1237392986
+s897
+
+CCompileXIB /Users/todd/Desktop/LetsMakeAThread/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/todd/Desktop/LetsMakeAThread/build/Debug/LetsMakeAThread.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/todd/Desktop/LetsMakeAThread/build/Debug/LetsMakeAThread.app
+r0
+

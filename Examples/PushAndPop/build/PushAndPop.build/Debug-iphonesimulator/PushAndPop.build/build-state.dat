@@ -1,0 +1,320 @@
+TPushAndPop
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/Info.plist PushAndPop-Info.plist
+cCompileXIB /Users/todd/Desktop/PushAndPop/MainWindow.xib
+cCompileXIB /Users/todd/Desktop/PushAndPop/FirstView.xib
+cCompileXIB /Users/todd/Desktop/PushAndPop/FirstView.xib
+cCompileXIB /Users/todd/Desktop/PushAndPop/SecondView.xib
+cProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushAndPop_Prefix-gyfjyzdeixjwercfyyicccjfrwsp/PushAndPop_Prefix.pch.gch PushAndPop_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/main.o /Users/todd/Desktop/PushAndPop/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/PushAndPopAppDelegate.o /Users/todd/Desktop/PushAndPop/Classes/PushAndPopAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/FirstViewController.o /Users/todd/Desktop/PushAndPop/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/SecondViewController.o /Users/todd/Desktop/PushAndPop/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PushAndPop normal i386
+cGenerateDSYMFile /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app.dSYM /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PushAndPop
+cTouch /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/todd/Desktop/PushAndPop/Classes/FirstViewController.h
+c0000000049F0F98D00000000000000A5
+t1240529293
+s165
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/PushAndPop/Classes/FirstViewController.m
+c0000000049F0F98F00000000000006B9
+t1240529295
+s1721
+i"FirstViewController.h"
+i"SecondViewController.h"
+
+N/Users/todd/Desktop/PushAndPop/Classes/PushAndPopAppDelegate.h
+c0000000049F0F98D0000000000000121
+t1240529293
+s289
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/PushAndPop/Classes/PushAndPopAppDelegate.m
+c0000000049F0F9860000000000000323
+t1240529286
+s803
+i"PushAndPopAppDelegate.h"
+i"FirstViewController.h"
+
+N/Users/todd/Desktop/PushAndPop/Classes/SecondViewController.h
+c0000000049F0F9830000000000000125
+t1240529283
+s293
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/PushAndPop/Classes/SecondViewController.m
+c0000000049F0F9810000000000000299
+t1240529281
+s665
+i"SecondViewController.h"
+
+N/Users/todd/Desktop/PushAndPop/FirstView.xib
+c0000000049EF52A9000000000000207C
+t1240421033
+s8316
+
+N/Users/todd/Desktop/PushAndPop/MainWindow.xib
+c0000000049EF51A60000000000001E6A
+t1240420774
+s7786
+
+N/Users/todd/Desktop/PushAndPop/PushAndPop_Prefix.pch
+c0000000049EF515000000000000000BD
+t1240420688
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/PushAndPop/SecondView.xib
+c0000000049EF55400000000000001F47
+t1240421696
+s8007
+
+N/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app.dSYM
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/FirstView.nib
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/Info.plist
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/MainWindow.nib
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PkgInfo
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PushAndPop
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/SecondView.nib
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/FirstViewController.o
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/PushAndPop.LinkFileList
+c000000004EA833A10000000000000210
+t1319646113
+s528
+
+N/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/PushAndPopAppDelegate.o
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/SecondViewController.o
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/todd/Desktop/PushAndPop/main.m
+c0000000049EF51500000000000000162
+t1240420688
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushAndPop_Prefix-gyfjyzdeixjwercfyyicccjfrwsp/PushAndPop_Prefix.pch.gch
+t2
+s0
+
+NPushAndPop-Info.plist
+c0000000049EF5150000000000000038D
+t1240420688
+s909
+
+CBuild AST from /Users/todd/Desktop/PushAndPop/Classes/FirstViewController.m
+r0
+
+CBuild AST from /Users/todd/Desktop/PushAndPop/Classes/PushAndPopAppDelegate.m
+r0
+
+CBuild AST from /Users/todd/Desktop/PushAndPop/Classes/SecondViewController.m
+r0
+
+CBuild AST from /Users/todd/Desktop/PushAndPop/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7e39ff206b58b441^931a22216b58b441^---0#1#0#--18"Check dependencies
+
+CCompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/FirstViewController.o /Users/todd/Desktop/PushAndPop/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341338914.604115
+e341338914.751909
+r1
+xCompileC
+xbuild/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/FirstViewController.o
+x/Users/todd/Desktop/PushAndPop/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/todd/Desktop/PushAndPop/Classes/FirstViewController.mf4c59a226b58b441^2387c0226b58b441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/todd/Desktop/PushAndPop/Classes/FirstViewController.m0000000000000000^2119"CompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/FirstViewController.o Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/todd/Desktop/PushAndPop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-generated-files.hmap -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-own-target-headers.hmap -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-all-target-headers.hmap -iquote /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-project-headers.hmap -I/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/DerivedSources/i386 -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/DerivedSources -F/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushAndPop_Prefix-gyfjyzdeixjwercfyyicccjfrwsp/PushAndPop_Prefix.pch -c /Users/todd/Desktop/PushAndPop/Classes/FirstViewController.m -o /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/FirstViewController.o
+
+CCompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/PushAndPopAppDelegate.o /Users/todd/Desktop/PushAndPop/Classes/PushAndPopAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341338914.508482
+e341338914.653361
+r1
+xCompileC
+xbuild/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/PushAndPopAppDelegate.o
+x/Users/todd/Desktop/PushAndPop/Classes/PushAndPopAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/todd/Desktop/PushAndPop/Classes/PushAndPopAppDelegate.m4d4982226b58b441^2252a7226b58b441^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/todd/Desktop/PushAndPop/Classes/PushAndPopAppDelegate.m0000000000000000^2127"CompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/PushAndPopAppDelegate.o Classes/PushAndPopAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/todd/Desktop/PushAndPop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-generated-files.hmap -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-own-target-headers.hmap -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-all-target-headers.hmap -iquote /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-project-headers.hmap -I/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/DerivedSources/i386 -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/DerivedSources -F/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushAndPop_Prefix-gyfjyzdeixjwercfyyicccjfrwsp/PushAndPop_Prefix.pch -c /Users/todd/Desktop/PushAndPop/Classes/PushAndPopAppDelegate.m -o /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/PushAndPopAppDelegate.o
+
+CCompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/SecondViewController.o /Users/todd/Desktop/PushAndPop/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341338914.654558
+e341338914.769753
+r1
+xCompileC
+xbuild/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/SecondViewController.o
+x/Users/todd/Desktop/PushAndPop/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/todd/Desktop/PushAndPop/Classes/SecondViewController.m47e4a7226b58b441^191cc5226b58b441^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/todd/Desktop/PushAndPop/Classes/SecondViewController.m0000000000000000^2123"CompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/SecondViewController.o Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/todd/Desktop/PushAndPop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-generated-files.hmap -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-own-target-headers.hmap -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-all-target-headers.hmap -iquote /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-project-headers.hmap -I/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/DerivedSources/i386 -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/DerivedSources -F/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushAndPop_Prefix-gyfjyzdeixjwercfyyicccjfrwsp/PushAndPop_Prefix.pch -c /Users/todd/Desktop/PushAndPop/Classes/SecondViewController.m -o /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/SecondViewController.o
+
+CCompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/main.o /Users/todd/Desktop/PushAndPop/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341338914.507811
+e341338914.602912
+r1
+xCompileC
+xbuild/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/PushAndPop/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Users/todd/Desktop/PushAndPop/main.m9f1f82226b58b441^6b659a226b58b441^---0#0#0#-19%DVTDocumentLocation2@53"file://localhost/Users/todd/Desktop/PushAndPop/main.m0000000000000000^2043"CompileC build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/todd/Desktop/PushAndPop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-generated-files.hmap -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-own-target-headers.hmap -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-all-target-headers.hmap -iquote /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-project-headers.hmap -I/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/DerivedSources/i386 -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/DerivedSources -F/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushAndPop_Prefix-gyfjyzdeixjwercfyyicccjfrwsp/PushAndPop_Prefix.pch -c /Users/todd/Desktop/PushAndPop/main.m -o /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/todd/Desktop/PushAndPop/FirstView.xib
+s341338913.225766
+e341338913.669639
+r1
+xCompileXIB
+x/Users/todd/Desktop/PushAndPop/FirstView.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compiling /Users/todd/Desktop/PushAndPop/FirstView.xib079825216b58b441^4b77ab216b58b441^---0#0#0#-19%DVTDocumentLocation2@60"file://localhost/Users/todd/Desktop/PushAndPop/FirstView.xib0000000000000000^581"CompileXIB FirstView.xib    cd /Users/todd/Desktop/PushAndPop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/FirstView.nib /Users/todd/Desktop/PushAndPop/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/todd/Desktop/PushAndPop/MainWindow.xib
+s341338913.145473
+e341338913.224582
+r1
+xCompileXIB
+x/Users/todd/Desktop/PushAndPop/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compiling /Users/todd/Desktop/PushAndPop/MainWindow.xibe35225216b58b441^fbe739216b58b441^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/todd/Desktop/PushAndPop/MainWindow.xib0000000000000000^584"CompileXIB MainWindow.xib    cd /Users/todd/Desktop/PushAndPop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/MainWindow.nib /Users/todd/Desktop/PushAndPop/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/todd/Desktop/PushAndPop/SecondView.xib
+s341338913.272324
+e341338913.309066
+r1
+xCompileXIB
+x/Users/todd/Desktop/PushAndPop/SecondView.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compiling /Users/todd/Desktop/PushAndPop/SecondView.xib9bcb45216b58b441^5f294f216b58b441^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/todd/Desktop/PushAndPop/SecondView.xib0000000000000000^584"CompileXIB SecondView.xib    cd /Users/todd/Desktop/PushAndPop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/SecondView.nib /Users/todd/Desktop/PushAndPop/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CGenerateDSYMFile /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app.dSYM /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PushAndPop
+s341338914.829286
+e341338914.870553
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app.dSYM
+x/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PushAndPop
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Generating /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app.dSYM5f5ed4226b58b441^0c74ed226b58b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app.dSYM0000204d2e05f041^487"GenerateDSYMFile build/Debug-iphonesimulator/PushAndPop.app.dSYM build/Debug-iphonesimulator/PushAndPop.app/PushAndPop    cd /Users/todd/Desktop/PushAndPop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PushAndPop -o /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app.dSYM
+
+CLd /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PushAndPop normal i386
+s341338914.771570
+e341338914.827544
+r1
+xLd
+x/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PushAndPop
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Link /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PushAndPopfa9ac5226b58b441^666bed226b58b441^---0#0#0#--944"Ld build/Debug-iphonesimulator/PushAndPop.app/PushAndPop normal i386    cd /Users/todd/Desktop/PushAndPop    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator -F/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator -filelist /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/Objects-normal/i386/PushAndPop.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PushAndPop
+
+CProcessInfoPlistFile /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/Info.plist PushAndPop-Info.plist
+s341338913.139099
+e341338913.142450
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/Info.plist
+xPushAndPop-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Process PushAndPop-Info.plistfbaf23216b58b441^cd7724216b58b441^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/todd/Desktop/PushAndPop/PushAndPop-Info.plist0000000000000000^561"ProcessInfoPlistFile build/Debug-iphonesimulator/PushAndPop.app/Info.plist PushAndPop-Info.plist    cd /Users/todd/Desktop/PushAndPop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PushAndPop-Info.plist -genpkginfo /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app/Info.plist
+
+CProcessPCH /Users/todd/Desktop/PushAndPop/DerivedData/PushAndPop/Index/PrecompiledHeaders/PushAndPop_Prefix-dckudancdetuwvhhimulnxcztewq_ast/PushAndPop_Prefix.pch.pth PushAndPop_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushAndPop_Prefix-gyfjyzdeixjwercfyyicccjfrwsp/PushAndPop_Prefix.pch.gch PushAndPop_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341338913.672848
+e341338914.505945
+r1
+xProcessPCH
+x/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushAndPop_Prefix-gyfjyzdeixjwercfyyicccjfrwsp/PushAndPop_Prefix.pch.gch
+xPushAndPop_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile PushAndPop_Prefix.pch365cac216b58b441^3c8481226b58b441^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/todd/Desktop/PushAndPop/PushAndPop_Prefix.pch0000000000000000^2039"ProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushAndPop_Prefix-gyfjyzdeixjwercfyyicccjfrwsp/PushAndPop_Prefix.pch.gch PushAndPop_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/todd/Desktop/PushAndPop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-generated-files.hmap -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-own-target-headers.hmap -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-all-target-headers.hmap -iquote /Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/PushAndPop-project-headers.hmap -I/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/DerivedSources/i386 -I/Users/todd/Desktop/PushAndPop/build/PushAndPop.build/Debug-iphonesimulator/PushAndPop.build/DerivedSources -F/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator -c /Users/todd/Desktop/PushAndPop/PushAndPop_Prefix.pch -o /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushAndPop_Prefix-gyfjyzdeixjwercfyyicccjfrwsp/PushAndPop_Prefix.pch.gch
+
+CTouch /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app
+s341338914.925740
+e341338914.957445
+r1
+xTouch
+x/Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Touch /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app1f0fed226b58b441^8027f5226b58b441^---0#0#0#--314"Touch build/Debug-iphonesimulator/PushAndPop.app    cd /Users/todd/Desktop/PushAndPop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/PushAndPop/build/Debug-iphonesimulator/PushAndPop.app
+

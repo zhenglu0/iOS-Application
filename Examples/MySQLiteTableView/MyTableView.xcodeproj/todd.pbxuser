@@ -1,0 +1,180 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MyTableViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 297}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 318}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MyTableViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 429}}";
+			sepNavSelRange = "{120, 0}";
+			sepNavVisRange = "{162, 541}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MyTableView */ = {
+		activeExec = 0;
+		executables = (
+			5F0282DF115106700014272C /* MyTableView */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5F0282DF115106700014272C /* MyTableView */;
+		activeSDKPreference = iphonesimulator3.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MyTableView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MyTableView */,
+		);
+		codeSenseManager = 5F0282EC115106760014272C /* Code sense */;
+		executables = (
+			5F0282DF115106700014272C /* MyTableView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 290523013;
+			PBXWorkspaceStateSaveDate = 290523013;
+		};
+		perUserProjectItems = {
+			5F0282F6115106B70014272C /* PBXTextBookmark */ = 5F0282F6115106B70014272C /* PBXTextBookmark */;
+			5F0282F7115106B70014272C /* PBXTextBookmark */ = 5F0282F7115106B70014272C /* PBXTextBookmark */;
+			5F0282F8115106B70014272C /* PBXTextBookmark */ = 5F0282F8115106B70014272C /* PBXTextBookmark */;
+			5F028310115107620014272C /* PBXTextBookmark */ = 5F028310115107620014272C /* PBXTextBookmark */;
+			5F0283431151184B0014272C /* PBXTextBookmark */ = 5F0283431151184B0014272C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5F0282EB115106760014272C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5F0282DF115106700014272C /* MyTableView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MyTableView;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5F0282EB115106760014272C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5F0282EC115106760014272C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5F0282F6115106B70014272C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MyTableViewAppDelegate.h */;
+		name = "MyTableViewAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 318;
+		vrLoc = 0;
+	};
+	5F0282F7115106B70014272C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MyTableViewAppDelegate.m */;
+		name = "MyTableViewAppDelegate.m: 7";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 162;
+	};
+	5F0282F8115106B70014272C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 690069400EAE757F00F7AF64 /* MyTableViewController.h */;
+		name = "MyTableViewController.h: 10";
+		rLen = 0;
+		rLoc = 163;
+		rType = 0;
+		vrLen = 170;
+		vrLoc = 0;
+	};
+	5F028310115107620014272C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 690069410EAE757F00F7AF64 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 23";
+		rLen = 0;
+		rLoc = 564;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 242;
+	};
+	5F0283431151184B0014272C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 690069410EAE757F00F7AF64 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 22";
+		rLen = 0;
+		rLoc = 495;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 0;
+	};
+	690069400EAE757F00F7AF64 /* MyTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 297}}";
+			sepNavSelRange = "{163, 0}";
+			sepNavVisRange = "{0, 170}";
+		};
+	};
+	690069410EAE757F00F7AF64 /* MyTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 819}}";
+			sepNavSelRange = "{495, 0}";
+			sepNavVisRange = "{0, 844}";
+		};
+	};
+}

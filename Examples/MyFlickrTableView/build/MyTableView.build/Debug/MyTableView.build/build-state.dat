@@ -1,0 +1,39 @@
+TMyTableView
+v7
+r1
+
+N/Users/todd/Desktop/MyFlickrTableView/MainWindow.xib
+c0000000049F7E7770000000000001D0F
+t1240983415
+s7439
+
+N/Users/todd/Desktop/MyFlickrTableView/build/Debug/MyTableView.app
+t2
+s0
+
+N/Users/todd/Desktop/MyFlickrTableView/build/Debug/MyTableView.app/Contents/Info.plist
+t2
+s0
+
+N/Users/todd/Desktop/MyFlickrTableView/build/Debug/MyTableView.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/todd/Desktop/MyFlickrTableView/build/Debug/MyTableView.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NInfo.plist
+c0000000049F7E7770000000000000381
+t1240983415
+s897
+
+CCompileXIB /Users/todd/Desktop/MyFlickrTableView/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/todd/Desktop/MyFlickrTableView/build/Debug/MyTableView.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/todd/Desktop/MyFlickrTableView/build/Debug/MyTableView.app
+r0
+

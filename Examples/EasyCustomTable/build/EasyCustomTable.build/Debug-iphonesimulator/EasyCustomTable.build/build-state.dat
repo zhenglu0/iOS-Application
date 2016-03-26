@@ -1,0 +1,518 @@
+TEasyCustomTable
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/Info.plist Info.plist
+cCompileXIB /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/MainWindow.xib
+cCompileXIB /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/EasyCustomTableView.xib
+cCpResource Images/bottomRow.png build/Debug-iphonesimulator/EasyCustomTable.app/bottomRow.png
+cCpResource Images/topAndBottomRow.png build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRow.png
+cCpResource Images/imageC.png build/Debug-iphonesimulator/EasyCustomTable.app/imageC.png
+cCpResource Images/topAndBottomRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRowSelected.png
+cCpResource Images/imageA.png build/Debug-iphonesimulator/EasyCustomTable.app/imageA.png
+cCpResource Images/gradientBackground.png build/Debug-iphonesimulator/EasyCustomTable.app/gradientBackground.png
+cCpResource Images/imageB.png build/Debug-iphonesimulator/EasyCustomTable.app/imageB.png
+cCpResource Images/topRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/topRowSelected.png
+cCpResource Images/topRow.png build/Debug-iphonesimulator/EasyCustomTable.app/topRow.png
+cCpResource Images/middleRow.png build/Debug-iphonesimulator/EasyCustomTable.app/middleRow.png
+cCpResource Images/middleRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/middleRowSelected.png
+cCpResource Images/bottomRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/bottomRowSelected.png
+cCpResource Images/indicator.png build/Debug-iphonesimulator/EasyCustomTable.app/indicator.png
+cProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gfgrhyigdttqflezweurozorjadj/EasyCustomTable_Prefix.pch.gch EasyCustomTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/main.o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableAppDelegate.o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableController.o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable normal i386
+cGenerateDSYMFile /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable
+cTouch /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableAppDelegate.h
+c0000000049FFCFD2000000000000035D
+t1241501650
+s861
+i<UIKit/UIKit.h>
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m
+c0000000049FFCFD200000000000003E8
+t1241501650
+s1000
+i"EasyCustomTableAppDelegate.h"
+i"EasyCustomTableController.h"
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.h
+c0000000049FFCFD20000000000000308
+t1241501650
+s776
+i<UIKit/UIKit.h>
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m
+c000000004A0E0C550000000000001C44
+t1242434645
+s7236
+i"EasyCustomTableController.h"
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/EasyCustomTableView.xib
+c0000000049F5B17C000000000000275B
+t1240838524
+s10075
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/EasyCustomTable_Prefix.pch
+c0000000049F58C3600000000000000C7
+t1240828982
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/bottomRow.png
+c0000000049F5858D00000000000006D3
+t1240827277
+s1747
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/bottomRowSelected.png
+c0000000049F58866000000000000071C
+t1240828006
+s1820
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/gradientBackground.png
+c0000000049F58B2B0000000000002647
+t1240828715
+s9799
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/imageA.png
+c0000000049F59E98000000000000122A
+t1240833688
+s4650
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/imageB.png
+c0000000049F59E8800000000000011F8
+t1240833672
+s4600
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/imageC.png
+c0000000049F59E710000000000001226
+t1240833649
+s4646
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/indicator.png
+c0000000049F5AFE4000000000000049C
+t1240838116
+s1180
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/middleRow.png
+c0000000049F58584000000000000041F
+t1240827268
+s1055
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/middleRowSelected.png
+c0000000049F5887100000000000004C0
+t1240828017
+s1216
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/topAndBottomRow.png
+c0000000049F585A100000000000008E8
+t1240827297
+s2280
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/topAndBottomRowSelected.png
+c0000000049F588480000000000000934
+t1240827976
+s2356
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/topRow.png
+c0000000049F585980000000000000647
+t1240827288
+s1607
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/topRowSelected.png
+c0000000049F5885A00000000000006D3
+t1240827994
+s1747
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/MainWindow.xib
+c0000000049F59630000000000000235E
+t1240831536
+s9054
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTableView.nib
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/Info.plist
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/MainWindow.nib
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/PkgInfo
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/bottomRow.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/bottomRowSelected.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/gradientBackground.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/imageA.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/imageB.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/imageC.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/indicator.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/middleRow.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/middleRowSelected.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRow.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRowSelected.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topRow.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topRowSelected.png
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTable.LinkFileList
+c000000004EC13D4A000000000000021A
+t1321286986
+s538
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableAppDelegate.o
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableController.o
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/main.m
+c0000000049FFCFE000000000000002CB
+t1241501664
+s715
+i<UIKit/UIKit.h>
+
+N/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gfgrhyigdttqflezweurozorjadj/EasyCustomTable_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c0000000049F58C360000000000000386
+t1240828982
+s902
+
+CBuild AST from /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m
+r0
+
+CBuild AST from /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m
+r0
+
+CBuild AST from /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2f522cca7471b441^6bf248ca7471b441^---0#1#0#--18"Check dependencies
+
+CCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableAppDelegate.o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342979788.473730
+e342979788.613587
+r1
+xCompileC
+xbuild/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableAppDelegate.o
+x/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m316079cc7471b441^4f1f9dcc7471b441^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m0000000000000000^2642"CompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableAppDelegate.o Classes/EasyCustomTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-generated-files.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-own-target-headers.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-all-target-headers.hmap -iquote /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-project-headers.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/include -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources/i386 -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources -F/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gfgrhyigdttqflezweurozorjadj/EasyCustomTable_Prefix.pch -c /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableAppDelegate.m -o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableAppDelegate.o
+
+CCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableController.o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342979788.575435
+e342979788.778356
+r1
+xCompileC
+xbuild/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableController.o
+x/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m: In function '-[EasyCustomTableController tableView:cellForRowAtIndexPath:]':
+o/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m:232: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)
+o/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m:236: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)
+o/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m:240: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m2a7393cc7471b441^66a0cacc7471b441^-1116"/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m: In function '-[EasyCustomTableController tableView:cellForRowAtIndexPath:]':/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m:232: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m:236: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m:240: warning: 'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)3(21%IDEActivityLogMessage2@195"'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)-342979788#180#312#-1#-23%DVTTextDocumentLocation3@117"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m0000000000000000^231#18446744073709551615#231#18446744073709551615#18446744073709551615#0#33"'*' is deprecated (declared at *)--2@195"'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)-342979788#492#312#-1#-3@117"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m0000000000000000^235#18446744073709551615#235#18446744073709551615#18446744073709551615#0#33"'*' is deprecated (declared at *)--2@195"'setImage:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)-342979788#804#312#-1#-3@117"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m0000000000000000^239#18446744073709551615#239#18446744073709551615#18446744073709551615#0#33"'*' is deprecated (declared at *)--0#0#0#-19%DVTDocumentLocation4@117"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m0000000000000000^2638"CompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableController.o Classes/EasyCustomTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-generated-files.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-own-target-headers.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-all-target-headers.hmap -iquote /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-project-headers.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/include -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources/i386 -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources -F/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gfgrhyigdttqflezweurozorjadj/EasyCustomTable_Prefix.pch -c /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Classes/EasyCustomTableController.m -o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTableController.o
+
+CCompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/main.o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342979788.473047
+e342979788.574177
+r1
+xCompileC
+xbuild/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/main.o
+x/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/main.m0c3a79cc7471b441^7afc92cc7471b441^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/main.m0000000000000000^2538"CompileC build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-generated-files.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-own-target-headers.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-all-target-headers.hmap -iquote /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-project-headers.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/include -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources/i386 -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources -F/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gfgrhyigdttqflezweurozorjadj/EasyCustomTable_Prefix.pch -c /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/main.m -o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/EasyCustomTableView.xib
+s342979786.354683
+e342979787.077561
+r1
+xCompileXIB
+x/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/EasyCustomTableView.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compiling /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/EasyCustomTableView.xib69e15aca7471b441^5dfa13cb7471b441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/EasyCustomTableView.xib0000000000000000^721"CompileXIB EasyCustomTableView.xib    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTableView.nib /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/EasyCustomTableView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/MainWindow.xib
+s342979786.353397
+e342979786.447656
+r1
+xCompileXIB
+x/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compiling /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/MainWindow.xibb39a5aca7471b441^2ba272ca7471b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/MainWindow.xib0000000000000000^694"CompileXIB MainWindow.xib    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/MainWindow.nib /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCpResource Images/bottomRow.png build/Debug-iphonesimulator/EasyCustomTable.app/bottomRow.png
+s342979786.449098
+e342979786.460280
+r1
+xCpResource
+xImages/bottomRow.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/bottomRow.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphonesimulator/EasyCustomTable.app/bottomRow.png1a3573ca7471b441^30d875ca7471b441^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/bottomRow.png0000204d2e05f041^598"CpResource Images/bottomRow.png build/Debug-iphonesimulator/EasyCustomTable.app/bottomRow.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/bottomRow.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/bottomRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/bottomRowSelected.png
+s342979786.533379
+e342979786.537110
+r1
+xCpResource
+xImages/bottomRowSelected.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/bottomRowSelected.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy build/Debug-iphonesimulator/EasyCustomTable.app/bottomRowSelected.png5ea088ca7471b441^c2878aca7471b441^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/bottomRowSelected.png0000204d2e05f041^622"CpResource Images/bottomRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/bottomRowSelected.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/bottomRowSelected.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/gradientBackground.png build/Debug-iphonesimulator/EasyCustomTable.app/gradientBackground.png
+s342979786.490207
+e342979786.496945
+r1
+xCpResource
+xImages/gradientBackground.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/gradientBackground.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy build/Debug-iphonesimulator/EasyCustomTable.app/gradientBackground.pngab957dca7471b441^5f407fca7471b441^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/gradientBackground.png0000204d2e05f041^625"CpResource Images/gradientBackground.png build/Debug-iphonesimulator/EasyCustomTable.app/gradientBackground.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/gradientBackground.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/imageA.png build/Debug-iphonesimulator/EasyCustomTable.app/imageA.png
+s342979786.484168
+e342979786.488851
+r1
+xCpResource
+xImages/imageA.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/imageA.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/EasyCustomTable.app/imageA.png3a067cca7471b441^732e7dca7471b441^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/imageA.png0000204d2e05f041^589"CpResource Images/imageA.png build/Debug-iphonesimulator/EasyCustomTable.app/imageA.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/imageA.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/imageB.png build/Debug-iphonesimulator/EasyCustomTable.app/imageB.png
+s342979786.500083
+e342979786.504711
+r1
+xCpResource
+xImages/imageB.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/imageB.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/EasyCustomTable.app/imageB.pngb91780ca7471b441^753d81ca7471b441^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/imageB.png0000204d2e05f041^589"CpResource Images/imageB.png build/Debug-iphonesimulator/EasyCustomTable.app/imageB.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/imageB.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/imageC.png build/Debug-iphonesimulator/EasyCustomTable.app/imageC.png
+s342979786.467579
+e342979786.473244
+r1
+xCpResource
+xImages/imageC.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/imageC.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/EasyCustomTable.app/imageC.png9bc977ca7471b441^0b2779ca7471b441^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/imageC.png0000204d2e05f041^589"CpResource Images/imageC.png build/Debug-iphonesimulator/EasyCustomTable.app/imageC.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/imageC.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/indicator.png build/Debug-iphonesimulator/EasyCustomTable.app/indicator.png
+s342979786.542472
+e342979786.547610
+r1
+xCpResource
+xImages/indicator.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/indicator.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphonesimulator/EasyCustomTable.app/indicator.png84f28aca7471b441^60748dca7471b441^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/indicator.png0000204d2e05f041^598"CpResource Images/indicator.png build/Debug-iphonesimulator/EasyCustomTable.app/indicator.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/indicator.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/middleRow.png build/Debug-iphonesimulator/EasyCustomTable.app/middleRow.png
+s342979786.521384
+e342979786.526137
+r1
+xCpResource
+xImages/middleRow.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/middleRow.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphonesimulator/EasyCustomTable.app/middleRow.png109285ca7471b441^19c986ca7471b441^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/middleRow.png0000204d2e05f041^598"CpResource Images/middleRow.png build/Debug-iphonesimulator/EasyCustomTable.app/middleRow.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/middleRow.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/middleRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/middleRowSelected.png
+s342979786.527322
+e342979786.531317
+r1
+xCpResource
+xImages/middleRowSelected.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/middleRowSelected.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy build/Debug-iphonesimulator/EasyCustomTable.app/middleRowSelected.png4c1687ca7471b441^0e1488ca7471b441^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/middleRowSelected.png0000204d2e05f041^622"CpResource Images/middleRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/middleRowSelected.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/middleRowSelected.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/topAndBottomRow.png build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRow.png
+s342979786.462322
+e342979786.466234
+r1
+xCpResource
+xImages/topAndBottomRow.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRow.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRow.pngb96e76ca7471b441^c36377ca7471b441^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRow.png0000204d2e05f041^616"CpResource Images/topAndBottomRow.png build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRow.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/topAndBottomRow.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/topAndBottomRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRowSelected.png
+s342979786.475364
+e342979786.480968
+r1
+xCpResource
+xImages/topAndBottomRowSelected.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRowSelected.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRowSelected.png62d879ca7471b441^662f7bca7471b441^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRowSelected.png0000204d2e05f041^640"CpResource Images/topAndBottomRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/topAndBottomRowSelected.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/topAndBottomRowSelected.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/topRow.png build/Debug-iphonesimulator/EasyCustomTable.app/topRow.png
+s342979786.515383
+e342979786.519968
+r1
+xCpResource
+xImages/topRow.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/topRow.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/EasyCustomTable.app/topRow.pngfa0884ca7471b441^b61385ca7471b441^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topRow.png0000204d2e05f041^589"CpResource Images/topRow.png build/Debug-iphonesimulator/EasyCustomTable.app/topRow.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/topRow.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CCpResource Images/topRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/topRowSelected.png
+s342979786.508651
+e342979786.513787
+r1
+xCpResource
+xImages/topRowSelected.png
+xbuild/Debug-iphonesimulator/EasyCustomTable.app/topRowSelected.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Debug-iphonesimulator/EasyCustomTable.app/topRowSelected.png494a82ca7471b441^ac8f83ca7471b441^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/topRowSelected.png0000204d2e05f041^613"CpResource Images/topRowSelected.png build/Debug-iphonesimulator/EasyCustomTable.app/topRowSelected.png    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Images/topRowSelected.png /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+
+CGenerateDSYMFile /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable
+s342979788.929448
+e342979788.967526
+r1
+xGenerateDSYMFile
+x/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM
+x/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Generating /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM6406eecc7471b441^c0b1f7cc7471b441^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM0000204d2e05f041^622"GenerateDSYMFile build/Debug-iphonesimulator/EasyCustomTable.app.dSYM build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable -o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app.dSYM
+
+CLd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable normal i386
+s342979788.780240
+e342979788.928071
+r1
+xLd
+x/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable06f7c7cc7471b441^94a2edcc7471b441^---0#0#0#--1154"Ld build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable normal i386    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator -F/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator -filelist /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/Objects-normal/i386/EasyCustomTable.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/EasyCustomTable
+
+CProcessInfoPlistFile /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/Info.plist Info.plist
+s342979786.337239
+e342979786.346995
+r1
+xProcessInfoPlistFile
+x/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/Info.plist
+xInfo.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistd48257ca7471b441^59db58ca7471b441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/Info.plist0000000000000000^659"ProcessInfoPlistFile build/Debug-iphonesimulator/EasyCustomTable.app/Info.plist Info.plist    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app/Info.plist
+
+CProcessPCH /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/DerivedData/EasyCustomTable/Index/PrecompiledHeaders/EasyCustomTable_Prefix-dulbvkwuzaumqncgzlcgpyantduf_ast/EasyCustomTable_Prefix.pch.pth EasyCustomTable_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gfgrhyigdttqflezweurozorjadj/EasyCustomTable_Prefix.pch.gch EasyCustomTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s342979787.080633
+e342979788.471186
+r1
+xProcessPCH
+x/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gfgrhyigdttqflezweurozorjadj/EasyCustomTable_Prefix.pch.gch
+xEasyCustomTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile EasyCustomTable_Prefix.pch20ec14cb7471b441^cb9e78cc7471b441^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/EasyCustomTable_Prefix.pch0000000000000000^2499"ProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gfgrhyigdttqflezweurozorjadj/EasyCustomTable_Prefix.pch.gch EasyCustomTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-generated-files.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-own-target-headers.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-all-target-headers.hmap -iquote /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/EasyCustomTable-project-headers.hmap -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/include -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources/i386 -I/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/EasyCustomTable.build/Debug-iphonesimulator/EasyCustomTable.build/DerivedSources -F/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator -c /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/EasyCustomTable_Prefix.pch -o /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EasyCustomTable_Prefix-gfgrhyigdttqflezweurozorjadj/EasyCustomTable_Prefix.pch.gch
+
+CTouch /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+s342979788.970708
+e342979788.983251
+r1
+xTouch
+x/Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Touch /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.appcd92f8cc7471b441^09c4fbcc7471b441^---0#0#0#--394"Touch build/Debug-iphonesimulator/EasyCustomTable.app    cd /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Dropbox/cse436labsAndDemosAndProjects/EasyCustomTable/build/Debug-iphonesimulator/EasyCustomTable.app
+

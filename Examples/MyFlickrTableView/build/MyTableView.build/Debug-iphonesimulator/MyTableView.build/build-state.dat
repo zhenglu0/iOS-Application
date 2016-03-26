@@ -1,0 +1,635 @@
+TMyTableView
+v7
+r0
+t290520714.962616
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/Info.plist Info.plist
+cCompileXIB /Users/todd/temp/MyFlickrTableView/MainWindow.xib
+cProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cvnkaxlsogwgalfeesuboaptwezh/MyTableView_Prefix.pch.gch MyTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o /Users/todd/temp/MyFlickrTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o /Users/todd/temp/MyFlickrTableView/Classes/MyTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o /Users/todd/temp/MyFlickrTableView/Classes/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSObject+SBJSON.o /Users/todd/temp/MyFlickrTableView/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSString+SBJSON.o /Users/todd/temp/MyFlickrTableView/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/SBJSON.o /Users/todd/temp/MyFlickrTableView/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView normal i386
+cGenerateDSYMFile /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app.dSYM /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView
+cTouch /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004B6B206300000000000000EE
+t1265311843
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/lib/libsqlite3.dylib
+c000000004A0BA78C00000000000C2370
+t1242277772
+s795504
+
+N/Users/todd/Desktop/MyFlickrTableView/Classes/FlickrAPIKey.h
+c000000004AF1DBC400000000000000EE
+t1257364420
+s238
+
+N/Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewAppDelegate.h
+c0000000049F97CEE000000000000013E
+t1241087214
+s318
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewAppDelegate.m
+c0000000049F97CEB00000000000002BF
+t1241087211
+s703
+i"MyTableViewAppDelegate.h"
+i"MyTableViewController.h"
+
+N/Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewController.h
+c0000000049F97CE500000000000000CF
+t1241087205
+s207
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewController.m
+c000000004BA0C7050000000000000AB7
+t1268827909
+s2743
+i"MyTableViewController.h"
+i"JSON.h"
+i"FlickrAPIKey.h"
+
+N/Users/todd/Desktop/MyFlickrTableView/JSON/JSON.h
+c0000000049F7E77700000000000007AB
+t1240983415
+s1963
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/todd/Desktop/MyFlickrTableView/JSON/NSObject+SBJSON.h
+c0000000049F7E7770000000000000888
+t1240983415
+s2184
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/MyFlickrTableView/JSON/NSObject+SBJSON.m
+c0000000049F7E7770000000000000821
+t1240983415
+s2081
+i"NSObject+SBJSON.h"
+i"SBJSON.h"
+
+N/Users/todd/Desktop/MyFlickrTableView/JSON/NSString+SBJSON.h
+c0000000049F7E7770000000000000705
+t1240983415
+s1797
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/MyFlickrTableView/JSON/NSString+SBJSON.m
+c0000000049F7E77700000000000007DA
+t1240983415
+s2010
+i"NSString+SBJSON.h"
+i"SBJSON.h"
+
+N/Users/todd/Desktop/MyFlickrTableView/JSON/SBJSON.h
+c0000000049F7E77700000000000013CF
+t1240983415
+s5071
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/MyFlickrTableView/JSON/SBJSON.m
+c0000000049F7E7770000000000005A98
+t1240983415
+s23192
+i"SBJSON.h"
+
+N/Users/todd/Desktop/MyFlickrTableView/MainWindow.xib
+c0000000049F7E7770000000000001D0F
+t1240983415
+s7439
+
+N/Users/todd/Desktop/MyFlickrTableView/MyTableView_Prefix.pch
+c0000000049F7E77700000000000000BF
+t1240983415
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app
+t1268827911
+s204
+
+N/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app.dSYM
+t1268827911
+s102
+
+N/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/Info.plist
+t1257364475
+s573
+
+N/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MainWindow.nib
+t1257364475
+s1349
+
+N/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView
+t1268827911
+s44196
+
+N/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/PkgInfo
+t1257364475
+s8
+
+N/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableView.LinkFileList
+c000000004BA0C636000000000000032F
+t1268827702
+s815
+
+N/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o
+t1268827704
+s38076
+
+N/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o
+t1268827911
+s37940
+
+N/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSObject+SBJSON.o
+t1268827705
+s7584
+
+N/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSString+SBJSON.o
+t1268827705
+s7620
+
+N/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/SBJSON.o
+t1268827705
+s47464
+
+N/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o
+t1268827704
+s5944
+
+N/Users/todd/Desktop/MyFlickrTableView/main.m
+c0000000049F7E777000000000000016B
+t1240983415
+s363
+i<UIKit/UIKit.h>
+
+N/Users/todd/temp/MyFlickrTableView/Classes/FlickrAPIKey.h
+c000000004AF1DBC400000000000000EE
+t1257364420
+s238
+
+N/Users/todd/temp/MyFlickrTableView/Classes/MyTableViewAppDelegate.h
+c0000000049F97CEE000000000000013E
+t1241087214
+s318
+i<UIKit/UIKit.h>
+
+N/Users/todd/temp/MyFlickrTableView/Classes/MyTableViewAppDelegate.m
+c0000000049F97CEB00000000000002BF
+t1241087211
+s703
+i"MyTableViewAppDelegate.h"
+i"MyTableViewController.h"
+
+N/Users/todd/temp/MyFlickrTableView/Classes/MyTableViewController.h
+c0000000049F97CE500000000000000CF
+t1241087205
+s207
+i<UIKit/UIKit.h>
+
+N/Users/todd/temp/MyFlickrTableView/Classes/MyTableViewController.m
+c000000004BA0C7050000000000000AB7
+t1268827909
+s2743
+i"MyTableViewController.h"
+i"JSON.h"
+i"FlickrAPIKey.h"
+
+N/Users/todd/temp/MyFlickrTableView/JSON/JSON.h
+c0000000049F7E77700000000000007AB
+t1240983415
+s1963
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/todd/temp/MyFlickrTableView/JSON/NSObject+SBJSON.h
+c0000000049F7E7770000000000000888
+t1240983415
+s2184
+i<Foundation/Foundation.h>
+
+N/Users/todd/temp/MyFlickrTableView/JSON/NSObject+SBJSON.m
+c0000000049F7E7770000000000000821
+t1240983415
+s2081
+i"NSObject+SBJSON.h"
+i"SBJSON.h"
+
+N/Users/todd/temp/MyFlickrTableView/JSON/NSString+SBJSON.h
+c0000000049F7E7770000000000000705
+t1240983415
+s1797
+i<Foundation/Foundation.h>
+
+N/Users/todd/temp/MyFlickrTableView/JSON/NSString+SBJSON.m
+c0000000049F7E77700000000000007DA
+t1240983415
+s2010
+i"NSString+SBJSON.h"
+i"SBJSON.h"
+
+N/Users/todd/temp/MyFlickrTableView/JSON/SBJSON.h
+c0000000049F7E77700000000000013CF
+t1240983415
+s5071
+i<Foundation/Foundation.h>
+
+N/Users/todd/temp/MyFlickrTableView/JSON/SBJSON.m
+c0000000049F7E7770000000000005A98
+t1240983415
+s23192
+i"SBJSON.h"
+
+N/Users/todd/temp/MyFlickrTableView/MainWindow.xib
+c0000000049F7E7770000000000001D0F
+t1240983415
+s7439
+
+N/Users/todd/temp/MyFlickrTableView/MyTableView_Prefix.pch
+c0000000049F7E77700000000000000BF
+t1240983415
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app
+t1268827911
+s204
+
+N/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app.dSYM
+t1268827911
+s102
+
+N/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/Info.plist
+t1257364475
+s573
+
+N/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MainWindow.nib
+t1257364475
+s1349
+
+N/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView
+t1268827911
+s44196
+
+N/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/PkgInfo
+t1257364475
+s8
+
+N/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableView.LinkFileList
+c000000004BA0C636000000000000032F
+t1268827702
+s815
+
+N/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o
+t1268827704
+s38076
+
+N/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o
+t1268827911
+s37940
+
+N/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSObject+SBJSON.o
+t1268827705
+s7584
+
+N/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSString+SBJSON.o
+t1268827705
+s7620
+
+N/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/SBJSON.o
+t1268827705
+s47464
+
+N/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o
+t1268827704
+s5944
+
+N/Users/todd/temp/MyFlickrTableView/main.m
+c0000000049F7E777000000000000016B
+t1240983415
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cgvkfvcpguozjwdainiwikxlpddf/MyTableView_Prefix.pch.gch
+t1257364477
+s12957072
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cvnkaxlsogwgalfeesuboaptwezh/MyTableView_Prefix.pch.gch
+t1268827704
+s12957072
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-gfgrdlayfcmyvcbysbnofvxxsvvm/MyTableView_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c0000000049F7E7770000000000000381
+t1240983415
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290520714#290520714#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o /Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279057277.268345
+e279057277.528590
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o
+x/Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewAppDelegate.m279057277#279057277#0(0"0(0#0#70"/Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewAppDelegate.m4300882208#1970"    cd /Users/todd/Desktop/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cgvkfvcpguozjwdainiwikxlpddf/MyTableView_Prefix.pch -c /Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewAppDelegate.m -o /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o /Users/todd/temp/MyFlickrTableView/Classes/MyTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290520504.815177
+e290520504.975625
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o
+x/Users/todd/temp/MyFlickrTableView/Classes/MyTableViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/todd/temp/MyFlickrTableView/Classes/MyTableViewAppDelegate.m290520504#290520504#0(0"0(0#0#67"/Users/todd/temp/MyFlickrTableView/Classes/MyTableViewAppDelegate.m4300885448#1937"    cd /Users/todd/temp/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cvnkaxlsogwgalfeesuboaptwezh/MyTableView_Prefix.pch -c /Users/todd/temp/MyFlickrTableView/Classes/MyTableViewAppDelegate.m -o /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewAppDelegate.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o /Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279058179.845650
+e279058180.000079
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o
+x/Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewController.m279058179#279058180#0(0"0(0#0#69"/Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewController.m4300882208#1968"    cd /Users/todd/Desktop/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cgvkfvcpguozjwdainiwikxlpddf/MyTableView_Prefix.pch -c /Users/todd/Desktop/MyFlickrTableView/Classes/MyTableViewController.m -o /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o /Users/todd/temp/MyFlickrTableView/Classes/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290520711.311379
+e290520711.411537
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o
+x/Users/todd/temp/MyFlickrTableView/Classes/MyTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/todd/temp/MyFlickrTableView/Classes/MyTableViewController.m290520711#290520711#0(0"0(0#0#66"/Users/todd/temp/MyFlickrTableView/Classes/MyTableViewController.m4300885448#1935"    cd /Users/todd/temp/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cvnkaxlsogwgalfeesuboaptwezh/MyTableView_Prefix.pch -c /Users/todd/temp/MyFlickrTableView/Classes/MyTableViewController.m -o /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableViewController.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSObject+SBJSON.o /Users/todd/Desktop/MyFlickrTableView/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279057277.528713
+e279057277.601792
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/todd/Desktop/MyFlickrTableView/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/todd/Desktop/MyFlickrTableView/JSON/NSObject+SBJSON.m279057277#279057277#0(0"0(0#0#60"/Users/todd/Desktop/MyFlickrTableView/JSON/NSObject+SBJSON.m4300882208#1953"    cd /Users/todd/Desktop/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cgvkfvcpguozjwdainiwikxlpddf/MyTableView_Prefix.pch -c /Users/todd/Desktop/MyFlickrTableView/JSON/NSObject+SBJSON.m -o /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSObject+SBJSON.o /Users/todd/temp/MyFlickrTableView/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290520504.975757
+e290520505.045338
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/todd/temp/MyFlickrTableView/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/todd/temp/MyFlickrTableView/JSON/NSObject+SBJSON.m290520504#290520505#0(0"0(0#0#57"/Users/todd/temp/MyFlickrTableView/JSON/NSObject+SBJSON.m4300885448#1920"    cd /Users/todd/temp/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cvnkaxlsogwgalfeesuboaptwezh/MyTableView_Prefix.pch -c /Users/todd/temp/MyFlickrTableView/JSON/NSObject+SBJSON.m -o /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSString+SBJSON.o /Users/todd/Desktop/MyFlickrTableView/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279057277.601909
+e279057277.672432
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/todd/Desktop/MyFlickrTableView/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/todd/Desktop/MyFlickrTableView/JSON/NSString+SBJSON.m279057277#279057277#0(0"0(0#0#60"/Users/todd/Desktop/MyFlickrTableView/JSON/NSString+SBJSON.m7742643527907304448#1953"    cd /Users/todd/Desktop/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cgvkfvcpguozjwdainiwikxlpddf/MyTableView_Prefix.pch -c /Users/todd/Desktop/MyFlickrTableView/JSON/NSString+SBJSON.m -o /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSString+SBJSON.o /Users/todd/temp/MyFlickrTableView/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290520505.045471
+e290520505.115789
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/todd/temp/MyFlickrTableView/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/todd/temp/MyFlickrTableView/JSON/NSString+SBJSON.m290520505#290520505#0(0"0(0#0#57"/Users/todd/temp/MyFlickrTableView/JSON/NSString+SBJSON.m4300885448#1920"    cd /Users/todd/temp/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cvnkaxlsogwgalfeesuboaptwezh/MyTableView_Prefix.pch -c /Users/todd/temp/MyFlickrTableView/JSON/NSString+SBJSON.m -o /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/SBJSON.o /Users/todd/Desktop/MyFlickrTableView/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279057277.632196
+e279057277.804077
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/SBJSON.o
+x/Users/todd/Desktop/MyFlickrTableView/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/todd/Desktop/MyFlickrTableView/JSON/SBJSON.m279057277#279057277#0(0"0(0#0#51"/Users/todd/Desktop/MyFlickrTableView/JSON/SBJSON.m4300882208#1935"    cd /Users/todd/Desktop/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cgvkfvcpguozjwdainiwikxlpddf/MyTableView_Prefix.pch -c /Users/todd/Desktop/MyFlickrTableView/JSON/SBJSON.m -o /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/SBJSON.o /Users/todd/temp/MyFlickrTableView/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290520505.114098
+e290520505.292688
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/SBJSON.o
+x/Users/todd/temp/MyFlickrTableView/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/todd/temp/MyFlickrTableView/JSON/SBJSON.m290520505#290520505#0(0"0(0#0#48"/Users/todd/temp/MyFlickrTableView/JSON/SBJSON.m4300885448#1902"    cd /Users/todd/temp/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cvnkaxlsogwgalfeesuboaptwezh/MyTableView_Prefix.pch -c /Users/todd/temp/MyFlickrTableView/JSON/SBJSON.m -o /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o /Users/todd/Desktop/MyFlickrTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279057277.266769
+e279057277.514434
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/MyFlickrTableView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/todd/Desktop/MyFlickrTableView/main.m279057277#279057277#0(0"0(0#0#44"/Users/todd/Desktop/MyFlickrTableView/main.m4300882208#1926"    cd /Users/todd/Desktop/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cgvkfvcpguozjwdainiwikxlpddf/MyTableView_Prefix.pch -c /Users/todd/Desktop/MyFlickrTableView/main.m -o /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o0#
+
+CCompileC build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o /Users/todd/temp/MyFlickrTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290520504.704304
+e290520504.894833
+r1
+xCompileC
+xbuild/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o
+x/Users/todd/temp/MyFlickrTableView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/todd/temp/MyFlickrTableView/main.m290520504#290520504#0(0"0(0#0#41"/Users/todd/temp/MyFlickrTableView/main.m4300885448#1893"    cd /Users/todd/temp/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cvnkaxlsogwgalfeesuboaptwezh/MyTableView_Prefix.pch -c /Users/todd/temp/MyFlickrTableView/main.m -o /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/todd/Desktop/MyFlickrTableView/MainWindow.xib
+s279057275.237421
+e279057275.597805
+r1
+xCompileXIB
+x/Users/todd/Desktop/MyFlickrTableView/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib279057275#279057275#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#52"/Users/todd/Desktop/MyFlickrTableView/MainWindow.xib4300882208#481"    cd /Users/todd/Desktop/MyFlickrTableView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MainWindow.nib /Users/todd/Desktop/MyFlickrTableView/MainWindow.xib0#
+
+CCompileXIB /Users/todd/temp/MyFlickrTableView/MainWindow.xib
+r0
+
+CGenerateDSYMFile /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app.dSYM /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView
+s279058180.030721
+e279058180.116328
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app.dSYM
+x/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/MyTableView.app.dSYM build/Debug-iphonesimulator/MyTableView.app/MyTableView279058180#279058180#0(0"0(0#0#93"/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView4300882208#392"    cd /Users/todd/Desktop/MyFlickrTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView -o /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app.dSYM0#
+
+CGenerateDSYMFile /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app.dSYM /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView
+s290520711.482731
+e290520711.624965
+r1
+xGenerateDSYMFile
+x/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app.dSYM
+x/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/MyTableView.app.dSYM build/Debug-iphonesimulator/MyTableView.app/MyTableView290520711#290520711#0(0"0(0#0#90"/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView4300885448#383"    cd /Users/todd/temp/MyFlickrTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView -o /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app.dSYM0#
+
+CLd /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView normal i386
+s279058180.000182
+e279058180.030585
+r1
+xLd
+x/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView
+xnormal
+xi386
+lSLF07#2@98"Link /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView279058180#279058180#0(0"0(0#0#0"4300882208#887"    cd /Users/todd/Desktop/MyFlickrTableView    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator -F/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator -filelist /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableView.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3 -o /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView0#
+
+CLd /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView normal i386
+s290520711.411656
+e290520711.482595
+r1
+xLd
+x/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView
+xnormal
+xi386
+lSLF07#2@95"Link /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView290520711#290520711#0(0"0(0#0#0"4300885448#872"    cd /Users/todd/temp/MyFlickrTableView    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator -F/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator -filelist /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/Objects-normal/i386/MyTableView.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3 -o /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/MyTableView0#
+
+CProcessInfoPlistFile /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/Info.plist Info.plist
+s279057275.201011
+e279057275.237289
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist279057275#279057275#0(0"0(0#0#48"/Users/todd/Desktop/MyFlickrTableView/Info.plist29555065834897524#476"    cd /Users/todd/Desktop/MyFlickrTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cgvkfvcpguozjwdainiwikxlpddf/MyTableView_Prefix.pch.gch MyTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s279057275.598031
+e279057277.266460
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cgvkfvcpguozjwdainiwikxlpddf/MyTableView_Prefix.pch.gch
+xMyTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MyTableView_Prefix.pch279057275#279057277#0(0"0(0#0#60"/Users/todd/Desktop/MyFlickrTableView/MyTableView_Prefix.pch4300882208#1815"    cd /Users/todd/Desktop/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -c /Users/todd/Desktop/MyFlickrTableView/MyTableView_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cgvkfvcpguozjwdainiwikxlpddf/MyTableView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cvnkaxlsogwgalfeesuboaptwezh/MyTableView_Prefix.pch.gch MyTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290520502.433341
+e290520504.704074
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cvnkaxlsogwgalfeesuboaptwezh/MyTableView_Prefix.pch.gch
+xMyTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MyTableView_Prefix.pch290520502#290520504#0(0"0(0#0#57"/Users/todd/temp/MyFlickrTableView/MyTableView_Prefix.pch4300885448#1785"    cd /Users/todd/temp/MyFlickrTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-generated-files.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-own-target-headers.hmap -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-all-target-headers.hmap -iquote /Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/MyTableView-project-headers.hmap -F/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator -I/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/include -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources/i386 -I/Users/todd/temp/MyFlickrTableView/build/MyTableView.build/Debug-iphonesimulator/MyTableView.build/DerivedSources -c /Users/todd/temp/MyFlickrTableView/MyTableView_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-cvnkaxlsogwgalfeesuboaptwezh/MyTableView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MyTableView_Prefix-gfgrdlayfcmyvcbysbnofvxxsvvm/MyTableView_Prefix.pch.gch MyTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app
+s279058180.116432
+e279058180.119795
+r1
+xTouch
+x/Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app
+lSLF07#2@87"Touch /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app279058180#279058180#0(0"0(0#0#0"4300882208#280"    cd /Users/todd/Desktop/MyFlickrTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app0#
+
+CTouch /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app
+s290520711.625066
+e290520711.628906
+r1
+xTouch
+x/Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app
+lSLF07#2@84"Touch /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app290520711#290520711#0(0"0(0#0#0"4300885448#274"    cd /Users/todd/temp/MyFlickrTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/temp/MyFlickrTableView/build/Debug-iphonesimulator/MyTableView.app0#
+

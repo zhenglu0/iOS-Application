@@ -1,0 +1,513 @@
+TTouches
+v7
+r0
+t324314523.572710
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Touches.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Info.plist Info.plist
+cCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/CyanSquare.png Images/CyanSquare.png
+cCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Default.png Images/Default.png
+cCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon.png Images/Icon.png
+cCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/MagentaSquare.png Images/MagentaSquare.png
+cCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/YellowSquare.png Images/YellowSquare.png
+cCompileXIB /Users/todd/Desktop/Touches_Classic/en.lproj/MainWindow.xib
+cCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-72.png Images/Icon-72.png
+cCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small-50.png Images/Icon-Small-50.png
+cCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small.png Images/Icon-Small.png
+cCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small@2x.png Images/Icon-Small@2x.png
+cCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon@2x.png Images/Icon@2x.png
+cCpResource build/Debug-iphoneos/Touches.app/iTunesArtwork Images/iTunesArtwork
+cProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-dyukzcxcffymkzbniidngaxgkjqz/Touches_Prefix.pch.gch Touches_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/main.o /Users/todd/Desktop/Touches_Classic/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/TouchesAppDelegate.o /Users/todd/Desktop/Touches_Classic/Classes/TouchesAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/MyView.o /Users/todd/Desktop/Touches_Classic/Classes/MyView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Touches normal armv6
+cGenerateDSYMFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app.dSYM /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Touches
+cProcessProductPackaging "/Users/todd/Library/MobileDevice/Provisioning Profiles/CB96C9D1-A2D5-4088-B856-4DC96D0C1A80.mobileprovision" /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/embedded.mobileprovision
+cTouch /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches.xcent
+cCodeSign /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/todd/Desktop/Touches_Classic/Classes/MyView.h
+c000000004C2D08DA0000000000000E45
+t1278019802
+s3653
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/Touches_Classic/Classes/MyView.m
+c000000004C2D08DA00000000000028B4
+t1278019802
+s10420
+i"MyView.h"
+
+N/Users/todd/Desktop/Touches_Classic/Classes/TouchesAppDelegate.h
+c000000004C2D08DA0000000000000A36
+t1278019802
+s2614
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/Touches_Classic/Classes/TouchesAppDelegate.m
+c000000004C2D08DA0000000000000C26
+t1278019802
+s3110
+i"TouchesAppDelegate.h"
+
+N/Users/todd/Desktop/Touches_Classic/Images/CyanSquare.png
+c000000004C06A10A000000000000191A
+t1275502858
+s6426
+
+N/Users/todd/Desktop/Touches_Classic/Images/Default.png
+c000000004C06A10A0000000000004B3C
+t1275502858
+s19260
+
+N/Users/todd/Desktop/Touches_Classic/Images/Icon-72.png
+c000000004C2B6BD50000000000000427
+t1277914069
+s1063
+
+N/Users/todd/Desktop/Touches_Classic/Images/Icon-Small-50.png
+c000000004C2B6BD500000000000003E0
+t1277914069
+s992
+
+N/Users/todd/Desktop/Touches_Classic/Images/Icon-Small.png
+c000000004C2B6BD50000000000000396
+t1277914069
+s918
+
+N/Users/todd/Desktop/Touches_Classic/Images/Icon-Small@2x.png
+c000000004C2B6BD500000000000003F2
+t1277914069
+s1010
+
+N/Users/todd/Desktop/Touches_Classic/Images/Icon.png
+c000000004C2B6BD500000000000003EF
+t1277914069
+s1007
+
+N/Users/todd/Desktop/Touches_Classic/Images/Icon@2x.png
+c000000004C2B6BD500000000000004E4
+t1277914069
+s1252
+
+N/Users/todd/Desktop/Touches_Classic/Images/MagentaSquare.png
+c000000004C06A10A00000000000019CE
+t1275502858
+s6606
+
+N/Users/todd/Desktop/Touches_Classic/Images/YellowSquare.png
+c000000004C06A10A0000000000000F03
+t1275502858
+s3843
+
+N/Users/todd/Desktop/Touches_Classic/Images/iTunesArtwork
+c000000004C2B6BD50000000000001444
+t1277914069
+s5188
+
+N/Users/todd/Desktop/Touches_Classic/Touches_Prefix.pch
+c000000004C06A10A00000000000000AF
+t1275502858
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app
+t1302621723
+s714
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app.dSYM
+t1302621723
+s102
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/CyanSquare.png
+t1302621721
+s6820
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Default.png
+t1302621721
+s23482
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-72.png
+t1302621721
+s925
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small-50.png
+t1302621721
+s880
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small.png
+t1302621721
+s854
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small@2x.png
+t1302621721
+s893
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon.png
+t1302621721
+s891
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon@2x.png
+t1302621721
+s995
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Info.plist
+t1302621721
+s976
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/MagentaSquare.png
+t1302621721
+s7321
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/PkgInfo
+t1302621721
+s8
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/ResourceRules.plist
+t1302621721
+s485
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Touches
+t1302621723
+s28012
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/YellowSquare.png
+t1302621721
+s4364
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/embedded.mobileprovision
+t1302621723
+s8756
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/en.lproj/MainWindow.nib
+t1302621722
+s2674
+
+N/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/iTunesArtwork
+t1302621721
+s5188
+
+N/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/MyView.o
+t1302621723
+s63004
+
+N/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/Touches.LinkFileList
+c000000004DA46E190000000000000163
+t1302621721
+s355
+
+N/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/TouchesAppDelegate.o
+t1302621723
+s43612
+
+N/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/main.o
+t1302621723
+s6440
+
+N/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches.xcent
+t1302621723
+s420
+
+N/Users/todd/Desktop/Touches_Classic/en.lproj/MainWindow.xib
+c000000004C06A10A0000000000004B34
+t1275502858
+s19252
+
+N/Users/todd/Desktop/Touches_Classic/main.m
+c000000004C2D08DA0000000000000A54
+t1278019802
+s2644
+i<UIKit/UIKit.h>
+
+N/Users/todd/Library/MobileDevice/Provisioning Profiles/CB96C9D1-A2D5-4088-B856-4DC96D0C1A80.mobileprovision
+c000000004D6426300000000000002234
+t1298409008
+s8756
+
+N/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-dyukzcxcffymkzbniidngaxgkjqz/Touches_Prefix.pch.gch
+t1302621723
+s10000088
+
+NInfo.plist
+c000000004C2B6C6F0000000000000499
+t1277914223
+s1177
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324314521#324314521#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCodeSign /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app
+s324314523.387547
+e324314523.572667
+r1
+xCodeSign
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/Touches.app324314523#324314523#0(0"0(0#0#68"/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app8603777888#636"    cd /Users/todd/Desktop/Touches_Classic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Todd Sproull (9NMFKC366W)" --resource-rules=/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/ResourceRules.plist --entitlements /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches.xcent /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app0#
+
+CCompileC build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/MyView.o /Users/todd/Desktop/Touches_Classic/Classes/MyView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s324314523.136631
+e324314523.280315
+r1
+xCompileC
+xbuild/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/MyView.o
+x/Users/todd/Desktop/Touches_Classic/Classes/MyView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/todd/Desktop/Touches_Classic/Classes/MyView.m324314523#324314523#0(0"0(0#0#52"/Users/todd/Desktop/Touches_Classic/Classes/MyView.m8604024352#1703"    cd /Users/todd/Desktop/Touches_Classic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-generated-files.hmap -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-own-target-headers.hmap -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-all-target-headers.hmap -iquote /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-project-headers.hmap -F/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos -I/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/include -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/DerivedSources/armv6 -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/DerivedSources -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-dyukzcxcffymkzbniidngaxgkjqz/Touches_Prefix.pch -c /Users/todd/Desktop/Touches_Classic/Classes/MyView.m -o /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/MyView.o0#
+
+CCompileC build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/TouchesAppDelegate.o /Users/todd/Desktop/Touches_Classic/Classes/TouchesAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s324314523.072018
+e324314523.167901
+r1
+xCompileC
+xbuild/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/TouchesAppDelegate.o
+x/Users/todd/Desktop/Touches_Classic/Classes/TouchesAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/todd/Desktop/Touches_Classic/Classes/TouchesAppDelegate.m324314523#324314523#0(0"0(0#0#64"/Users/todd/Desktop/Touches_Classic/Classes/TouchesAppDelegate.m8601143360#1727"    cd /Users/todd/Desktop/Touches_Classic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-generated-files.hmap -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-own-target-headers.hmap -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-all-target-headers.hmap -iquote /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-project-headers.hmap -F/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos -I/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/include -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/DerivedSources/armv6 -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/DerivedSources -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-dyukzcxcffymkzbniidngaxgkjqz/Touches_Prefix.pch -c /Users/todd/Desktop/Touches_Classic/Classes/TouchesAppDelegate.m -o /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/TouchesAppDelegate.o0#
+
+CCompileC build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/main.o /Users/todd/Desktop/Touches_Classic/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s324314523.071024
+e324314523.136524
+r1
+xCompileC
+xbuild/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/main.o
+x/Users/todd/Desktop/Touches_Classic/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/todd/Desktop/Touches_Classic/main.m324314523#324314523#0(0"0(0#0#42"/Users/todd/Desktop/Touches_Classic/main.m8605988192#1691"    cd /Users/todd/Desktop/Touches_Classic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-generated-files.hmap -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-own-target-headers.hmap -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-all-target-headers.hmap -iquote /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-project-headers.hmap -F/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos -I/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/include -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/DerivedSources/armv6 -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/DerivedSources -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-dyukzcxcffymkzbniidngaxgkjqz/Touches_Prefix.pch -c /Users/todd/Desktop/Touches_Classic/main.m -o /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/todd/Desktop/Touches_Classic/en.lproj/MainWindow.xib
+s324314521.786468
+e324314522.283036
+r1
+xCompileXIB
+x/Users/todd/Desktop/Touches_Classic/en.lproj/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib324314521#324314522#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#59"/Users/todd/Desktop/Touches_Classic/en.lproj/MainWindow.xib8603040736#551"    cd /Users/todd/Desktop/Touches_Classic    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/en.lproj/MainWindow.nib /Users/todd/Desktop/Touches_Classic/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/CyanSquare.png Images/CyanSquare.png
+s324314521.476165
+e324314521.596128
+r1
+xCopyPNGFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/CyanSquare.png
+xImages/CyanSquare.png
+lSLF07#2@81"CopyPNGFile build/Debug-iphoneos/Touches.app/CyanSquare.png Images/CyanSquare.png324314521#324314521#0(0"0(0#0#57"/Users/todd/Desktop/Touches_Classic/Images/CyanSquare.png8602926784#566"    cd /Users/todd/Desktop/Touches_Classic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/todd/Desktop/Touches_Classic/Images/CyanSquare.png /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/CyanSquare.png0#
+
+CCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Default.png Images/Default.png
+s324314521.476839
+e324314521.786385
+r1
+xCopyPNGFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Default.png
+xImages/Default.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/Touches.app/Default.png Images/Default.png324314521#324314521#0(0"0(0#0#54"/Users/todd/Desktop/Touches_Classic/Images/Default.png8606317984#560"    cd /Users/todd/Desktop/Touches_Classic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/todd/Desktop/Touches_Classic/Images/Default.png /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Default.png0#
+
+CCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-72.png Images/Icon-72.png
+s324314521.829455
+e324314521.858410
+r1
+xCopyPNGFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-72.png
+xImages/Icon-72.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/Touches.app/Icon-72.png Images/Icon-72.png324314521#324314521#0(0"0(0#0#54"/Users/todd/Desktop/Touches_Classic/Images/Icon-72.png8603893664#560"    cd /Users/todd/Desktop/Touches_Classic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/todd/Desktop/Touches_Classic/Images/Icon-72.png /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-72.png0#
+
+CCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small-50.png Images/Icon-Small-50.png
+s324314521.858523
+e324314521.882927
+r1
+xCopyPNGFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small-50.png
+xImages/Icon-Small-50.png
+lSLF07#2@87"CopyPNGFile build/Debug-iphoneos/Touches.app/Icon-Small-50.png Images/Icon-Small-50.png324314521#324314521#0(0"0(0#0#60"/Users/todd/Desktop/Touches_Classic/Images/Icon-Small-50.png8606395840#572"    cd /Users/todd/Desktop/Touches_Classic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/todd/Desktop/Touches_Classic/Images/Icon-Small-50.png /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small-50.png0#
+
+CCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small.png Images/Icon-Small.png
+s324314521.883020
+e324314521.907266
+r1
+xCopyPNGFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small.png
+xImages/Icon-Small.png
+lSLF07#2@81"CopyPNGFile build/Debug-iphoneos/Touches.app/Icon-Small.png Images/Icon-Small.png324314521#324314521#0(0"0(0#0#57"/Users/todd/Desktop/Touches_Classic/Images/Icon-Small.png8604519040#566"    cd /Users/todd/Desktop/Touches_Classic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/todd/Desktop/Touches_Classic/Images/Icon-Small.png /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small.png0#
+
+CCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small@2x.png Images/Icon-Small@2x.png
+s324314521.907356
+e324314521.932276
+r1
+xCopyPNGFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small@2x.png
+xImages/Icon-Small@2x.png
+lSLF07#2@87"CopyPNGFile build/Debug-iphoneos/Touches.app/Icon-Small@2x.png Images/Icon-Small@2x.png324314521#324314521#0(0"0(0#0#60"/Users/todd/Desktop/Touches_Classic/Images/Icon-Small@2x.png8604559456#572"    cd /Users/todd/Desktop/Touches_Classic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/todd/Desktop/Touches_Classic/Images/Icon-Small@2x.png /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon-Small@2x.png0#
+
+CCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon.png Images/Icon.png
+s324314521.596215
+e324314521.638297
+r1
+xCopyPNGFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon.png
+xImages/Icon.png
+lSLF07#2@69"CopyPNGFile build/Debug-iphoneos/Touches.app/Icon.png Images/Icon.png324314521#324314521#0(0"0(0#0#51"/Users/todd/Desktop/Touches_Classic/Images/Icon.png8599687744#554"    cd /Users/todd/Desktop/Touches_Classic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/todd/Desktop/Touches_Classic/Images/Icon.png /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon.png0#
+
+CCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon@2x.png Images/Icon@2x.png
+s324314521.932365
+e324314521.957535
+r1
+xCopyPNGFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon@2x.png
+xImages/Icon@2x.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/Touches.app/Icon@2x.png Images/Icon@2x.png324314521#324314521#0(0"0(0#0#54"/Users/todd/Desktop/Touches_Classic/Images/Icon@2x.png8602982816#560"    cd /Users/todd/Desktop/Touches_Classic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/todd/Desktop/Touches_Classic/Images/Icon@2x.png /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Icon@2x.png0#
+
+CCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/MagentaSquare.png Images/MagentaSquare.png
+s324314521.638383
+e324314521.734308
+r1
+xCopyPNGFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/MagentaSquare.png
+xImages/MagentaSquare.png
+lSLF07#2@87"CopyPNGFile build/Debug-iphoneos/Touches.app/MagentaSquare.png Images/MagentaSquare.png324314521#324314521#0(0"0(0#0#60"/Users/todd/Desktop/Touches_Classic/Images/MagentaSquare.png8606359680#572"    cd /Users/todd/Desktop/Touches_Classic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/todd/Desktop/Touches_Classic/Images/MagentaSquare.png /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/MagentaSquare.png0#
+
+CCopyPNGFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/YellowSquare.png Images/YellowSquare.png
+s324314521.734398
+e324314521.829362
+r1
+xCopyPNGFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/YellowSquare.png
+xImages/YellowSquare.png
+lSLF07#2@85"CopyPNGFile build/Debug-iphoneos/Touches.app/YellowSquare.png Images/YellowSquare.png324314521#324314521#0(0"0(0#0#59"/Users/todd/Desktop/Touches_Classic/Images/YellowSquare.png8604478208#570"    cd /Users/todd/Desktop/Touches_Classic    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/todd/Desktop/Touches_Classic/Images/YellowSquare.png /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/YellowSquare.png0#
+
+CCpResource build/Debug-iphoneos/Touches.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s324314521.461799
+e324314521.476086
+r1
+xCpResource
+xbuild/Debug-iphoneos/Touches.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist324314521#324314521#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist5922070114188801024#488"    cd /Users/todd/Desktop/Touches_Classic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app0#
+
+CCpResource build/Debug-iphoneos/Touches.app/iTunesArtwork Images/iTunesArtwork
+s324314521.957624
+e324314521.962873
+r1
+xCpResource
+xbuild/Debug-iphoneos/Touches.app/iTunesArtwork
+xImages/iTunesArtwork
+lSLF07#2@25"Copy Images/iTunesArtwork324314521#324314521#0(0"0(0#0#56"/Users/todd/Desktop/Touches_Classic/Images/iTunesArtwork8604304864#455"    cd /Users/todd/Desktop/Touches_Classic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/todd/Desktop/Touches_Classic/Images/iTunesArtwork /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app0#
+
+CGenerateDSYMFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app.dSYM /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Touches
+s324314523.353177
+e324314523.379006
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app.dSYM
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Touches
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/Touches.app.dSYM build/Debug-iphoneos/Touches.app/Touches324314523#324314523#0(0"0(0#0#76"/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Touches8606359456#353"    cd /Users/todd/Desktop/Touches_Classic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Touches -o /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app.dSYM0#
+
+CLd /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Touches normal armv6
+s324314523.280733
+e324314523.353085
+r1
+xLd
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Touches
+xnormal
+xarmv6
+lSLF07#2@81"Link /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Touches324314523#324314523#0(0"0(0#0#0"8600984640#807"    cd /Users/todd/Desktop/Touches_Classic    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos -F/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos -filelist /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Objects-normal/armv6/Touches.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework UIKit -framework CoreGraphics -framework Foundation -o /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Touches0#
+
+CProcessInfoPlistFile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Info.plist Info.plist
+s324314521.467693
+e324314521.471081
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist324314521#324314521#0(0"0(0#0#46"/Users/todd/Desktop/Touches_Classic/Info.plist8601294688#542"    cd /Users/todd/Desktop/Touches_Classic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/ResourceRules.plist -o /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/Info.plist0#
+
+CProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-dyukzcxcffymkzbniidngaxgkjqz/Touches_Prefix.pch.gch Touches_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s324314522.283185
+e324314523.070876
+r1
+xProcessPCH
+x/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-dyukzcxcffymkzbniidngaxgkjqz/Touches_Prefix.pch.gch
+xTouches_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Touches_Prefix.pch324314522#324314523#0(0"0(0#0#54"/Users/todd/Desktop/Touches_Classic/Touches_Prefix.pch8606061568#1592"    cd /Users/todd/Desktop/Touches_Classic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-generated-files.hmap -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-own-target-headers.hmap -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-all-target-headers.hmap -iquote /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches-project-headers.hmap -F/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos -I/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/include -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/DerivedSources/armv6 -I/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/DerivedSources -c /Users/todd/Desktop/Touches_Classic/Touches_Prefix.pch -o /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-dyukzcxcffymkzbniidngaxgkjqz/Touches_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/todd/Library/MobileDevice/Provisioning Profiles/CB96C9D1-A2D5-4088-B856-4DC96D0C1A80.mobileprovision" /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/embedded.mobileprovision
+s324314523.379120
+e324314523.380296
+r1
+xProcessProductPackaging
+x/Users/todd/Library/MobileDevice/Provisioning Profiles/CB96C9D1-A2D5-4088-B856-4DC96D0C1A80.mobileprovision
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/embedded.mobileprovision
+lSLF07#2@191"ProcessProductPackaging "/Users/todd/Library/MobileDevice/Provisioning Profiles/CB96C9D1-A2D5-4088-B856-4DC96D0C1A80.mobileprovision" build/Debug-iphoneos/Touches.app/embedded.mobileprovision324314523#324314523#0(0"0(0#0#93"/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/embedded.mobileprovision8605865280#416"    cd /Users/todd/Desktop/Touches_Classic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/todd/Library/MobileDevice/Provisioning Profiles/CB96C9D1-A2D5-4088-B856-4DC96D0C1A80.mobileprovision" -o /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches.xcent
+s324314523.385937
+e324314523.387486
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/Touches.build/Debug-iphoneos/Touches.build/Touches.xcent324314523#324314523#0(0"0(0#0#98"/Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches.xcent8603969984#426"    cd /Users/todd/Desktop/Touches_Classic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/todd/Desktop/Touches_Classic/build/Touches.build/Debug-iphoneos/Touches.build/Touches.xcent0#
+
+CTouch /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app
+s324314523.380352
+e324314523.385849
+r1
+xTouch
+x/Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app
+lSLF07#2@74"Touch /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app324314523#324314523#0(0"0(0#0#0"8605771392#258"    cd /Users/todd/Desktop/Touches_Classic    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/Touches_Classic/build/Debug-iphoneos/Touches.app0#
+

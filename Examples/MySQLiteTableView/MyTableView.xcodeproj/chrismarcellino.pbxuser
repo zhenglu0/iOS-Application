@@ -1,0 +1,209 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MyTableViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {857, 537}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 318}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MyTableViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {857, 537}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 703}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MyTableView */ = {
+		activeExec = 0;
+		executables = (
+			2164DC0E110D2927003DC047 /* MyTableView */,
+		);
+	};
+	2164DC0E110D2927003DC047 /* MyTableView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MyTableView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2164DC26110D292D003DC047 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2164DC27110D292D003DC047 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2164DC4A110D2D0B003DC047 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MyTableViewAppDelegate.m */;
+		name = "MyTableViewAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 703;
+		vrLoc = 0;
+	};
+	2164DC4B110D2D0B003DC047 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MyTableViewAppDelegate.h */;
+		name = "MyTableViewAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 318;
+		vrLoc = 0;
+	};
+	2164DC4E110D2D8C003DC047 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/chrismarcellino/Desktop/Stanford C193P Lecture/MySQLiteTableView/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	21B24602110F983C001B085C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 690069400EAE757F00F7AF64 /* MyTableViewController.h */;
+		name = "MyTableViewController.h: 13";
+		rLen = 0;
+		rLoc = 170;
+		rType = 0;
+		vrLen = 170;
+		vrLoc = 0;
+	};
+	21E41709110D2D9B009151BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 690069410EAE757F00F7AF64 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 51";
+		rLen = 0;
+		rLoc = 1198;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 901;
+	};
+	21E4170A110D2D9B009151BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 690069400EAE757F00F7AF64 /* MyTableViewController.h */;
+		name = "MyTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 170;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2164DC0E110D2927003DC047 /* MyTableView */;
+		activeSDKPreference = iphonesimulator3.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MyTableView */;
+		codeSenseManager = 2164DC27110D292D003DC047 /* Code sense */;
+		executables = (
+			2164DC0E110D2927003DC047 /* MyTableView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					667,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					627,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 286234551;
+			PBXWorkspaceStateSaveDate = 286234551;
+		};
+		perUserProjectItems = {
+			2164DC4A110D2D0B003DC047 /* PBXTextBookmark */ = 2164DC4A110D2D0B003DC047 /* PBXTextBookmark */;
+			2164DC4B110D2D0B003DC047 /* PBXTextBookmark */ = 2164DC4B110D2D0B003DC047 /* PBXTextBookmark */;
+			2164DC4E110D2D8C003DC047 /* PlistBookmark */ = 2164DC4E110D2D8C003DC047 /* PlistBookmark */;
+			21B24602110F983C001B085C /* PBXTextBookmark */ = 21B24602110F983C001B085C /* PBXTextBookmark */;
+			21E41709110D2D9B009151BB /* PBXTextBookmark */ = 21E41709110D2D9B009151BB /* PBXTextBookmark */;
+			21E4170A110D2D9B009151BB /* PBXTextBookmark */ = 21E4170A110D2D9B009151BB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2164DC26110D292D003DC047 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	690069400EAE757F00F7AF64 /* MyTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {857, 353}}";
+			sepNavSelRange = "{170, 0}";
+			sepNavVisRange = "{0, 170}";
+		};
+	};
+	690069410EAE757F00F7AF64 /* MyTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {857, 819}}";
+			sepNavSelRange = "{1198, 0}";
+			sepNavVisRange = "{901, 616}";
+		};
+	};
+}

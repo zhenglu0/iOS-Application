@@ -1,0 +1,505 @@
+TSimpleTableView
+v7
+r0
+t307575403.189158
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist SimpleTableView-Info.plist
+cCompileXIB /Users/todd/Desktop/SimpleTableView/MainWindow.xib
+cProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-ccugumgnywnkqjeqntxagredaozf/SimpleTableView_Prefix.pch.gch SimpleTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o /Users/todd/Desktop/SimpleTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o /Users/todd/Desktop/SimpleTableView/Classes/SimpleTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/AnotherTableView.o /Users/todd/Desktop/SimpleTableView/Classes/AnotherTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView normal i386
+cGenerateDSYMFile /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+cTouch /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004B6B206300000000000000EE
+t1265311843
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B6B1EBE00000000000000EE
+t1265311422
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/todd/Desktop/SimpleTableView/Classes/AnotherTableView.h
+c000000004B97CDFB0000000000000111
+t1268239867
+s273
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/SimpleTableView/Classes/AnotherTableView.m
+c000000004BA1163B00000000000012B8
+t1268848187
+s4792
+i"AnotherTableView.h"
+
+N/Users/todd/Desktop/SimpleTableView/Classes/SimpleTableViewAppDelegate.h
+c000000004B9E4FF00000000000000194
+t1268666352
+s404
+i<UIKit/UIKit.h>
+i"AnotherTableView.h"
+
+N/Users/todd/Desktop/SimpleTableView/Classes/SimpleTableViewAppDelegate.m
+c000000004B9E503F0000000000000272
+t1268666431
+s626
+i"SimpleTableViewAppDelegate.h"
+
+N/Users/todd/Desktop/SimpleTableView/MainWindow.xib
+c000000004B9E4F390000000000001F7B
+t1268666169
+s8059
+
+N/Users/todd/Desktop/SimpleTableView/SimpleTableView_Prefix.pch
+c000000004B9E4F3900000000000000C7
+t1268666169
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+t1285867939
+s204
+
+N/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM
+t1285867939
+s102
+
+N/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist
+t1285867929
+s629
+
+N/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/MainWindow.nib
+t1285867932
+s1508
+
+N/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/PkgInfo
+t1285867929
+s8
+
+N/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+t1285867938
+s17396
+
+N/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/AnotherTableView.o
+t1285867938
+s47276
+
+N/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableView.LinkFileList
+c000000004CA4C99900000000000001B7
+t1285867929
+s439
+
+N/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o
+t1285867938
+s45436
+
+N/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o
+t1285867938
+s6296
+
+N/Users/todd/Desktop/SimpleTableView/main.m
+c000000004B9E4F390000000000000169
+t1268666169
+s361
+i<UIKit/UIKit.h>
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/AnotherTableView.h
+c000000004B97CDFB0000000000000111
+t1268239867
+s273
+i<UIKit/UIKit.h>
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/AnotherTableView.m
+c000000004BA1163B00000000000012B8
+t1268848187
+s4792
+i"AnotherTableView.h"
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/SimpleTableViewAppDelegate.h
+c000000004B9E4FF00000000000000194
+t1268666352
+s404
+i<UIKit/UIKit.h>
+i"AnotherTableView.h"
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/SimpleTableViewAppDelegate.m
+c000000004B9E503F0000000000000272
+t1268666431
+s626
+i"SimpleTableViewAppDelegate.h"
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/MainWindow.xib
+c000000004B9E4F390000000000001F7B
+t1268666169
+s8059
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/SimpleTableView_Prefix.pch
+c000000004B9E4F3900000000000000C7
+t1268666169
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+t1268848192
+s204
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM
+t1268848192
+s102
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist
+t1268673173
+s600
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/MainWindow.nib
+t1268673174
+s1353
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/PkgInfo
+t1268673173
+s8
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+t1268848192
+s20780
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/AnotherTableView.o
+t1268848192
+s40064
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableView.LinkFileList
+c000000004BA11608000000000000021A
+t1268848136
+s538
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o
+t1268848153
+s37500
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o
+t1268848153
+s6012
+
+N/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/main.m
+c000000004B9E4F390000000000000169
+t1268666169
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-ccugumgnywnkqjeqntxagredaozf/SimpleTableView_Prefix.pch.gch
+t1285867937
+s15211536
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-cteamxslzwrphsfdooizogmweocx/SimpleTableView_Prefix.pch.gch
+t1268673174
+s12957072
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-dojugjbtivhbgmeldgbhnpdgsyvb/SimpleTableView_Prefix.pch.gch
+t1268848152
+s12957072
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-fwtqgiagrcxizgdejvqbkvozrjiw/SimpleTableView_Prefix.pch.gch
+t1268666290
+s13034960
+
+NSimpleTableView-Info.plist
+c000000004B9E4F39000000000000038D
+t1268666169
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307575403#307575403#0(0"0(0#1#0"8612705920#0"0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/AnotherTableView.o /Users/todd/Desktop/SimpleTableView/Classes/AnotherTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307560738.691467
+e307560738.877132
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/AnotherTableView.o
+x/Users/todd/Desktop/SimpleTableView/Classes/AnotherTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/todd/Desktop/SimpleTableView/Classes/AnotherTableView.m307560738#307560738#0(0"0(0#0#62"/Users/todd/Desktop/SimpleTableView/Classes/AnotherTableView.m8609142368#2073"    cd /Users/todd/Desktop/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-ccugumgnywnkqjeqntxagredaozf/SimpleTableView_Prefix.pch -c /Users/todd/Desktop/SimpleTableView/Classes/AnotherTableView.m -o /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/AnotherTableView.o0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/AnotherTableView.o /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/AnotherTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290540992.282911
+e290540992.478011
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/AnotherTableView.o
+x/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/AnotherTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/AnotherTableView.m290540992#290540992#0(0"0(0#0#95"/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/AnotherTableView.m4300885448#2379"    cd /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-dojugjbtivhbgmeldgbhnpdgsyvb/SimpleTableView_Prefix.pch -c /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/AnotherTableView.m -o /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/AnotherTableView.o0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o /Users/todd/Desktop/SimpleTableView/Classes/SimpleTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307560738.536664
+e307560738.729044
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o
+x/Users/todd/Desktop/SimpleTableView/Classes/SimpleTableViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/todd/Desktop/SimpleTableView/Classes/SimpleTableViewAppDelegate.m307560738#307560738#0(0"0(0#0#72"/Users/todd/Desktop/SimpleTableView/Classes/SimpleTableViewAppDelegate.m8604017056#2093"    cd /Users/todd/Desktop/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-ccugumgnywnkqjeqntxagredaozf/SimpleTableView_Prefix.pch -c /Users/todd/Desktop/SimpleTableView/Classes/SimpleTableViewAppDelegate.m -o /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/SimpleTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290540953.312643
+e290540953.504646
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o
+x/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/SimpleTableViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/SimpleTableViewAppDelegate.m290540953#290540953#0(0"0(0#0#105"/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/SimpleTableViewAppDelegate.m4300885448#2399"    cd /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-dojugjbtivhbgmeldgbhnpdgsyvb/SimpleTableView_Prefix.pch -c /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/Classes/SimpleTableViewAppDelegate.m -o /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o /Users/todd/Desktop/SimpleTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307560738.494760
+e307560738.691023
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/SimpleTableView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/todd/Desktop/SimpleTableView/main.m307560738#307560738#0(0"0(0#0#42"/Users/todd/Desktop/SimpleTableView/main.m8603877632#2041"    cd /Users/todd/Desktop/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-ccugumgnywnkqjeqntxagredaozf/SimpleTableView_Prefix.pch -c /Users/todd/Desktop/SimpleTableView/main.m -o /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290540953.217149
+e290540953.408899
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o
+x/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/main.m290540953#290540953#0(0"0(0#0#75"/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/main.m4300885448#2347"    cd /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-dojugjbtivhbgmeldgbhnpdgsyvb/SimpleTableView_Prefix.pch -c /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/main.m -o /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/todd/Desktop/SimpleTableView/MainWindow.xib
+s307560729.526259
+e307560732.426535
+r1
+xCompileXIB
+x/Users/todd/Desktop/SimpleTableView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib307560729#307560732#0(0"0(0#0#50"/Users/todd/Desktop/SimpleTableView/MainWindow.xib8606017920#569"    cd /Users/todd/Desktop/SimpleTableView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/MainWindow.nib /Users/todd/Desktop/SimpleTableView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/MainWindow.xib
+r0
+
+CGenerateDSYMFile /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+s307560738.951679
+e307560739.236913
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM
+x/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/SimpleTableView.app.dSYM build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView307560738#307560739#0(0"0(0#0#99"/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView8605825344#398"    cd /Users/todd/Desktop/SimpleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView -o /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM0#
+
+CGenerateDSYMFile /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+s290540992.502319
+e290540992.759952
+r1
+xGenerateDSYMFile
+x/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM
+x/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/SimpleTableView.app.dSYM build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView290540992#290540992#0(0"0(0#0#132"/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView4300885448#497"    cd /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView -o /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM0#
+
+CLd /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView normal i386
+s307560738.877240
+e307560738.951535
+r1
+xLd
+x/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+xnormal
+xi386
+lSLF07#2@104"Link /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView307560738#307560738#0(0"0(0#0#0"8606853376#925"    cd /Users/todd/Desktop/SimpleTableView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator -F/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator -filelist /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableView.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView0#
+
+CLd /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView normal i386
+s290540992.478126
+e290540992.502178
+r1
+xLd
+x/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+xnormal
+xi386
+lSLF07#2@137"Link /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView290540992#290540992#0(0"0(0#0#0"4300885448#1052"    cd /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator -F/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator -filelist /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableView.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView0#
+
+CProcessInfoPlistFile /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist SimpleTableView-Info.plist
+s307560729.513197
+e307560729.526135
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist
+xSimpleTableView-Info.plist
+lSLF07#2@34"Process SimpleTableView-Info.plist307560729#307560729#0(0"0(0#0#62"/Users/todd/Desktop/SimpleTableView/SimpleTableView-Info.plist8606527200#494"    cd /Users/todd/Desktop/SimpleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleTableView-Info.plist -genpkginfo /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist SimpleTableView-Info.plist
+r0
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-ccugumgnywnkqjeqntxagredaozf/SimpleTableView_Prefix.pch.gch SimpleTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307560732.427451
+e307560738.494371
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-ccugumgnywnkqjeqntxagredaozf/SimpleTableView_Prefix.pch.gch
+xSimpleTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SimpleTableView_Prefix.pch307560732#307560738#0(0"0(0#0#62"/Users/todd/Desktop/SimpleTableView/SimpleTableView_Prefix.pch8604422400#1928"    cd /Users/todd/Desktop/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -c /Users/todd/Desktop/SimpleTableView/SimpleTableView_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-ccugumgnywnkqjeqntxagredaozf/SimpleTableView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-cteamxslzwrphsfdooizogmweocx/SimpleTableView_Prefix.pch.gch SimpleTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290365974.046262
+e290365974.893630
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-cteamxslzwrphsfdooizogmweocx/SimpleTableView_Prefix.pch.gch
+xSimpleTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SimpleTableView_Prefix.pch290365974#290365974#0(0"0(0#0#62"/Users/todd/Desktop/SimpleTableView/SimpleTableView_Prefix.pch4300885448#1871"    cd /Users/todd/Desktop/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -c /Users/todd/Desktop/SimpleTableView/SimpleTableView_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-cteamxslzwrphsfdooizogmweocx/SimpleTableView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-dojugjbtivhbgmeldgbhnpdgsyvb/SimpleTableView_Prefix.pch.gch SimpleTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290540937.128754
+e290540953.216812
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-dojugjbtivhbgmeldgbhnpdgsyvb/SimpleTableView_Prefix.pch.gch
+xSimpleTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SimpleTableView_Prefix.pch290540937#290540953#0(0"0(0#0#95"/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/SimpleTableView_Prefix.pch4300885448#2201"    cd /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -c /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/SimpleTableView_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-dojugjbtivhbgmeldgbhnpdgsyvb/SimpleTableView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-fwtqgiagrcxizgdejvqbkvozrjiw/SimpleTableView_Prefix.pch.gch SimpleTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290359088.967123
+e290359091.245613
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-fwtqgiagrcxizgdejvqbkvozrjiw/SimpleTableView_Prefix.pch.gch
+xSimpleTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SimpleTableView_Prefix.pch290359088#290359091#0(0"0(0#0#62"/Users/todd/Desktop/SimpleTableView/SimpleTableView_Prefix.pch4300885448#1873"    cd /Users/todd/Desktop/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator -I/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/todd/Desktop/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -c /Users/todd/Desktop/SimpleTableView/SimpleTableView_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleTableView_Prefix-fwtqgiagrcxizgdejvqbkvozrjiw/SimpleTableView_Prefix.pch.gch0#
+
+CTouch /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+s307560739.237053
+e307560739.242079
+r1
+xTouch
+x/Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+lSLF07#2@89"Touch /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app307560739#307560739#0(0"0(0#0#0"8609624608#280"    cd /Users/todd/Desktop/SimpleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app0#
+
+CTouch /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+s290540992.760065
+e290540992.763266
+r1
+xTouch
+x/Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+lSLF07#2@122"Touch /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app290540992#290540992#0(0"0(0#0#0"4300885448#346"    cd /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Dropbox/cse436/scrollViewLectureExamples/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app0#
+

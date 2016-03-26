@@ -1,0 +1,636 @@
+TBonjourAndStreams
+v7
+r0
+t292785273.974761
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/Info.plist BonjourAndStreams-Info.plist
+cCompileXIB /Users/todd/Desktop/Bonjour/MainWindow.xib
+cCompileXIB /Users/todd/Desktop/Bonjour/Classes/MessageSender.xib
+cProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-hdsrjwznawrndvgsausdpjtyoxvm/BonjourAndStreams_Prefix.pch.gch BonjourAndStreams_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/main.o /Users/todd/Desktop/Bonjour/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreamsAppDelegate.o /Users/todd/Desktop/Bonjour/Classes/BonjourAndStreamsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/FoundDevicesTableViewController.o /Users/todd/Desktop/Bonjour/Classes/FoundDevicesTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/ReceiveServer.o /Users/todd/Desktop/Bonjour/Classes/ReceiveServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/MessageSender.o /Users/todd/Desktop/Bonjour/Classes/MessageSender.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams normal i386
+cGenerateDSYMFile /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app.dSYM /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams
+cTouch /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004B2B4CD600000000000004CF
+t1261128918
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/netinet/in.h
+c00000000476344B700000000000052AA
+t1197687991
+s21162
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/sys/socket.h
+c00000000476344C000000000000055F1
+t1197688000
+s22001
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004A9F670A00000000000000EE
+t1251960586
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004A764FED00000000000004CF
+t1249267693
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/netinet/in.h
+c00000000476344B700000000000052AA
+t1197687991
+s21162
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/sys/socket.h
+c00000000476344C000000000000055F1
+t1197688000
+s22001
+
+N/Users/todd/Desktop/Bonjour/BonjourAndStreams_Prefix.pch
+c000000004B8D2FC300000000000000CB
+t1267544003
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/Bonjour/Classes/BonjourAndStreamsAppDelegate.h
+c000000004B8DD60000000000000001BB
+t1267586560
+s443
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/Bonjour/Classes/BonjourAndStreamsAppDelegate.m
+c000000004B8DD60000000000000002DF
+t1267586560
+s735
+i"BonjourAndStreamsAppDelegate.h"
+i"ReceiveServer.h"
+
+N/Users/todd/Desktop/Bonjour/Classes/FoundDevicesTableViewController.h
+c000000004B8D2FC30000000000000149
+t1267544003
+s329
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/Bonjour/Classes/FoundDevicesTableViewController.m
+c000000004B8DD6000000000000000B69
+t1267586560
+s2921
+i"FoundDevicesTableViewController.h"
+i"MessageSender.h"
+
+N/Users/todd/Desktop/Bonjour/Classes/MessageSender.h
+c000000004B8DD6000000000000000161
+t1267586560
+s353
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/Bonjour/Classes/MessageSender.m
+c000000004B8DD60000000000000003B8
+t1267586560
+s952
+i"MessageSender.h"
+
+N/Users/todd/Desktop/Bonjour/Classes/MessageSender.xib
+c000000004B8DD600000000000000439E
+t1267586560
+s17310
+
+N/Users/todd/Desktop/Bonjour/Classes/ReceiveServer.h
+c000000004B8DD6000000000000000325
+t1267586560
+s805
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/Bonjour/Classes/ReceiveServer.m
+c000000004B8DD6000000000000002696
+t1267586560
+s9878
+i"ReceiveServer.h"
+i<CFNetwork/CFNetwork.h>
+i<sys/socket.h>
+i<netinet/in.h>
+
+N/Users/todd/Desktop/Bonjour/MainWindow.xib
+c000000004B8D2FC3000000000000617F
+t1267544003
+s24959
+
+N/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreams.LinkFileList
+c000000004BC32B8900000000000002A2
+t1271081865
+s674
+
+N/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreamsAppDelegate.o
+t1271081868
+s40240
+
+N/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/FoundDevicesTableViewController.o
+t1271081868
+s37856
+
+N/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/MessageSender.o
+t1271081868
+s34096
+
+N/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/ReceiveServer.o
+t1271081868
+s42248
+
+N/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/main.o
+t1271081868
+s5920
+
+N/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app
+t1271081869
+s238
+
+N/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app.dSYM
+t1271081869
+s102
+
+N/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams
+t1271081869
+s36068
+
+N/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/Info.plist
+t1271022022
+s637
+
+N/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/MainWindow.nib
+t1271022023
+s1626
+
+N/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/MessageSender.nib
+t1271022023
+s1286
+
+N/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/PkgInfo
+t1271022022
+s8
+
+N/Users/todd/Desktop/Bonjour/main.m
+c000000004B8D2FC3000000000000016A
+t1267544003
+s362
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/BonjourAndStreams_Prefix.pch
+c000000004B8D2FC300000000000000CB
+t1267544003
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/BonjourAndStreamsAppDelegate.h
+c000000004B8DD60000000000000001BB
+t1267586560
+s443
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/BonjourAndStreamsAppDelegate.m
+c000000004B8DD60000000000000002DF
+t1267586560
+s735
+i"BonjourAndStreamsAppDelegate.h"
+i"ReceiveServer.h"
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/FoundDevicesTableViewController.h
+c000000004B8D2FC30000000000000149
+t1267544003
+s329
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/FoundDevicesTableViewController.m
+c000000004B8DD6000000000000000B69
+t1267586560
+s2921
+i"FoundDevicesTableViewController.h"
+i"MessageSender.h"
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.h
+c000000004B8DD6000000000000000161
+t1267586560
+s353
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.m
+c000000004B8DD60000000000000003B8
+t1267586560
+s952
+i"MessageSender.h"
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.xib
+c000000004B8DD600000000000000439E
+t1267586560
+s17310
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/ReceiveServer.h
+c000000004B8DD6000000000000000325
+t1267586560
+s805
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/ReceiveServer.m
+c000000004B8DD6000000000000002696
+t1267586560
+s9878
+i"ReceiveServer.h"
+i<CFNetwork/CFNetwork.h>
+i<sys/socket.h>
+i<netinet/in.h>
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/MainWindow.xib
+c000000004B8D2FC3000000000000617F
+t1267544003
+s24959
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreams.LinkFileList
+c000000004BC241C600000000000003A1
+t1271022022
+s929
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreamsAppDelegate.o
+t1271022025
+s40344
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/FoundDevicesTableViewController.o
+t1271022025
+s37960
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/MessageSender.o
+t1271022025
+s34196
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/ReceiveServer.o
+t1271022025
+s42400
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/main.o
+t1271022025
+s6024
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app
+t1271022026
+s238
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app.dSYM
+t1271022026
+s102
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams
+t1271022026
+s36580
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/Info.plist
+t1271022022
+s637
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/MainWindow.nib
+t1271022023
+s1626
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/MessageSender.nib
+t1271022023
+s1286
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/PkgInfo
+t1271022022
+s8
+
+N/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/main.m
+c000000004B8D2FC3000000000000016A
+t1267544003
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-ahqguldzsoepprfecvtofvzjgawi/BonjourAndStreams_Prefix.pch.gch
+t1271022024
+s13026768
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-dzmrfwjiejdapwawtdmauxvhszbg/BonjourAndStreams_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-hdsrjwznawrndvgsausdpjtyoxvm/BonjourAndStreams_Prefix.pch.gch
+t1271081867
+s13026768
+
+NBonjourAndStreams-Info.plist
+c000000004B8D2FC3000000000000038D
+t1267544003
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292785273#292785273#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreamsAppDelegate.o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/BonjourAndStreamsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292714824.895388
+e292714825.170816
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreamsAppDelegate.o
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/BonjourAndStreamsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/BonjourAndStreamsAppDelegate.m292714824#292714825#0(0"0(0#0#117"/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/BonjourAndStreamsAppDelegate.m4300911832#2505"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap" -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap" "-F/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/include" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources" -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-ahqguldzsoepprfecvtofvzjgawi/BonjourAndStreams_Prefix.pch -c "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/BonjourAndStreamsAppDelegate.m" -o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreamsAppDelegate.o"0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreamsAppDelegate.o /Users/todd/Desktop/Bonjour/Classes/BonjourAndStreamsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292774668.237984
+e292774668.470419
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreamsAppDelegate.o
+x/Users/todd/Desktop/Bonjour/Classes/BonjourAndStreamsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/todd/Desktop/Bonjour/Classes/BonjourAndStreamsAppDelegate.m292774668#292774668#0(0"0(0#0#66"/Users/todd/Desktop/Bonjour/Classes/BonjourAndStreamsAppDelegate.m4300911832#1922"    cd /Users/todd/Desktop/Bonjour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap -F/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator -I/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386 -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-hdsrjwznawrndvgsausdpjtyoxvm/BonjourAndStreams_Prefix.pch -c /Users/todd/Desktop/Bonjour/Classes/BonjourAndStreamsAppDelegate.m -o /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreamsAppDelegate.o0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/FoundDevicesTableViewController.o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/FoundDevicesTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292714825.151236
+e292714825.241055
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/FoundDevicesTableViewController.o
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/FoundDevicesTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/FoundDevicesTableViewController.m292714825#292714825#0(0"0(0#0#120"/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/FoundDevicesTableViewController.m4300911832#2511"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap" -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap" "-F/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/include" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources" -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-ahqguldzsoepprfecvtofvzjgawi/BonjourAndStreams_Prefix.pch -c "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/FoundDevicesTableViewController.m" -o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/FoundDevicesTableViewController.o"0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/FoundDevicesTableViewController.o /Users/todd/Desktop/Bonjour/Classes/FoundDevicesTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292774668.447059
+e292774668.572092
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/FoundDevicesTableViewController.o
+x/Users/todd/Desktop/Bonjour/Classes/FoundDevicesTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/todd/Desktop/Bonjour/Classes/FoundDevicesTableViewController.m292774668#292774668#0(0"0(0#0#69"/Users/todd/Desktop/Bonjour/Classes/FoundDevicesTableViewController.m4300911832#1928"    cd /Users/todd/Desktop/Bonjour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap -F/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator -I/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386 -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-hdsrjwznawrndvgsausdpjtyoxvm/BonjourAndStreams_Prefix.pch -c /Users/todd/Desktop/Bonjour/Classes/FoundDevicesTableViewController.m -o /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/FoundDevicesTableViewController.o0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/MessageSender.o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292714825.241190
+e292714825.319961
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/MessageSender.o
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.m292714825#292714825#0(0"0(0#0#102"/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.m4300911832#2475"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap" -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap" "-F/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/include" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources" -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-ahqguldzsoepprfecvtofvzjgawi/BonjourAndStreams_Prefix.pch -c "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.m" -o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/MessageSender.o"0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/MessageSender.o /Users/todd/Desktop/Bonjour/Classes/MessageSender.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292774668.572214
+e292774668.666613
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/MessageSender.o
+x/Users/todd/Desktop/Bonjour/Classes/MessageSender.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/todd/Desktop/Bonjour/Classes/MessageSender.m292774668#292774668#0(0"0(0#0#51"/Users/todd/Desktop/Bonjour/Classes/MessageSender.m4300911832#1892"    cd /Users/todd/Desktop/Bonjour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap -F/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator -I/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386 -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-hdsrjwznawrndvgsausdpjtyoxvm/BonjourAndStreams_Prefix.pch -c /Users/todd/Desktop/Bonjour/Classes/MessageSender.m -o /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/MessageSender.o0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/ReceiveServer.o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/ReceiveServer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292714825.170946
+e292714825.388504
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/ReceiveServer.o
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/ReceiveServer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/ReceiveServer.m292714825#292714825#0(0"0(0#0#102"/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/ReceiveServer.m4300911832#2475"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap" -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap" "-F/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/include" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources" -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-ahqguldzsoepprfecvtofvzjgawi/BonjourAndStreams_Prefix.pch -c "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/ReceiveServer.m" -o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/ReceiveServer.o"0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/ReceiveServer.o /Users/todd/Desktop/Bonjour/Classes/ReceiveServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292774668.470577
+e292774668.643055
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/ReceiveServer.o
+x/Users/todd/Desktop/Bonjour/Classes/ReceiveServer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/todd/Desktop/Bonjour/Classes/ReceiveServer.m292774668#292774668#0(0"0(0#0#51"/Users/todd/Desktop/Bonjour/Classes/ReceiveServer.m4300911832#1892"    cd /Users/todd/Desktop/Bonjour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap -F/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator -I/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386 -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-hdsrjwznawrndvgsausdpjtyoxvm/BonjourAndStreams_Prefix.pch -c /Users/todd/Desktop/Bonjour/Classes/ReceiveServer.m -o /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/ReceiveServer.o0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/main.o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292714824.893519
+e292714825.151114
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/main.m292714824#292714825#0(0"0(0#0#85"/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/main.m4300911832#2449"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap" -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap" "-F/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/include" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources" -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-ahqguldzsoepprfecvtofvzjgawi/BonjourAndStreams_Prefix.pch -c "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/main.m" -o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/main.o /Users/todd/Desktop/Bonjour/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292774668.236184
+e292774668.446810
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/Bonjour/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/todd/Desktop/Bonjour/main.m292774668#292774668#0(0"0(0#0#34"/Users/todd/Desktop/Bonjour/main.m4300911832#1866"    cd /Users/todd/Desktop/Bonjour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap -F/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator -I/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386 -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-hdsrjwznawrndvgsausdpjtyoxvm/BonjourAndStreams_Prefix.pch -c /Users/todd/Desktop/Bonjour/main.m -o /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.xib"
+s292714822.638632
+e292714823.050860
+r1
+xCompileXIB
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB Classes/MessageSender.xib292714822#292714823#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#104"/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.xib4300911832#630"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/MessageSender.nib" "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/Classes/MessageSender.xib"0#
+
+CCompileXIB "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/MainWindow.xib"
+s292714822.635365
+e292714823.104018
+r1
+xCompileXIB
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib292714822#292714823#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#93"/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/MainWindow.xib4300911832#616"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/MainWindow.nib" "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/MainWindow.xib"0#
+
+CCompileXIB /Users/todd/Desktop/Bonjour/Classes/MessageSender.xib
+r0
+
+CCompileXIB /Users/todd/Desktop/Bonjour/MainWindow.xib
+r0
+
+CGenerateDSYMFile "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app.dSYM" "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams"
+s292714826.073059
+e292714826.099495
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app.dSYM
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/BonjourAndStreams.app.dSYM build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams292714826#292714826#0(0"0(0#0#146"/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams4300911832#539"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams" -o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app.dSYM"0#
+
+CGenerateDSYMFile /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app.dSYM /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams
+s292774669.058733
+e292774669.175466
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app.dSYM
+x/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/BonjourAndStreams.app.dSYM build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams292774669#292774669#0(0"0(0#0#95"/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams4300911832#380"    cd /Users/todd/Desktop/Bonjour    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams -o /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app.dSYM0#
+
+CLd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams" normal i386
+s292714825.388627
+e292714826.072881
+r1
+xLd
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams
+xnormal
+xi386
+lSLF07#2@151"Link /Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams292714825#292714826#0(0"0(0#0#0"4300911832#1112"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk "-L/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator" "-F/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator" -filelist "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreams.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams"0#
+
+CLd /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams normal i386
+s292774668.666739
+e292774669.058245
+r1
+xLd
+x/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams
+xnormal
+xi386
+lSLF07#2@100"Link /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams292774668#292774669#0(0"0(0#0#0"4300911832#847"    cd /Users/todd/Desktop/Bonjour    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator -F/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator -filelist /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/Objects-normal/i386/BonjourAndStreams.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/BonjourAndStreams0#
+
+CProcessInfoPlistFile "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/Info.plist" BonjourAndStreams-Info.plist
+s292714822.622475
+e292714822.635256
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/Info.plist
+xBonjourAndStreams-Info.plist
+lSLF07#2@36"Process BonjourAndStreams-Info.plist292714822#292714822#0(0"0(0#0#107"/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/BonjourAndStreams-Info.plist8031151153962903552#635"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BonjourAndStreams-Info.plist -genpkginfo "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app/Info.plist BonjourAndStreams-Info.plist
+r0
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-ahqguldzsoepprfecvtofvzjgawi/BonjourAndStreams_Prefix.pch.gch BonjourAndStreams_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292714823.104181
+e292714824.893187
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-ahqguldzsoepprfecvtofvzjgawi/BonjourAndStreams_Prefix.pch.gch
+xBonjourAndStreams_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile BonjourAndStreams_Prefix.pch292714823#292714824#0(0"0(0#0#107"/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/BonjourAndStreams_Prefix.pch4300911832#2299"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap" -iquote "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap" "-F/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/include" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386" "-I/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources" -c "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/BonjourAndStreams_Prefix.pch" -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-ahqguldzsoepprfecvtofvzjgawi/BonjourAndStreams_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-dzmrfwjiejdapwawtdmauxvhszbg/BonjourAndStreams_Prefix.pch.gch BonjourAndStreams_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-hdsrjwznawrndvgsausdpjtyoxvm/BonjourAndStreams_Prefix.pch.gch BonjourAndStreams_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292774665.347862
+e292774668.235881
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-hdsrjwznawrndvgsausdpjtyoxvm/BonjourAndStreams_Prefix.pch.gch
+xBonjourAndStreams_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile BonjourAndStreams_Prefix.pch292774665#292774668#0(0"0(0#0#56"/Users/todd/Desktop/Bonjour/BonjourAndStreams_Prefix.pch4300911832#1769"    cd /Users/todd/Desktop/Bonjour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-generated-files.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-own-target-headers.hmap -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-all-target-headers.hmap -iquote /Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/BonjourAndStreams-project-headers.hmap -F/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator -I/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources/i386 -I/Users/todd/Desktop/Bonjour/build/Bonjour.build/Debug-iphonesimulator/BonjourAndStreams.build/DerivedSources -c /Users/todd/Desktop/Bonjour/BonjourAndStreams_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BonjourAndStreams_Prefix-hdsrjwznawrndvgsausdpjtyoxvm/BonjourAndStreams_Prefix.pch.gch0#
+
+CTouch "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app"
+s292714826.099607
+e292714826.104578
+r1
+xTouch
+x/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app
+lSLF07#2@134"Touch /Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app292714826#292714826#0(0"0(0#0#0"4300911832#372"    cd "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/todd/Desktop/CS 193P iPhone Application Development winter 2010/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app"0#
+
+CTouch /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app
+s292774669.175606
+e292774669.179573
+r1
+xTouch
+x/Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app
+lSLF07#2@83"Touch /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app292774669#292774669#0(0"0(0#0#0"4300911832#266"    cd /Users/todd/Desktop/Bonjour    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/Bonjour/build/Debug-iphonesimulator/BonjourAndStreams.app0#
+

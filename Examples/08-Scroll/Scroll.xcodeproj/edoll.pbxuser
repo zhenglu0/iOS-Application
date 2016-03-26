@@ -1,0 +1,177 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ScrollAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1228, 763}}";
+			sepNavSelRange = "{301, 0}";
+			sepNavVisRange = "{0, 301}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ScrollAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1228, 960}}";
+			sepNavSelRange = "{447, 0}";
+			sepNavVisRange = "{0, 1826}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Scroll */ = {
+		activeExec = 0;
+		executables = (
+			69D5FF7D0FA7CE6B00A43C64 /* Scroll */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 69D5FF7D0FA7CE6B00A43C64 /* Scroll */;
+		activeSDKPreference = iphonesimulator2.2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Scroll */;
+		codeSenseManager = 69D5FF880FA7CE8F00A43C64 /* Code sense */;
+		executables = (
+			69D5FF7D0FA7CE6B00A43C64 /* Scroll */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1050,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 262655595;
+			PBXWorkspaceStateSaveDate = 262655595;
+		};
+		perUserProjectItems = {
+			69D5FF920FA7CF1B00A43C64 /* PBXTextBookmark */ = 69D5FF920FA7CF1B00A43C64 /* PBXTextBookmark */;
+			69D5FF930FA7CF1B00A43C64 /* PBXTextBookmark */ = 69D5FF930FA7CF1B00A43C64 /* PBXTextBookmark */;
+			69D5FF950FA7CF1B00A43C64 /* PBXTextBookmark */ = 69D5FF950FA7CF1B00A43C64 /* PBXTextBookmark */;
+			69D5FF960FA7CF1B00A43C64 /* PBXTextBookmark */ = 69D5FF960FA7CF1B00A43C64 /* PBXTextBookmark */;
+			69D5FF970FA7CF1B00A43C64 /* PBXTextBookmark */ = 69D5FF970FA7CF1B00A43C64 /* PBXTextBookmark */;
+			69D5FF990FA7CF1B00A43C64 /* PBXTextBookmark */ = 69D5FF990FA7CF1B00A43C64 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 69D5FF870FA7CE8F00A43C64 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	69D5FF7D0FA7CE6B00A43C64 /* Scroll */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Scroll;
+		sourceDirectories = (
+		);
+	};
+	69D5FF870FA7CE8F00A43C64 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	69D5FF880FA7CE8F00A43C64 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	69D5FF920FA7CF1B00A43C64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScrollAppDelegate.h */;
+		name = "ScrollAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 301;
+		vrLoc = 0;
+	};
+	69D5FF930FA7CF1B00A43C64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 69D5FF940FA7CF1B00A43C64 /* UIScrollView.h */;
+		name = "UIScrollView.h: 23";
+		rLen = 65;
+		rLoc = 658;
+		rType = 0;
+		vrLen = 5480;
+		vrLoc = 3480;
+	};
+	69D5FF940FA7CF1B00A43C64 /* UIScrollView.h */ = {
+		isa = PBXFileReference;
+		name = UIScrollView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator2.2.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScrollView.h;
+		sourceTree = "<absolute>";
+	};
+	69D5FF950FA7CF1B00A43C64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScrollAppDelegate.m */;
+		name = "ScrollAppDelegate.m: 16";
+		rLen = 12;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 1790;
+		vrLoc = 0;
+	};
+	69D5FF960FA7CF1B00A43C64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScrollAppDelegate.h */;
+		name = "ScrollAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 301;
+		vrLoc = 0;
+	};
+	69D5FF970FA7CF1B00A43C64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 69D5FF980FA7CF1B00A43C64 /* UIScrollView.h */;
+		name = "UIScrollView.h: 23";
+		rLen = 65;
+		rLoc = 658;
+		rType = 0;
+		vrLen = 5480;
+		vrLoc = 3480;
+	};
+	69D5FF980FA7CF1B00A43C64 /* UIScrollView.h */ = {
+		isa = PBXFileReference;
+		name = UIScrollView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator2.2.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScrollView.h;
+		sourceTree = "<absolute>";
+	};
+	69D5FF990FA7CF1B00A43C64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScrollAppDelegate.m */;
+		name = "ScrollAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 447;
+		rType = 0;
+		vrLen = 1826;
+		vrLoc = 0;
+	};
+}

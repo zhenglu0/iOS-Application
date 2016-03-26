@@ -1,0 +1,434 @@
+TUserDefaultsDemo
+v7
+r0
+t290522011.627696
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/Info.plist UserDefaultsDemo-Info.plist
+cCompileXIB /Users/todd/Desktop/UserDefaultsDemo/FlipsideView.xib
+cCompileXIB /Users/todd/Desktop/UserDefaultsDemo/MainView.xib
+cCompileXIB /Users/todd/Desktop/UserDefaultsDemo/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/UserDefaultsDemo.app/Settings.bundle Settings.bundle
+cCpResource build/Debug-iphonesimulator/UserDefaultsDemo.app/Icon.png Resources/Icon.png
+cCpResource build/Debug-iphonesimulator/UserDefaultsDemo.app/StanfordS.gif Resources/StanfordS.gif
+cCpResource build/Debug-iphonesimulator/UserDefaultsDemo.app/header-beartop.gif header-beartop.gif
+cCpResource build/Debug-iphonesimulator/UserDefaultsDemo.app/ENG2linectpos(CMYK)SM.jpg ENG2linectpos(CMYK)SM.jpg
+cProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UserDefaultsDemo_Prefix-ccsvrznodxdywldnmweqvccujvts/UserDefaultsDemo_Prefix.pch.gch UserDefaultsDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/main.o /Users/todd/Desktop/UserDefaultsDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/UserDefaultsDemoAppDelegate.o /Users/todd/Desktop/UserDefaultsDemo/Classes/UserDefaultsDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/MainView.o /Users/todd/Desktop/UserDefaultsDemo/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/MainViewController.o /Users/todd/Desktop/UserDefaultsDemo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/FlipsideViewController.o /Users/todd/Desktop/UserDefaultsDemo/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo normal i386
+cGenerateDSYMFile /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app.dSYM /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo
+cTouch /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004B6B207200000000000000EE
+t1265311858
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026DAB0
+t1250040081
+s2546352
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027D510
+t1249267860
+s2610448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F590000000001670E70
+t1249668953
+s23531120
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/Availability.h
+c000000004A7653D100000000000019F9
+t1249268689
+s6649
+
+N/Users/todd/Desktop/UserDefaultsDemo/Classes/FlipsideViewController.h
+c000000004B5D02570000000000000279
+t1264386647
+s633
+
+N/Users/todd/Desktop/UserDefaultsDemo/Classes/FlipsideViewController.m
+c000000004B5D02DD0000000000000382
+t1264386781
+s898
+i"FlipsideViewController.h"
+
+N/Users/todd/Desktop/UserDefaultsDemo/Classes/MainView.h
+c000000004B5CFEDA00000000000000D4
+t1264385754
+s212
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/UserDefaultsDemo/Classes/MainView.m
+c000000004B5D07DD00000000000001B5
+t1264388061
+s437
+i"MainView.h"
+
+N/Users/todd/Desktop/UserDefaultsDemo/Classes/MainViewController.h
+c000000004B5D00280000000000000186
+t1264386088
+s390
+i"FlipsideViewController.h"
+
+N/Users/todd/Desktop/UserDefaultsDemo/Classes/MainViewController.m
+c000000004B5D02BE00000000000003EB
+t1264386750
+s1003
+i"MainViewController.h"
+i"MainView.h"
+
+N/Users/todd/Desktop/UserDefaultsDemo/Classes/UserDefaultsDemoAppDelegate.h
+c000000004B5CFB5D00000000000001DA
+t1264384861
+s474
+
+N/Users/todd/Desktop/UserDefaultsDemo/Classes/UserDefaultsDemoAppDelegate.m
+c000000004B5CFB5D000000000000034E
+t1264384861
+s846
+i"UserDefaultsDemoAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/todd/Desktop/UserDefaultsDemo/ENG2linectpos(CMYK)SM.jpg
+c000000004BA0CBE20000000000014821
+t1268829154
+s84001
+
+N/Users/todd/Desktop/UserDefaultsDemo/FlipsideView.xib
+c000000004B5D03E10000000000005E5B
+t1264387041
+s24155
+
+N/Users/todd/Desktop/UserDefaultsDemo/MainView.xib
+c000000004BA0CC0A0000000000004FBD
+t1268829194
+s20413
+
+N/Users/todd/Desktop/UserDefaultsDemo/MainWindow.xib
+c000000004B5CFB5D0000000000001E34
+t1264384861
+s7732
+
+N/Users/todd/Desktop/UserDefaultsDemo/Resources/Icon.png
+c000000004B5D040A00000000000023E2
+t1264387082
+s9186
+
+N/Users/todd/Desktop/UserDefaultsDemo/Resources/StanfordS.gif
+c000000004B5CFCC4000000000000093E
+t1264385220
+s2366
+
+N/Users/todd/Desktop/UserDefaultsDemo/Settings.bundle
+c000000004BA0CA2B00000000000000EE
+t1268828715
+s238
+
+N/Users/todd/Desktop/UserDefaultsDemo/UserDefaultsDemo_Prefix.pch
+c000000004B5CFB5D0000000000000152
+t1264384861
+s338
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app
+t1268829211
+s442
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app.dSYM
+t1268828739
+s102
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/ENG2linectpos(CMYK)SM.jpg
+t1268829210
+s84001
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/FlipsideView.nib
+t1268828735
+s1783
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/Icon.png
+t1268828736
+s9186
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/Info.plist
+t1268828726
+s604
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/MainView.nib
+t1268829211
+s1757
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/MainWindow.nib
+t1268828736
+s985
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/PkgInfo
+t1268828726
+s8
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/Settings.bundle
+t1268828736
+s204
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/StanfordS.gif
+t1268828736
+s2366
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo
+t1268828739
+s22148
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/header-beartop.gif
+t1268829210
+s13087
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/FlipsideViewController.o
+t1268828738
+s33636
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/MainView.o
+t1268828738
+s9108
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/MainViewController.o
+t1268828738
+s32060
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/UserDefaultsDemo.LinkFileList
+c000000004BA0CA3600000000000002ED
+t1268828726
+s749
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/UserDefaultsDemoAppDelegate.o
+t1268828738
+s39456
+
+N/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/main.o
+t1268828738
+s5948
+
+N/Users/todd/Desktop/UserDefaultsDemo/header-beartop.gif
+c000000004BA0CAF9000000000000331F
+t1268828921
+s13087
+
+N/Users/todd/Desktop/UserDefaultsDemo/main.m
+c000000004B5CFB5D0000000000000175
+t1264384861
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UserDefaultsDemo_Prefix-ccsvrznodxdywldnmweqvccujvts/UserDefaultsDemo_Prefix.pch.gch
+t1268828737
+s13034960
+
+NUserDefaultsDemo-Info.plist
+c000000004B5CFB5D000000000000038D
+t1264384861
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290522010#290522010#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/FlipsideViewController.o /Users/todd/Desktop/UserDefaultsDemo/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290521538.414941
+e290521538.513664
+r1
+xCompileC
+xbuild/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/todd/Desktop/UserDefaultsDemo/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/todd/Desktop/UserDefaultsDemo/Classes/FlipsideViewController.m290521538#290521538#0(0"0(0#0#69"/Users/todd/Desktop/UserDefaultsDemo/Classes/FlipsideViewController.m4300885448#2059"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-generated-files.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-own-target-headers.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-all-target-headers.hmap -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-project-headers.hmap -F/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator -I/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources/i386 -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UserDefaultsDemo_Prefix-ccsvrznodxdywldnmweqvccujvts/UserDefaultsDemo_Prefix.pch -c /Users/todd/Desktop/UserDefaultsDemo/Classes/FlipsideViewController.m -o /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/FlipsideViewController.o0#
+
+CCompileC build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/MainView.o /Users/todd/Desktop/UserDefaultsDemo/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290521538.306364
+e290521538.414794
+r1
+xCompileC
+xbuild/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/MainView.o
+x/Users/todd/Desktop/UserDefaultsDemo/Classes/MainView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/todd/Desktop/UserDefaultsDemo/Classes/MainView.m290521538#290521538#0(0"0(0#0#55"/Users/todd/Desktop/UserDefaultsDemo/Classes/MainView.m4300885448#2031"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-generated-files.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-own-target-headers.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-all-target-headers.hmap -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-project-headers.hmap -F/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator -I/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources/i386 -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UserDefaultsDemo_Prefix-ccsvrznodxdywldnmweqvccujvts/UserDefaultsDemo_Prefix.pch -c /Users/todd/Desktop/UserDefaultsDemo/Classes/MainView.m -o /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/MainView.o0#
+
+CCompileC build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/MainViewController.o /Users/todd/Desktop/UserDefaultsDemo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290521538.308682
+e290521538.483169
+r1
+xCompileC
+xbuild/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/MainViewController.o
+x/Users/todd/Desktop/UserDefaultsDemo/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/todd/Desktop/UserDefaultsDemo/Classes/MainViewController.m290521538#290521538#0(0"0(0#0#65"/Users/todd/Desktop/UserDefaultsDemo/Classes/MainViewController.m4300885448#2051"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-generated-files.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-own-target-headers.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-all-target-headers.hmap -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-project-headers.hmap -F/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator -I/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources/i386 -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UserDefaultsDemo_Prefix-ccsvrznodxdywldnmweqvccujvts/UserDefaultsDemo_Prefix.pch -c /Users/todd/Desktop/UserDefaultsDemo/Classes/MainViewController.m -o /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/UserDefaultsDemoAppDelegate.o /Users/todd/Desktop/UserDefaultsDemo/Classes/UserDefaultsDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290521538.082668
+e290521538.308570
+r1
+xCompileC
+xbuild/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/UserDefaultsDemoAppDelegate.o
+x/Users/todd/Desktop/UserDefaultsDemo/Classes/UserDefaultsDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/todd/Desktop/UserDefaultsDemo/Classes/UserDefaultsDemoAppDelegate.m290521538#290521538#0(0"0(0#0#74"/Users/todd/Desktop/UserDefaultsDemo/Classes/UserDefaultsDemoAppDelegate.m4300885448#2069"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-generated-files.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-own-target-headers.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-all-target-headers.hmap -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-project-headers.hmap -F/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator -I/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources/i386 -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UserDefaultsDemo_Prefix-ccsvrznodxdywldnmweqvccujvts/UserDefaultsDemo_Prefix.pch -c /Users/todd/Desktop/UserDefaultsDemo/Classes/UserDefaultsDemoAppDelegate.m -o /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/UserDefaultsDemoAppDelegate.o0#
+
+CCompileC build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/main.o /Users/todd/Desktop/UserDefaultsDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290521538.081370
+e290521538.306252
+r1
+xCompileC
+xbuild/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/UserDefaultsDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/todd/Desktop/UserDefaultsDemo/main.m290521538#290521538#0(0"0(0#0#43"/Users/todd/Desktop/UserDefaultsDemo/main.m4300885448#2015"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-generated-files.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-own-target-headers.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-all-target-headers.hmap -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-project-headers.hmap -F/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator -I/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources/i386 -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UserDefaultsDemo_Prefix-ccsvrznodxdywldnmweqvccujvts/UserDefaultsDemo_Prefix.pch -c /Users/todd/Desktop/UserDefaultsDemo/main.m -o /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/todd/Desktop/UserDefaultsDemo/FlipsideView.xib
+s290521526.675058
+e290521535.994305
+r1
+xCompileXIB
+x/Users/todd/Desktop/UserDefaultsDemo/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib290521526#290521535#0(0"0(0#0#53"/Users/todd/Desktop/UserDefaultsDemo/FlipsideView.xib4300885448#487"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/FlipsideView.nib /Users/todd/Desktop/UserDefaultsDemo/FlipsideView.xib0#
+
+CCompileXIB /Users/todd/Desktop/UserDefaultsDemo/MainView.xib
+s290522010.063153
+e290522011.606745
+r1
+xCompileXIB
+x/Users/todd/Desktop/UserDefaultsDemo/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib290522010#290522011#0(0"0(0#0#49"/Users/todd/Desktop/UserDefaultsDemo/MainView.xib4300885448#479"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/MainView.nib /Users/todd/Desktop/UserDefaultsDemo/MainView.xib0#
+
+CCompileXIB /Users/todd/Desktop/UserDefaultsDemo/MainWindow.xib
+s290521535.961939
+e290521536.678927
+r1
+xCompileXIB
+x/Users/todd/Desktop/UserDefaultsDemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290521535#290521536#0(0"0(0#0#51"/Users/todd/Desktop/UserDefaultsDemo/MainWindow.xib4300885448#483"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/MainWindow.nib /Users/todd/Desktop/UserDefaultsDemo/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/UserDefaultsDemo.app/ENG2linectpos(CMYK)SM.jpg ENG2linectpos(CMYK)SM.jpg
+s290522010.065993
+e290522010.153829
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UserDefaultsDemo.app/ENG2linectpos(CMYK)SM.jpg
+xENG2linectpos(CMYK)SM.jpg
+lSLF07#2@30"Copy ENG2linectpos(CMYK)SM.jpg290522010#290522010#0(0"0(0#0#62"/Users/todd/Desktop/UserDefaultsDemo/ENG2linectpos(CMYK)SM.jpg4300885448#472"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/todd/Desktop/UserDefaultsDemo/ENG2linectpos(CMYK)SM.jpg /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app0#
+
+CCpResource build/Debug-iphonesimulator/UserDefaultsDemo.app/Icon.png Resources/Icon.png
+s290521535.995368
+e290521536.204206
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UserDefaultsDemo.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png290521535#290521536#0(0"0(0#0#55"/Users/todd/Desktop/UserDefaultsDemo/Resources/Icon.png4300885448#465"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/todd/Desktop/UserDefaultsDemo/Resources/Icon.png /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app0#
+
+CCpResource build/Debug-iphonesimulator/UserDefaultsDemo.app/Settings.bundle Settings.bundle
+s290521535.994415
+e290521536.206218
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UserDefaultsDemo.app/Settings.bundle
+xSettings.bundle
+lSLF07#2@20"Copy Settings.bundle290521535#290521536#0(0"0(0#0#52"/Users/todd/Desktop/UserDefaultsDemo/Settings.bundle4300885448#462"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/todd/Desktop/UserDefaultsDemo/Settings.bundle /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app0#
+
+CCpResource build/Debug-iphonesimulator/UserDefaultsDemo.app/StanfordS.gif Resources/StanfordS.gif
+s290521535.996251
+e290521536.204465
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UserDefaultsDemo.app/StanfordS.gif
+xResources/StanfordS.gif
+lSLF07#2@28"Copy Resources/StanfordS.gif290521535#290521536#0(0"0(0#0#60"/Users/todd/Desktop/UserDefaultsDemo/Resources/StanfordS.gif4300885448#470"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/todd/Desktop/UserDefaultsDemo/Resources/StanfordS.gif /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app0#
+
+CCpResource build/Debug-iphonesimulator/UserDefaultsDemo.app/header-beartop.gif header-beartop.gif
+s290522010.064675
+e290522010.142187
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UserDefaultsDemo.app/header-beartop.gif
+xheader-beartop.gif
+lSLF07#2@23"Copy header-beartop.gif290522010#290522010#0(0"0(0#0#55"/Users/todd/Desktop/UserDefaultsDemo/header-beartop.gif4300885448#465"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/todd/Desktop/UserDefaultsDemo/header-beartop.gif /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app0#
+
+CGenerateDSYMFile /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app.dSYM /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo
+s290521539.057812
+e290521539.120775
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app.dSYM
+x/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/UserDefaultsDemo.app.dSYM build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo290521539#290521539#0(0"0(0#0#102"/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo4300885448#404"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo -o /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app.dSYM0#
+
+CLd /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo normal i386
+s290521538.513780
+e290521539.057700
+r1
+xLd
+x/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo
+xnormal
+xi386
+lSLF07#2@107"Link /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo290521538#290521539#0(0"0(0#0#0"4300885448#897"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator -F/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator -filelist /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/Objects-normal/i386/UserDefaultsDemo.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/UserDefaultsDemo0#
+
+CProcessInfoPlistFile /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/Info.plist UserDefaultsDemo-Info.plist
+s290521526.586811
+e290521526.674937
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/Info.plist
+xUserDefaultsDemo-Info.plist
+lSLF07#2@35"Process UserDefaultsDemo-Info.plist290521526#290521526#0(0"0(0#0#64"/Users/todd/Desktop/UserDefaultsDemo/UserDefaultsDemo-Info.plist4300885448#500"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UserDefaultsDemo-Info.plist -genpkginfo /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app/Info.plist0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UserDefaultsDemo_Prefix-ccsvrznodxdywldnmweqvccujvts/UserDefaultsDemo_Prefix.pch.gch UserDefaultsDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290521536.679087
+e290521538.081104
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UserDefaultsDemo_Prefix-ccsvrznodxdywldnmweqvccujvts/UserDefaultsDemo_Prefix.pch.gch
+xUserDefaultsDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile UserDefaultsDemo_Prefix.pch290521536#290521538#0(0"0(0#0#64"/Users/todd/Desktop/UserDefaultsDemo/UserDefaultsDemo_Prefix.pch4300885448#1900"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-generated-files.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-own-target-headers.hmap -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-all-target-headers.hmap -iquote /Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/UserDefaultsDemo-project-headers.hmap -F/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator -I/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources/i386 -I/Users/todd/Desktop/UserDefaultsDemo/build/UserDefaultsDemo.build/Debug-iphonesimulator/UserDefaultsDemo.build/DerivedSources -c /Users/todd/Desktop/UserDefaultsDemo/UserDefaultsDemo_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UserDefaultsDemo_Prefix-ccsvrznodxdywldnmweqvccujvts/UserDefaultsDemo_Prefix.pch.gch0#
+
+CTouch /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app
+s290522011.607815
+e290522011.627622
+r1
+xTouch
+x/Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app
+lSLF07#2@91"Touch /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app290522011#290522011#0(0"0(0#0#0"4300885448#283"    cd /Users/todd/Desktop/UserDefaultsDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/UserDefaultsDemo/build/Debug-iphonesimulator/UserDefaultsDemo.app0#
+

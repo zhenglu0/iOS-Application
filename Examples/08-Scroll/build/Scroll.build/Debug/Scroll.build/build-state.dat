@@ -1,0 +1,75 @@
+TScroll
+v7
+r1
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/1.jpg
+c0000000049EE3D6F000000000008352B
+t1240350063
+s537899
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/2.jpg
+c0000000049EE3D6F0000000000083FFD
+t1240350063
+s540669
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/3.jpg
+c0000000049EE3D6F0000000000089140
+t1240350063
+s561472
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/MainWindow.xib
+c0000000049EE3D6F0000000000001CF6
+t1240350063
+s7414
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug/Scroll.app
+t2
+s0
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug/Scroll.app/Contents/Info.plist
+t2
+s0
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug/Scroll.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug/Scroll.app/Contents/Resources/1.jpg
+t2
+s0
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug/Scroll.app/Contents/Resources/2.jpg
+t2
+s0
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug/Scroll.app/Contents/Resources/3.jpg
+t2
+s0
+
+N/Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug/Scroll.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NInfo.plist
+c0000000049EE3D6F0000000000000381
+t1240350063
+s897
+
+CCompileXIB /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/MainWindow.xib
+r0
+
+CCpResource build/Debug/Scroll.app/Contents/Resources/1.jpg 1.jpg
+r0
+
+CCpResource build/Debug/Scroll.app/Contents/Resources/2.jpg 2.jpg
+r0
+
+CCpResource build/Debug/Scroll.app/Contents/Resources/3.jpg 3.jpg
+r0
+
+CProcessInfoPlistFile /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug/Scroll.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/todd/school/Fall2009cse436/cs193p/downloads/08-Scroll/build/Debug/Scroll.app
+r0
+

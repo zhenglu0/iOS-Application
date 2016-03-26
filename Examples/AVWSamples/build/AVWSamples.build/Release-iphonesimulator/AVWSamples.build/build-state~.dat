@@ -1,0 +1,559 @@
+TAVWSamples
+v7
+r0
+t292787398.349186
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/Info.plist Info.plist
+cCompileXIB /Users/todd/Desktop/AVWSamples/MainWindow.xib
+cCompileXIB /Users/todd/Desktop/AVWSamples/VideoView.xib
+cCompileXIB /Users/todd/Desktop/AVWSamples/AudioView.xib
+cCompileXIB /Users/todd/Desktop/AVWSamples/WebView.xib
+cCpResource build/Release-iphonesimulator/AVWSamples.app/iphone.mov iphone.mov
+cCpResource build/Release-iphonesimulator/AVWSamples.app/cutscene.mov cutscene.mov
+cCpResource build/Release-iphonesimulator/AVWSamples.app/damn.caff damn.caff
+cCpResource build/Release-iphonesimulator/AVWSamples.app/twang.caff twang.caff
+cCpResource build/Release-iphonesimulator/AVWSamples.app/audio.png audio.png
+cCpResource build/Release-iphonesimulator/AVWSamples.app/video.png video.png
+cCpResource build/Release-iphonesimulator/AVWSamples.app/web.png web.png
+cCpResource build/Release-iphonesimulator/AVWSamples.app/Settings.bundle Settings.bundle
+cCpResource build/Release-iphonesimulator/AVWSamples.app/shortmusic.mp3 shortmusic.mp3
+cProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AVWSamples_Prefix-fqvyidgvabylcacjvgoguuluvfph/AVWSamples_Prefix.pch.gch AVWSamples_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/main.o /Users/todd/Desktop/AVWSamples/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AVWSamplesAppDelegate.o /Users/todd/Desktop/AVWSamples/Classes/AVWSamplesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AudioViewController.o /Users/todd/Desktop/AVWSamples/Classes/AudioViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/WebViewController.o /Users/todd/Desktop/AVWSamples/Classes/WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/VideoViewController.o /Users/todd/Desktop/AVWSamples/Classes/VideoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AVWSamples normal i386
+cGenerateDSYMFile /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app.dSYM /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AVWSamples
+cTouch /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A0BB0320000000000010F60
+t1242279986
+s69472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A0BB03000000000000000EB
+t1242279984
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB00000000001816A0
+t1242410443
+s1578656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB60000000000000A22
+t1242410422
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004A0E259B000000000000022F
+t1242441115
+s559
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A0E25B700000000000BE9D0
+t1242441143
+s780752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/todd/Desktop/AVWSamples/AVWSamples_Prefix.pch
+c000000004A1246C600000000000000BD
+t1242711750
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/AVWSamples/AudioView.xib
+c000000004BC33A7C00000000000030C8
+t1271085692
+s12488
+
+N/Users/todd/Desktop/AVWSamples/Classes/AVWSamplesAppDelegate.h
+c000000004A1246C600000000000001E2
+t1242711750
+s482
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/AVWSamples/Classes/AVWSamplesAppDelegate.m
+c000000004A1DF24A0000000000000445
+t1243476554
+s1093
+i"AVWSamplesAppDelegate.h"
+
+N/Users/todd/Desktop/AVWSamples/Classes/AudioViewController.h
+c000000004BC33A8200000000000002A7
+t1271085698
+s679
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/todd/Desktop/AVWSamples/Classes/AudioViewController.m
+c000000004BC33A99000000000000078C
+t1271085721
+s1932
+i"AudioViewController.h"
+
+N/Users/todd/Desktop/AVWSamples/Classes/VideoViewController.h
+c000000004A1246C600000000000001BC
+t1242711750
+s444
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/todd/Desktop/AVWSamples/Classes/VideoViewController.m
+c000000004A1246C6000000000000075C
+t1242711750
+s1884
+i"VideoViewController.h"
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/todd/Desktop/AVWSamples/Classes/WebViewController.h
+c000000004A1246C6000000000000030D
+t1242711750
+s781
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/todd/Desktop/AVWSamples/Classes/WebViewController.m
+c000000004A1DF24A000000000000099B
+t1243476554
+s2459
+i"WebViewController.h"
+
+N/Users/todd/Desktop/AVWSamples/MainWindow.xib
+c000000004A1246C80000000000004029
+t1242711752
+s16425
+
+N/Users/todd/Desktop/AVWSamples/Settings.bundle
+c000000004A1ED1EC00000000000000AA
+t1243533804
+s170
+
+N/Users/todd/Desktop/AVWSamples/VideoView.xib
+c000000004A1246C80000000000002897
+t1242711752
+s10391
+
+N/Users/todd/Desktop/AVWSamples/WebView.xib
+c000000004A1246C80000000000003FBB
+t1242711752
+s16315
+
+N/Users/todd/Desktop/AVWSamples/audio.png
+c000000004A1246C60000000000000421
+t1242711750
+s1057
+
+N/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AVWSamples.LinkFileList
+c000000004BC35D41000000000000029E
+t1271094593
+s670
+
+N/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AVWSamplesAppDelegate.o
+t1271094597
+s41012
+
+N/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AudioViewController.o
+t1271094597
+s39828
+
+N/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/VideoViewController.o
+t1271094597
+s35428
+
+N/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/WebViewController.o
+t1271094597
+s41500
+
+N/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/main.o
+t1271094597
+s5908
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app
+t1271094598
+s612
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app.dSYM
+t1271094598
+s102
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AVWSamples
+t1271094598
+s30388
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AudioView.nib
+t1271094594
+s2905
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/Info.plist
+t1271094593
+s603
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/MainWindow.nib
+t1271094594
+s3009
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/PkgInfo
+t1271094593
+s8
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/Settings.bundle
+t1271094594
+s136
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/VideoView.nib
+t1271094594
+s2850
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/WebView.nib
+t1271094595
+s4231
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/audio.png
+t1271094594
+s1057
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/cutscene.mov
+t1271094594
+s748199
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/damn.caff
+t1271094594
+s27230
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/iphone.mov
+t1271094594
+s2922924
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/shortmusic.mp3
+t1271094594
+s2492081
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/twang.caff
+t1271094594
+s18014
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/video.png
+t1271094594
+s892
+
+N/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/web.png
+t1271094594
+s1825
+
+N/Users/todd/Desktop/AVWSamples/cutscene.mov
+c000000004A1246C600000000000B6AA7
+t1242711750
+s748199
+
+N/Users/todd/Desktop/AVWSamples/damn.caff
+c000000004A1246C60000000000006A5E
+t1242711750
+s27230
+
+N/Users/todd/Desktop/AVWSamples/iphone.mov
+c000000004A1CE00800000000002C99AC
+t1243406344
+s2922924
+
+N/Users/todd/Desktop/AVWSamples/main.m
+c000000004A1246C80000000000000168
+t1242711752
+s360
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/AVWSamples/shortmusic.mp3
+c000000004B6B99B300000000002606B1
+t1265342899
+s2492081
+
+N/Users/todd/Desktop/AVWSamples/twang.caff
+c000000004A1246C8000000000000465E
+t1242711752
+s18014
+
+N/Users/todd/Desktop/AVWSamples/video.png
+c000000004A1246C8000000000000037C
+t1242711752
+s892
+
+N/Users/todd/Desktop/AVWSamples/web.png
+c000000004A1246C80000000000000721
+t1242711752
+s1825
+
+N/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AVWSamples_Prefix-fqvyidgvabylcacjvgoguuluvfph/AVWSamples_Prefix.pch.gch
+t1271094597
+s12662160
+
+NInfo.plist
+c000000004A1246C80000000000000386
+t1242711752
+s902
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292787393#292787393#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AVWSamplesAppDelegate.o /Users/todd/Desktop/AVWSamples/Classes/AVWSamplesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292787397.328576
+e292787397.586123
+r1
+xCompileC
+xbuild/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AVWSamplesAppDelegate.o
+x/Users/todd/Desktop/AVWSamples/Classes/AVWSamplesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/todd/Desktop/AVWSamples/Classes/AVWSamplesAppDelegate.m292787397#292787397#0(0"0(0#0#62"/Users/todd/Desktop/AVWSamples/Classes/AVWSamplesAppDelegate.m4300911832#1906"    cd /Users/todd/Desktop/AVWSamples    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-generated-files.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-own-target-headers.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-all-target-headers.hmap -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-project-headers.hmap -F/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator -I/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/include -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources/i386 -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AVWSamples_Prefix-fqvyidgvabylcacjvgoguuluvfph/AVWSamples_Prefix.pch -c /Users/todd/Desktop/AVWSamples/Classes/AVWSamplesAppDelegate.m -o /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AVWSamplesAppDelegate.o0#
+
+CCompileC build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AudioViewController.o /Users/todd/Desktop/AVWSamples/Classes/AudioViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292787397.573077
+e292787397.787909
+r1
+xCompileC
+xbuild/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AudioViewController.o
+x/Users/todd/Desktop/AVWSamples/Classes/AudioViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/todd/Desktop/AVWSamples/Classes/AudioViewController.m292787397#292787397#0(0"0(0#0#60"/Users/todd/Desktop/AVWSamples/Classes/AudioViewController.m4300911832#1902"    cd /Users/todd/Desktop/AVWSamples    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-generated-files.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-own-target-headers.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-all-target-headers.hmap -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-project-headers.hmap -F/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator -I/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/include -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources/i386 -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AVWSamples_Prefix-fqvyidgvabylcacjvgoguuluvfph/AVWSamples_Prefix.pch -c /Users/todd/Desktop/AVWSamples/Classes/AudioViewController.m -o /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AudioViewController.o0#
+
+CCompileC build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/VideoViewController.o /Users/todd/Desktop/AVWSamples/Classes/VideoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292787397.788025
+e292787397.919447
+r1
+xCompileC
+xbuild/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/VideoViewController.o
+x/Users/todd/Desktop/AVWSamples/Classes/VideoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/todd/Desktop/AVWSamples/Classes/VideoViewController.m292787397#292787397#0(0"0(0#0#60"/Users/todd/Desktop/AVWSamples/Classes/VideoViewController.m4300911832#1902"    cd /Users/todd/Desktop/AVWSamples    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-generated-files.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-own-target-headers.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-all-target-headers.hmap -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-project-headers.hmap -F/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator -I/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/include -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources/i386 -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AVWSamples_Prefix-fqvyidgvabylcacjvgoguuluvfph/AVWSamples_Prefix.pch -c /Users/todd/Desktop/AVWSamples/Classes/VideoViewController.m -o /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/VideoViewController.o0#
+
+CCompileC build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/WebViewController.o /Users/todd/Desktop/AVWSamples/Classes/WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292787397.586271
+e292787397.802157
+r1
+xCompileC
+xbuild/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/WebViewController.o
+x/Users/todd/Desktop/AVWSamples/Classes/WebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/todd/Desktop/AVWSamples/Classes/WebViewController.m292787397#292787397#0(0"0(0#0#58"/Users/todd/Desktop/AVWSamples/Classes/WebViewController.m4300911832#1898"    cd /Users/todd/Desktop/AVWSamples    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-generated-files.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-own-target-headers.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-all-target-headers.hmap -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-project-headers.hmap -F/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator -I/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/include -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources/i386 -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AVWSamples_Prefix-fqvyidgvabylcacjvgoguuluvfph/AVWSamples_Prefix.pch -c /Users/todd/Desktop/AVWSamples/Classes/WebViewController.m -o /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/WebViewController.o0#
+
+CCompileC build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/main.o /Users/todd/Desktop/AVWSamples/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292787397.280715
+e292787397.572876
+r1
+xCompileC
+xbuild/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/AVWSamples/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/todd/Desktop/AVWSamples/main.m292787397#292787397#0(0"0(0#0#37"/Users/todd/Desktop/AVWSamples/main.m4300911832#1864"    cd /Users/todd/Desktop/AVWSamples    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-generated-files.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-own-target-headers.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-all-target-headers.hmap -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-project-headers.hmap -F/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator -I/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/include -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources/i386 -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources -include /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AVWSamples_Prefix-fqvyidgvabylcacjvgoguuluvfph/AVWSamples_Prefix.pch -c /Users/todd/Desktop/AVWSamples/main.m -o /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/todd/Desktop/AVWSamples/AudioView.xib
+s292787394.096061
+e292787394.494593
+r1
+xCompileXIB
+x/Users/todd/Desktop/AVWSamples/AudioView.xib
+lSLF07#2@24"CompileXIB AudioView.xib292787394#292787394#0(0"0(0#0#44"/Users/todd/Desktop/AVWSamples/AudioView.xib4300911832#459"    cd /Users/todd/Desktop/AVWSamples    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AudioView.nib /Users/todd/Desktop/AVWSamples/AudioView.xib0#
+
+CCompileXIB /Users/todd/Desktop/AVWSamples/MainWindow.xib
+s292787393.608932
+e292787394.118442
+r1
+xCompileXIB
+x/Users/todd/Desktop/AVWSamples/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292787393#292787394#0(0"0(0#0#45"/Users/todd/Desktop/AVWSamples/MainWindow.xib4300911832#461"    cd /Users/todd/Desktop/AVWSamples    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/MainWindow.nib /Users/todd/Desktop/AVWSamples/MainWindow.xib0#
+
+CCompileXIB /Users/todd/Desktop/AVWSamples/VideoView.xib
+s292787393.665834
+e292787394.095951
+r1
+xCompileXIB
+x/Users/todd/Desktop/AVWSamples/VideoView.xib
+lSLF07#2@24"CompileXIB VideoView.xib292787393#292787394#0(0"0(0#0#44"/Users/todd/Desktop/AVWSamples/VideoView.xib4300911832#459"    cd /Users/todd/Desktop/AVWSamples    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/VideoView.nib /Users/todd/Desktop/AVWSamples/VideoView.xib0#
+
+CCompileXIB /Users/todd/Desktop/AVWSamples/WebView.xib
+s292787394.118623
+e292787395.510120
+r1
+xCompileXIB
+x/Users/todd/Desktop/AVWSamples/WebView.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/todd/Desktop/AVWSamples/WebView.xib:4: warning: Turning off phone number detection is not supported on iPhone OS versions prior 3.0.
+lSLF07#2@22"CompileXIB WebView.xib292787394#292787395#0(181"/* com.apple.ibtool.document.warnings *//Users/todd/Desktop/AVWSamples/WebView.xib:4: warning: Turning off phone number detection is not supported on iPhone OS versions prior 3.0.1(22@84"Turning off phone number detection is not supported on iPhone OS versions prior 3.0.292787395#18446744073709551615#0#0(6@42"/Users/todd/Desktop/AVWSamples/WebView.xib264404552#4#0#4#0#0"0(0#0#42"/Users/todd/Desktop/AVWSamples/WebView.xib4300911832#455"    cd /Users/todd/Desktop/AVWSamples    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/WebView.nib /Users/todd/Desktop/AVWSamples/WebView.xib0#
+
+CCpResource build/Release-iphonesimulator/AVWSamples.app/Settings.bundle Settings.bundle
+s292787394.508356
+e292787394.883742
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AVWSamples.app/Settings.bundle
+xSettings.bundle
+lSLF07#2@20"Copy Settings.bundle292787394#292787394#0(0"0(0#0#46"/Users/todd/Desktop/AVWSamples/Settings.bundle4300911832#461"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/todd/Desktop/AVWSamples/Settings.bundle /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app0#
+
+CCpResource build/Release-iphonesimulator/AVWSamples.app/audio.png audio.png
+s292787394.499333
+e292787394.808276
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AVWSamples.app/audio.png
+xaudio.png
+lSLF07#2@14"Copy audio.png292787394#292787394#0(0"0(0#0#40"/Users/todd/Desktop/AVWSamples/audio.png4300911832#455"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/todd/Desktop/AVWSamples/audio.png /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app0#
+
+CCpResource build/Release-iphonesimulator/AVWSamples.app/cutscene.mov cutscene.mov
+s292787394.496308
+e292787395.293840
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AVWSamples.app/cutscene.mov
+xcutscene.mov
+lSLF07#2@17"Copy cutscene.mov292787394#292787395#0(0"0(0#0#43"/Users/todd/Desktop/AVWSamples/cutscene.mov4300911832#458"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/todd/Desktop/AVWSamples/cutscene.mov /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app0#
+
+CCpResource build/Release-iphonesimulator/AVWSamples.app/damn.caff damn.caff
+s292787394.497158
+e292787394.881870
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AVWSamples.app/damn.caff
+xdamn.caff
+lSLF07#2@14"Copy damn.caff292787394#292787394#0(0"0(0#0#40"/Users/todd/Desktop/AVWSamples/damn.caff4300911832#455"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/todd/Desktop/AVWSamples/damn.caff /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app0#
+
+CCpResource build/Release-iphonesimulator/AVWSamples.app/iphone.mov iphone.mov
+s292787394.494723
+e292787395.568662
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AVWSamples.app/iphone.mov
+xiphone.mov
+lSLF07#2@15"Copy iphone.mov292787394#292787395#0(0"0(0#0#41"/Users/todd/Desktop/AVWSamples/iphone.mov4300911832#456"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/todd/Desktop/AVWSamples/iphone.mov /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app0#
+
+CCpResource build/Release-iphonesimulator/AVWSamples.app/shortmusic.mp3 shortmusic.mp3
+s292787394.509551
+e292787395.560623
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AVWSamples.app/shortmusic.mp3
+xshortmusic.mp3
+lSLF07#2@19"Copy shortmusic.mp3292787394#292787395#0(0"0(0#0#45"/Users/todd/Desktop/AVWSamples/shortmusic.mp34300911832#460"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/todd/Desktop/AVWSamples/shortmusic.mp3 /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app0#
+
+CCpResource build/Release-iphonesimulator/AVWSamples.app/twang.caff twang.caff
+s292787394.498503
+e292787394.882079
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AVWSamples.app/twang.caff
+xtwang.caff
+lSLF07#2@15"Copy twang.caff292787394#292787394#0(0"0(0#0#41"/Users/todd/Desktop/AVWSamples/twang.caff4300911832#456"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/todd/Desktop/AVWSamples/twang.caff /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app0#
+
+CCpResource build/Release-iphonesimulator/AVWSamples.app/video.png video.png
+s292787394.502015
+e292787394.810098
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AVWSamples.app/video.png
+xvideo.png
+lSLF07#2@14"Copy video.png292787394#292787394#0(0"0(0#0#40"/Users/todd/Desktop/AVWSamples/video.png4300911832#455"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/todd/Desktop/AVWSamples/video.png /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app0#
+
+CCpResource build/Release-iphonesimulator/AVWSamples.app/web.png web.png
+s292787394.504690
+e292787394.808452
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AVWSamples.app/web.png
+xweb.png
+lSLF07#2@12"Copy web.png292787394#292787394#0(0"0(0#0#38"/Users/todd/Desktop/AVWSamples/web.png4300911832#453"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/todd/Desktop/AVWSamples/web.png /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app0#
+
+CGenerateDSYMFile /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app.dSYM /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AVWSamples
+s292787398.217116
+e292787398.290542
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app.dSYM
+x/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AVWSamples
+lSLF07#2@122"GenerateDSYMFile build/Release-iphonesimulator/AVWSamples.app.dSYM build/Release-iphonesimulator/AVWSamples.app/AVWSamples292787398#292787398#0(0"0(0#0#86"/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AVWSamples4300911832#372"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AVWSamples -o /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app.dSYM0#
+
+CLd /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AVWSamples normal i386
+s292787397.919566
+e292787398.216955
+r1
+xLd
+x/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AVWSamples
+xnormal
+xi386
+lSLF07#2@91"Link /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AVWSamples292787397#292787398#0(0"0(0#0#0"4300911832#916"    cd /Users/todd/Desktop/AVWSamples    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator -F/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator -filelist /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/Objects-normal/i386/AVWSamples.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -framework AudioToolbox -framework AVFoundation -o /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/AVWSamples0#
+
+CProcessInfoPlistFile /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/Info.plist Info.plist
+s292787393.588840
+e292787393.608814
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist292787393#292787393#0(0"0(0#0#41"/Users/todd/Desktop/AVWSamples/Info.plist4300911832#457"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app/Info.plist0#
+
+CProcessPCH /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AVWSamples_Prefix-fqvyidgvabylcacjvgoguuluvfph/AVWSamples_Prefix.pch.gch AVWSamples_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292787395.568798
+e292787397.280339
+r1
+xProcessPCH
+x/var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AVWSamples_Prefix-fqvyidgvabylcacjvgoguuluvfph/AVWSamples_Prefix.pch.gch
+xAVWSamples_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile AVWSamples_Prefix.pch292787395#292787397#0(0"0(0#0#52"/Users/todd/Desktop/AVWSamples/AVWSamples_Prefix.pch4300911832#1759"    cd /Users/todd/Desktop/AVWSamples    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-generated-files.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-own-target-headers.hmap -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-all-target-headers.hmap -iquote /Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/AVWSamples-project-headers.hmap -F/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator -I/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/include -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources/i386 -I/Users/todd/Desktop/AVWSamples/build/AVWSamples.build/Release-iphonesimulator/AVWSamples.build/DerivedSources -c /Users/todd/Desktop/AVWSamples/AVWSamples_Prefix.pch -o /var/folders/ME/ME4zkaVQHyuqUN9lriGLcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AVWSamples_Prefix-fqvyidgvabylcacjvgoguuluvfph/AVWSamples_Prefix.pch.gch0#
+
+CTouch /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app
+s292787398.290688
+e292787398.349126
+r1
+xTouch
+x/Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app
+lSLF07#2@81"Touch /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app292787398#292787398#0(0"0(0#0#0"4300911832#267"    cd /Users/todd/Desktop/AVWSamples    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/AVWSamples/build/Release-iphonesimulator/AVWSamples.app0#
+

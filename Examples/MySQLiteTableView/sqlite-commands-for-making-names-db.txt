@@ -1,0 +1,7 @@
+/* In case you want to see how this database was created using the command line tool sqlite3, built-into all Macs:  sqlite3 -init ~/sqlite-notes.txt names.db */
+create table person (uniqueId INTEGER PRIMARY KEY, name TEXT);
+insert into person (name) values ('Paul');
+insert into person (name) values ('Josh');
+insert into person (name) values ('Barack Obama');
+select * from person;
+/* .exit */

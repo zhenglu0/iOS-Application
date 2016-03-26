@@ -1,0 +1,273 @@
+TMyShape
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/Info.plist MyShape/MyShape-Info.plist
+cProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyShape-Prefix-afcbqtjggqrvkgcyasqzuflerrrr/MyShape-Prefix.pch.gch MyShape/MyShape-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/main.o /Users/todd/Desktop/MyShape/MyShape/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/MyShapeAppDelegate.o /Users/todd/Desktop/MyShape/MyShape/MyShapeAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/NewView.o /Users/todd/Desktop/MyShape/MyShape/NewView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/MyShape normal i386
+cGenerateDSYMFile /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app.dSYM /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/MyShape
+cCopyStringsFile /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/en.lproj/InfoPlist.strings MyShape/en.lproj/InfoPlist.strings
+cCompileXIB /Users/todd/Desktop/MyShape/MyShape/en.lproj/MainWindow.xib
+cTouch /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D93ED360000000000000110
+t1301540150
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/todd/Desktop/MyShape/MyShape/MyShape-Prefix.pch
+c000000004E809B340000000000000140
+t1317051188
+s320
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/MyShape/MyShape/MyShapeAppDelegate.h
+c000000004E809B340000000000000129
+t1317051188
+s297
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/MyShape/MyShape/MyShapeAppDelegate.m
+c000000004E809B3500000000000008AB
+t1317051189
+s2219
+i"MyShapeAppDelegate.h"
+
+N/Users/todd/Desktop/MyShape/MyShape/NewView.h
+c000000004E809BAB00000000000000C4
+t1317051307
+s196
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/MyShape/MyShape/NewView.m
+c000000004E809BD10000000000000235
+t1317051345
+s565
+i"NewView.h"
+
+N/Users/todd/Desktop/MyShape/MyShape/en.lproj/InfoPlist.strings
+c000000004E809B34000000000000002D
+t1317051188
+s45
+
+N/Users/todd/Desktop/MyShape/MyShape/en.lproj/MainWindow.xib
+c000000004E809BD6000000000000246D
+t1317051350
+s9325
+
+N/Users/todd/Desktop/MyShape/MyShape/main.m
+c000000004E809B34000000000000015B
+t1317051188
+s347
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app
+t2
+s0
+
+N/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app.dSYM
+t2
+s0
+
+N/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/Info.plist
+t2
+s0
+
+N/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/MyShape
+t2
+s0
+
+N/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/PkgInfo
+t2
+s0
+
+N/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/MyShape.LinkFileList
+c000000004E809BD6000000000000015E
+t1317051350
+s350
+
+N/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/MyShapeAppDelegate.o
+t2
+s0
+
+N/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/NewView.o
+t2
+s0
+
+N/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyShape-Prefix-afcbqtjggqrvkgcyasqzuflerrrr/MyShape-Prefix.pch.gch
+t2
+s0
+
+NMyShape/MyShape-Info.plist
+c000000004E809B3400000000000004A6
+t1317051188
+s1190
+
+CBuild AST from /Users/todd/Desktop/MyShape/MyShape/MyShapeAppDelegate.m
+r0
+
+CBuild AST from /Users/todd/Desktop/MyShape/MyShape/NewView.m
+r0
+
+CBuild AST from /Users/todd/Desktop/MyShape/MyShape/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbbb99056d330b441^2520ca56d330b441^---0#1#0#--18"Check dependencies
+
+CCompileC build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/MyShapeAppDelegate.o /Users/todd/Desktop/MyShape/MyShape/MyShapeAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s338744151.956722
+e338744152.163070
+r1
+xCompileC
+xbuild/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/MyShapeAppDelegate.o
+x/Users/todd/Desktop/MyShape/MyShape/MyShapeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/todd/Desktop/MyShape/MyShape/MyShapeAppDelegate.m2107f557d330b441^cdcb2958d330b441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/todd/Desktop/MyShape/MyShape/MyShapeAppDelegate.m0000000000000000^2013"CompileC build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/MyShapeAppDelegate.o MyShape/MyShapeAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/MyShape    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-generated-files.hmap -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-own-target-headers.hmap -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-all-target-headers.hmap -iquote /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-project-headers.hmap -I/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/DerivedSources/i386 -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/DerivedSources -F/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyShape-Prefix-afcbqtjggqrvkgcyasqzuflerrrr/MyShape-Prefix.pch -c /Users/todd/Desktop/MyShape/MyShape/MyShapeAppDelegate.m -o /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/MyShapeAppDelegate.o
+
+CCompileC build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/NewView.o /Users/todd/Desktop/MyShape/MyShape/NewView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s338744152.123470
+e338744152.225936
+r1
+xCompileC
+xbuild/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/NewView.o
+x/Users/todd/Desktop/MyShape/MyShape/NewView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/todd/Desktop/MyShape/MyShape/NewView.m17b91f58d330b441^67d73958d330b441^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/todd/Desktop/MyShape/MyShape/NewView.m0000000000000000^1969"CompileC build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/NewView.o MyShape/NewView.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/MyShape    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-generated-files.hmap -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-own-target-headers.hmap -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-all-target-headers.hmap -iquote /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-project-headers.hmap -I/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/DerivedSources/i386 -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/DerivedSources -F/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyShape-Prefix-afcbqtjggqrvkgcyasqzuflerrrr/MyShape-Prefix.pch -c /Users/todd/Desktop/MyShape/MyShape/NewView.m -o /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/NewView.o
+
+CCompileC build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/main.o /Users/todd/Desktop/MyShape/MyShape/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s338744151.955889
+e338744152.122256
+r1
+xCompileC
+xbuild/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/MyShape/MyShape/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Compile /Users/todd/Desktop/MyShape/MyShape/main.m63d1f457d330b441^47591f58d330b441^---0#0#0#-19%DVTDocumentLocation2@58"file://localhost/Users/todd/Desktop/MyShape/MyShape/main.m0000000000000000^1957"CompileC build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/main.o MyShape/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/MyShape    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-generated-files.hmap -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-own-target-headers.hmap -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-all-target-headers.hmap -iquote /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-project-headers.hmap -I/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/DerivedSources/i386 -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/DerivedSources -F/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyShape-Prefix-afcbqtjggqrvkgcyasqzuflerrrr/MyShape-Prefix.pch -c /Users/todd/Desktop/MyShape/MyShape/main.m -o /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/todd/Desktop/MyShape/MyShape/en.lproj/MainWindow.xib
+s338744152.319572
+e338744153.350060
+r1
+xCompileXIB
+x/Users/todd/Desktop/MyShape/MyShape/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compiling /Users/todd/Desktop/MyShape/MyShape/en.lproj/MainWindow.xibc5ad5258d330b441^779d5959d330b441^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/todd/Desktop/MyShape/MyShape/en.lproj/MainWindow.xib0000000000000000^615"CompileXIB MyShape/en.lproj/MainWindow.xib    cd /Users/todd/Desktop/MyShape    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/en.lproj/MainWindow.nib /Users/todd/Desktop/MyShape/MyShape/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/en.lproj/InfoPlist.strings MyShape/en.lproj/InfoPlist.strings
+s338744152.318005
+e338744152.325220
+r1
+xCopyStringsFile
+x/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/en.lproj/InfoPlist.strings
+xMyShape/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy MyShape/en.lproj/InfoPlist.strings8d7d5158d330b441^b1505358d330b441^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/todd/Desktop/MyShape/MyShape/en.lproj/InfoPlist.strings0000000000000000^489"CopyStringsFile build/Debug-iphonesimulator/MyShape.app/en.lproj/InfoPlist.strings MyShape/en.lproj/InfoPlist.strings    cd /Users/todd/Desktop/MyShape    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/en.lproj -- MyShape/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app.dSYM /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/MyShape
+s338744152.281421
+e338744152.315019
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app.dSYM
+x/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/MyShape
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generating /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app.dSYM151e4858d330b441^03b15058d330b441^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app.dSYM0000204d2e05f041^460"GenerateDSYMFile build/Debug-iphonesimulator/MyShape.app.dSYM build/Debug-iphonesimulator/MyShape.app/MyShape    cd /Users/todd/Desktop/MyShape    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/MyShape -o /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app.dSYM
+
+CLd /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/MyShape normal i386
+s338744152.227659
+e338744152.279452
+r1
+xLd
+x/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/MyShape
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Link /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/MyShape2d603a58d330b441^7a8b4758d330b441^---0#0#0#--913"Ld build/Debug-iphonesimulator/MyShape.app/MyShape normal i386    cd /Users/todd/Desktop/MyShape    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator -F/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator -filelist /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/Objects-normal/i386/MyShape.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/MyShape
+
+CProcessInfoPlistFile /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/Info.plist MyShape/MyShape-Info.plist
+s338744150.794974
+e338744150.811504
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/Info.plist
+xMyShape/MyShape-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process MyShape/MyShape-Info.pliste99ccb56d330b441^c0cccf56d330b441^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/todd/Desktop/MyShape/MyShape/MyShape-Info.plist0000000000000000^553"ProcessInfoPlistFile build/Debug-iphonesimulator/MyShape.app/Info.plist MyShape/MyShape-Info.plist    cd /Users/todd/Desktop/MyShape    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MyShape/MyShape-Info.plist -genpkginfo /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app/Info.plist
+
+CProcessPCH /Users/todd/Library/Developer/Xcode/DerivedData/MyShape-fpuafqiuslteuygryszybkebwwjg/Index/PrecompiledHeaders/MyShape-Prefix-cpwefxtlhxxbehgqwkljhpbzatrd_ast/MyShape-Prefix.pch.pth MyShape/MyShape-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyShape-Prefix-afcbqtjggqrvkgcyasqzuflerrrr/MyShape-Prefix.pch.gch MyShape/MyShape-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s338744150.814017
+e338744151.954531
+r1
+xProcessPCH
+x/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyShape-Prefix-afcbqtjggqrvkgcyasqzuflerrrr/MyShape-Prefix.pch.gch
+xMyShape/MyShape-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile MyShape/MyShape-Prefix.pch5b79d156d330b441^d498f457d330b441^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/todd/Desktop/MyShape/MyShape/MyShape-Prefix.pch0000000000000000^1956"ProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyShape-Prefix-afcbqtjggqrvkgcyasqzuflerrrr/MyShape-Prefix.pch.gch MyShape/MyShape-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/MyShape    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-generated-files.hmap -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-own-target-headers.hmap -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-all-target-headers.hmap -iquote /Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/MyShape-project-headers.hmap -I/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/DerivedSources/i386 -I/Users/todd/Desktop/MyShape/build/MyShape.build/Debug-iphonesimulator/MyShape.build/DerivedSources -F/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator -c /Users/todd/Desktop/MyShape/MyShape/MyShape-Prefix.pch -o /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyShape-Prefix-afcbqtjggqrvkgcyasqzuflerrrr/MyShape-Prefix.pch.gch
+
+CTouch /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app
+s338744153.352960
+e338744153.367420
+r1
+xTouch
+x/Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Touch /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app26715a59d330b441^1b0f5e59d330b441^---0#0#0#--302"Touch build/Debug-iphonesimulator/MyShape.app    cd /Users/todd/Desktop/MyShape    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/MyShape/build/Debug-iphonesimulator/MyShape.app
+

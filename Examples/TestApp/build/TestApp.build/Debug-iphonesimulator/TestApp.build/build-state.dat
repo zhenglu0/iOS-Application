@@ -1,0 +1,274 @@
+TTestApp
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/Info.plist TestApp/TestApp-Info.plist
+cProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp-Prefix-dmffydynhmkzfhbfophjbitzejsi/TestApp-Prefix.pch.gch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o /Users/todd/Desktop/TestApp/TestApp/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestAppAppDelegate.o /Users/todd/Desktop/TestApp/TestApp/TestAppAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/Controller.o /Users/todd/Desktop/TestApp/TestApp/Controller.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp normal i386
+cGenerateDSYMFile /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYM /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp
+cCopyStringsFile /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings TestApp/en.lproj/InfoPlist.strings
+cCompileXIB /Users/todd/Desktop/TestApp/TestApp/en.lproj/MainWindow.xib
+cTouch /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D93ED360000000000000110
+t1301540150
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/todd/Desktop/TestApp/TestApp/Controller.h
+c000000004E5E59DA000000000000012A
+t1314806234
+s298
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/TestApp/TestApp/Controller.m
+c000000004E5E5CB50000000000000129
+t1314806965
+s297
+i"Controller.h"
+
+N/Users/todd/Desktop/TestApp/TestApp/TestApp-Prefix.pch
+c000000004E5E56310000000000000140
+t1314805297
+s320
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/todd/Desktop/TestApp/TestApp/TestAppAppDelegate.h
+c000000004E5E56310000000000000129
+t1314805297
+s297
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/TestApp/TestApp/TestAppAppDelegate.m
+c000000004E5E563100000000000008AB
+t1314805297
+s2219
+i"TestAppAppDelegate.h"
+
+N/Users/todd/Desktop/TestApp/TestApp/en.lproj/InfoPlist.strings
+c000000004E5E5631000000000000002D
+t1314805297
+s45
+
+N/Users/todd/Desktop/TestApp/TestApp/en.lproj/MainWindow.xib
+c000000004E5E5B570000000000003DB6
+t1314806615
+s15798
+
+N/Users/todd/Desktop/TestApp/TestApp/main.m
+c000000004E5E5631000000000000015B
+t1314805297
+s347
+i<UIKit/UIKit.h>
+
+N/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app
+t2
+s0
+
+N/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYM
+t2
+s0
+
+N/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/Info.plist
+t2
+s0
+
+N/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/PkgInfo
+t2
+s0
+
+N/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp
+t2
+s0
+
+N/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/Controller.o
+t2
+s0
+
+N/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList
+c000000004E665ED50000000000000161
+t1315331797
+s353
+
+N/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestAppAppDelegate.o
+t2
+s0
+
+N/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp-Prefix-dmffydynhmkzfhbfophjbitzejsi/TestApp-Prefix.pch.gch
+t2
+s0
+
+NTestApp/TestApp-Info.plist
+c000000004E5E565100000000000004A6
+t1314805329
+s1190
+
+CBuild AST from /Users/todd/Desktop/TestApp/TestApp/Controller.m
+r0
+
+CBuild AST from /Users/todd/Desktop/TestApp/TestApp/TestAppAppDelegate.m
+r0
+
+CBuild AST from /Users/todd/Desktop/TestApp/TestApp/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies988a11559616b441^c30e57559616b441^---0#1#0#--18"Check dependencies
+
+CCompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/Controller.o /Users/todd/Desktop/TestApp/TestApp/Controller.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337024598.394071
+e337024598.490807
+r1
+xCompileC
+xbuild/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/Controller.o
+x/Users/todd/Desktop/TestApp/TestApp/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/todd/Desktop/TestApp/TestApp/Controller.m69fe64569616b441^83a27d569616b441^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Users/todd/Desktop/TestApp/TestApp/Controller.m0000000000000000^1981"CompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/Controller.o TestApp/Controller.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -F/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp-Prefix-dmffydynhmkzfhbfophjbitzejsi/TestApp-Prefix.pch -c /Users/todd/Desktop/TestApp/TestApp/Controller.m -o /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/Controller.o
+
+CCompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestAppAppDelegate.o /Users/todd/Desktop/TestApp/TestApp/TestAppAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337024598.319078
+e337024598.452890
+r1
+xCompileC
+xbuild/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestAppAppDelegate.o
+x/Users/todd/Desktop/TestApp/TestApp/TestAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/todd/Desktop/TestApp/TestApp/TestAppAppDelegate.m2dcd51569616b441^24f073569616b441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/todd/Desktop/TestApp/TestApp/TestAppAppDelegate.m0000000000000000^2013"CompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestAppAppDelegate.o TestApp/TestAppAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -F/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp-Prefix-dmffydynhmkzfhbfophjbitzejsi/TestApp-Prefix.pch -c /Users/todd/Desktop/TestApp/TestApp/TestAppAppDelegate.m -o /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestAppAppDelegate.o
+
+CCompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o /Users/todd/Desktop/TestApp/TestApp/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s337024598.319075
+e337024598.392875
+r1
+xCompileC
+xbuild/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+x/Users/todd/Desktop/TestApp/TestApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Compile /Users/todd/Desktop/TestApp/TestApp/main.md5cd51569616b441^4e9c64569616b441^---0#0#0#-19%DVTDocumentLocation2@58"file://localhost/Users/todd/Desktop/TestApp/TestApp/main.m0000000000000000^1957"CompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o TestApp/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -F/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator -include /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp-Prefix-dmffydynhmkzfhbfophjbitzejsi/TestApp-Prefix.pch -c /Users/todd/Desktop/TestApp/TestApp/main.m -o /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/todd/Desktop/TestApp/TestApp/en.lproj/MainWindow.xib
+s337024598.718389
+e337024599.188401
+r1
+xCompileXIB
+x/Users/todd/Desktop/TestApp/TestApp/en.lproj/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compiling /Users/todd/Desktop/TestApp/TestApp/en.lproj/MainWindow.xibbaf8b7569616b441^0b4730579616b441^-84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)-0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/todd/Desktop/TestApp/TestApp/en.lproj/MainWindow.xib0000000000000000^615"CompileXIB TestApp/en.lproj/MainWindow.xib    cd /Users/todd/Desktop/TestApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/en.lproj/MainWindow.nib /Users/todd/Desktop/TestApp/TestApp/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings TestApp/en.lproj/InfoPlist.strings
+s337024598.718211
+e337024598.722699
+r1
+xCopyStringsFile
+x/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings
+xTestApp/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy TestApp/en.lproj/InfoPlist.strings28f3b7569616b441^740bb9569616b441^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/todd/Desktop/TestApp/TestApp/en.lproj/InfoPlist.strings0000000000000000^489"CopyStringsFile build/Debug-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings TestApp/en.lproj/InfoPlist.strings    cd /Users/todd/Desktop/TestApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/en.lproj -- TestApp/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYM /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp
+s337024598.660860
+e337024598.697591
+r1
+xGenerateDSYMFile
+x/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYM
+x/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generating /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYMd542a9569616b441^ea95b2569616b441^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYM0000204d2205f041^460"GenerateDSYMFile build/Debug-iphonesimulator/TestApp.app.dSYM build/Debug-iphonesimulator/TestApp.app/TestApp    cd /Users/todd/Desktop/TestApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp -o /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYM
+
+CLd /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp normal i386
+s337024598.492306
+e337024598.659301
+r1
+xLd
+x/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Link /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp92227e569616b441^2dd2a8569616b441^---0#0#0#--913"Ld build/Debug-iphonesimulator/TestApp.app/TestApp normal i386    cd /Users/todd/Desktop/TestApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator -F/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator -filelist /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp
+
+CProcessInfoPlistFile /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/Info.plist TestApp/TestApp-Info.plist
+s337024597.351694
+e337024597.370412
+r1
+xProcessInfoPlistFile
+x/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/Info.plist
+xTestApp/TestApp-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process TestApp/TestApp-Info.plistc2125b559616b441^ec885f559616b441^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/todd/Desktop/TestApp/TestApp/TestApp-Info.plist0000000000000000^553"ProcessInfoPlistFile build/Debug-iphonesimulator/TestApp.app/Info.plist TestApp/TestApp-Info.plist    cd /Users/todd/Desktop/TestApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TestApp/TestApp-Info.plist -genpkginfo /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app/Info.plist
+
+CProcessPCH /Users/todd/Library/Developer/Xcode/DerivedData/TestApp-edpuydltjjgghyckoivlzlnruien/Index/PrecompiledHeaders/TestApp-Prefix-gfboheltqkcefdcxpltqvndgqufq_ast/TestApp-Prefix.pch.pth TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp-Prefix-dmffydynhmkzfhbfophjbitzejsi/TestApp-Prefix.pch.gch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s337024597.375033
+e337024598.317405
+r1
+xProcessPCH
+x/var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp-Prefix-dmffydynhmkzfhbfophjbitzejsi/TestApp-Prefix.pch.gch
+xTestApp/TestApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile TestApp/TestApp-Prefix.pch8b5060559616b441^a24651569616b441^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/todd/Desktop/TestApp/TestApp/TestApp-Prefix.pch0000000000000000^1956"ProcessPCH /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp-Prefix-dmffydynhmkzfhbfophjbitzejsi/TestApp-Prefix.pch.gch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/todd/Desktop/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/include -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/todd/Desktop/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -F/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator -c /Users/todd/Desktop/TestApp/TestApp/TestApp-Prefix.pch -o /var/folders/sk/sk0iOrAwEPOfiQH+1r-D9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp-Prefix-dmffydynhmkzfhbfophjbitzejsi/TestApp-Prefix.pch.gch
+
+CTouch /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app
+s337024599.191723
+e337024599.202256
+r1
+xTouch
+x/Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Touch /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.appa62631579616b441^3ecf33579616b441^---0#0#0#--302"Touch build/Debug-iphonesimulator/TestApp.app    cd /Users/todd/Desktop/TestApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/todd/Desktop/TestApp/build/Debug-iphonesimulator/TestApp.app
+

@@ -1,0 +1,183 @@
+TAVWSamples
+v7
+r1
+
+N/Users/todd/Desktop/AVWSamples/AudioView.xib
+c000000004A1DF24A0000000000003D9F
+t1243476554
+s15775
+
+N/Users/todd/Desktop/AVWSamples/Daves Lounge.mp3
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/MainWindow.xib
+c000000004A1246C80000000000004029
+t1242711752
+s16425
+
+N/Users/todd/Desktop/AVWSamples/Settings.bundle
+c000000004A1ED1EC00000000000000AA
+t1243533804
+s170
+
+N/Users/todd/Desktop/AVWSamples/VideoView.xib
+c000000004A1246C80000000000002897
+t1242711752
+s10391
+
+N/Users/todd/Desktop/AVWSamples/WebView.xib
+c000000004A1246C80000000000003FBB
+t1242711752
+s16315
+
+N/Users/todd/Desktop/AVWSamples/audio.png
+c000000004A1246C60000000000000421
+t1242711750
+s1057
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Info.plist
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/AudioView.nib
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/Daves Lounge.mp3
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/Settings.bundle
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/VideoView.nib
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/WebView.nib
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/audio.png
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/cutscene.mov
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/damn.caff
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/iphone.mov
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/twang.caff
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/video.png
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Resources/web.png
+t2
+s0
+
+N/Users/todd/Desktop/AVWSamples/cutscene.mov
+c000000004A1246C600000000000B6AA7
+t1242711750
+s748199
+
+N/Users/todd/Desktop/AVWSamples/damn.caff
+c000000004A1246C60000000000006A5E
+t1242711750
+s27230
+
+N/Users/todd/Desktop/AVWSamples/iphone.mov
+c000000004A1CE00800000000002C99AC
+t1243406344
+s2922924
+
+N/Users/todd/Desktop/AVWSamples/twang.caff
+c000000004A1246C8000000000000465E
+t1242711752
+s18014
+
+N/Users/todd/Desktop/AVWSamples/video.png
+c000000004A1246C8000000000000037C
+t1242711752
+s892
+
+N/Users/todd/Desktop/AVWSamples/web.png
+c000000004A1246C80000000000000721
+t1242711752
+s1825
+
+NInfo.plist
+c000000004A1246C80000000000000386
+t1242711752
+s902
+
+CCompileXIB /Users/todd/Desktop/AVWSamples/AudioView.xib
+r0
+
+CCompileXIB /Users/todd/Desktop/AVWSamples/MainWindow.xib
+r0
+
+CCompileXIB /Users/todd/Desktop/AVWSamples/VideoView.xib
+r0
+
+CCompileXIB /Users/todd/Desktop/AVWSamples/WebView.xib
+r0
+
+CCpResource "build/Debug/AVWSamples.app/Contents/Resources/Daves Lounge.mp3" "Daves Lounge.mp3"
+r0
+
+CCpResource build/Debug/AVWSamples.app/Contents/Resources/Settings.bundle Settings.bundle
+r0
+
+CCpResource build/Debug/AVWSamples.app/Contents/Resources/audio.png audio.png
+r0
+
+CCpResource build/Debug/AVWSamples.app/Contents/Resources/cutscene.mov cutscene.mov
+r0
+
+CCpResource build/Debug/AVWSamples.app/Contents/Resources/damn.caff damn.caff
+r0
+
+CCpResource build/Debug/AVWSamples.app/Contents/Resources/iphone.mov iphone.mov
+r0
+
+CCpResource build/Debug/AVWSamples.app/Contents/Resources/twang.caff twang.caff
+r0
+
+CCpResource build/Debug/AVWSamples.app/Contents/Resources/video.png video.png
+r0
+
+CCpResource build/Debug/AVWSamples.app/Contents/Resources/web.png web.png
+r0
+
+CProcessInfoPlistFile /Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/todd/Desktop/AVWSamples/build/Debug/AVWSamples.app
+r0
+
