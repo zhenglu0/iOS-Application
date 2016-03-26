@@ -1,0 +1,573 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8F03F94715C6EAFD00CAC962 /* SemiWesternForhandViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F03F94615C6EAFD00CAC962 /* SemiWesternForhandViewController.m */; };
+		8F03F94A15C6EB5E00CAC962 /* Semi Western.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F03F94915C6EB5E00CAC962 /* Semi Western.png */; };
+		8F03F95015C6F28200CAC962 /* Western Forhand.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F03F94F15C6F28200CAC962 /* Western Forhand.png */; };
+		8F03F95415C6F2B600CAC962 /* WesternForhandViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F03F95315C6F2B600CAC962 /* WesternForhandViewController.m */; };
+		8F1F409815C99866003E3C7A /* prague-tennis-courts.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F1F409715C99866003E3C7A /* prague-tennis-courts.png */; };
+		8F1F409B15C99EFA003E3C7A /* Court button.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F1F409A15C99EFA003E3C7A /* Court button.png */; };
+		8F1F409D15C9A380003E3C7A /* Forhand background.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F1F409C15C9A380003E3C7A /* Forhand background.png */; };
+		8F1F409F15C9A68D003E3C7A /* Backhand background.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F1F409E15C9A68D003E3C7A /* Backhand background.png */; };
+		8F1F40A115C9A876003E3C7A /* VolleyBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F1F40A015C9A876003E3C7A /* VolleyBackground.png */; };
+		8F1F40A315C9A985003E3C7A /* Serve background.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F1F40A215C9A984003E3C7A /* Serve background.png */; };
+		8F1F40A515C9AA5E003E3C7A /* Copyright_Cristal.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F1F40A415C9AA5E003E3C7A /* Copyright_Cristal.png */; };
+		8F1F40AB15C9B1CD003E3C7A /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F1F40AA15C9B1CD003E3C7A /* Default@2x.png */; };
+		8F331AA015C95EB50085CCA8 /* TennnisCourtViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F331A9F15C95EB50085CCA8 /* TennnisCourtViewController.m */; };
+		8F331AA415C963450085CCA8 /* TennisHistoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F331AA315C963450085CCA8 /* TennisHistoryViewController.m */; };
+		8F3CAB1F15C70B4B003C5712 /* GripsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3CAB1E15C70B4B003C5712 /* GripsViewController.m */; };
+		8F3CAB2315C70EB6003C5712 /* Find the grips.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F3CAB2215C70EB6003C5712 /* Find the grips.png */; };
+		8F647B9315C987610074A951 /* CompareServeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F647B9215C987610074A951 /* CompareServeViewController.m */; };
+		8F6FBAE215C9804E005753B0 /* BackhandVolley.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F6FBAE115C9804E005753B0 /* BackhandVolley.png */; };
+		8F6FBAE615C980C9005753B0 /* CompareVolleyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F6FBAE515C980C9005753B0 /* CompareVolleyViewController.m */; };
+		8F6FBAEF15C984CA005753B0 /* ServeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F6FBAEE15C984CA005753B0 /* ServeViewController.m */; };
+		8F6FBAF215C98547005753B0 /* ServeMotionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F6FBAF115C98547005753B0 /* ServeMotionViewController.m */; };
+		8F6FBAF415C9865B005753B0 /* Serve.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F6FBAF315C9865B005753B0 /* Serve.png */; };
+		8F9CC02715A6272200AC0E75 /* tennis.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F9CC02615A6272200AC0E75 /* tennis.png */; };
+		8F9DFF4315C6B9F7008DB79A /* EasternForhandViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F9DFF4215C6B9F7008DB79A /* EasternForhandViewController.m */; };
+		8F9DFF4515C6BC25008DB79A /* Eastern Forhand.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F9DFF4415C6BC25008DB79A /* Eastern Forhand.png */; };
+		8FA3F61715C8098C00F30FB9 /* Federer_Forehand2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FA3F61615C8098C00F30FB9 /* Federer_Forehand2.png */; };
+		8FA3F61C15C80B1A00F30FB9 /* Eastern backhand.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FA3F61815C80B1A00F30FB9 /* Eastern backhand.png */; };
+		8FA3F61D15C80B1A00F30FB9 /* Extreme eastern.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FA3F61915C80B1A00F30FB9 /* Extreme eastern.png */; };
+		8FA3F61E15C80B1A00F30FB9 /* Two handed backhand.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FA3F61A15C80B1A00F30FB9 /* Two handed backhand.png */; };
+		8FA3F61F15C80B1A00F30FB9 /* Continential grip.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FA3F61B15C80B1A00F30FB9 /* Continential grip.png */; };
+		8FAFE9D115A6245400142A44 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FAFE9D015A6245400142A44 /* UIKit.framework */; };
+		8FAFE9D315A6245400142A44 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FAFE9D215A6245400142A44 /* Foundation.framework */; };
+		8FAFE9D515A6245400142A44 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FAFE9D415A6245400142A44 /* CoreGraphics.framework */; };
+		8FAFE9DB15A6245400142A44 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8FAFE9D915A6245400142A44 /* InfoPlist.strings */; };
+		8FAFE9DD15A6245400142A44 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FAFE9DC15A6245400142A44 /* main.m */; };
+		8FAFE9E115A6245400142A44 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FAFE9E015A6245400142A44 /* AppDelegate.m */; };
+		8FAFE9E415A6245400142A44 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FAFE9E215A6245400142A44 /* MainStoryboard.storyboard */; };
+		8FB8E0CA15C963AF0049075C /* Tennis-Court-Diagram.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FB8E0C915C963AF0049075C /* Tennis-Court-Diagram.png */; };
+		8FB8E0D115C979CD0049075C /* Centre_Court.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FB8E0D015C979CD0049075C /* Centre_Court.png */; };
+		8FB8E0D515C97DB30049075C /* VolleyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB8E0D415C97DB30049075C /* VolleyViewController.m */; };
+		8FC47F5015C9552400E79FCC /* tennis-backhand-technique.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FC47F4F15C9552400E79FCC /* tennis-backhand-technique.png */; };
+		8FC47F5415C957A400E79FCC /* ForhandSwingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FC47F5315C957A400E79FCC /* ForhandSwingViewController.m */; };
+		8FC47F5715C9595A00E79FCC /* BackhandSwingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FC47F5615C9595A00E79FCC /* BackhandSwingViewController.m */; };
+		8FE0491B15C97FD900786FDB /* VolleyMotinoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FE0491A15C97FD900786FDB /* VolleyMotinoViewController.m */; };
+		8FE32A3415C5C2CF0060CE14 /* CompareForhandViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FE32A3315C5C2CF0060CE14 /* CompareForhandViewController.m */; };
+		8FE32A3715C5C8E10060CE14 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FE32A3615C5C8E10060CE14 /* MediaPlayer.framework */; };
+		8FE32A3915C5C8F00060CE14 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FE32A3815C5C8F00060CE14 /* MobileCoreServices.framework */; };
+		8FE32A4D15C622310060CE14 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FE32A4C15C622310060CE14 /* ViewController.m */; };
+		8FF159A515C8D2B4008D2CFA /* EasternBackhandViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FF159A015C8D2B4008D2CFA /* EasternBackhandViewController.m */; };
+		8FF159A615C8D2B4008D2CFA /* ExtremeEasternBackhanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FF159A215C8D2B4008D2CFA /* ExtremeEasternBackhanViewController.m */; };
+		8FF159A715C8D2B4008D2CFA /* TwoHandedBackhandViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FF159A415C8D2B4008D2CFA /* TwoHandedBackhandViewController.m */; };
+		8FF159AD15C8D560008D2CFA /* CompareBackhandViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FF159AC15C8D560008D2CFA /* CompareBackhandViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8F03F94515C6EAFD00CAC962 /* SemiWesternForhandViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SemiWesternForhandViewController.h; sourceTree = "<group>"; };
+		8F03F94615C6EAFD00CAC962 /* SemiWesternForhandViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SemiWesternForhandViewController.m; sourceTree = "<group>"; };
+		8F03F94915C6EB5E00CAC962 /* Semi Western.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Semi Western.png"; sourceTree = "<group>"; };
+		8F03F94F15C6F28200CAC962 /* Western Forhand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Western Forhand.png"; sourceTree = "<group>"; };
+		8F03F95215C6F2B600CAC962 /* WesternForhandViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WesternForhandViewController.h; sourceTree = "<group>"; };
+		8F03F95315C6F2B600CAC962 /* WesternForhandViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WesternForhandViewController.m; sourceTree = "<group>"; };
+		8F1F409715C99866003E3C7A /* prague-tennis-courts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "prague-tennis-courts.png"; sourceTree = "<group>"; };
+		8F1F409A15C99EFA003E3C7A /* Court button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Court button.png"; sourceTree = "<group>"; };
+		8F1F409C15C9A380003E3C7A /* Forhand background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Forhand background.png"; sourceTree = "<group>"; };
+		8F1F409E15C9A68D003E3C7A /* Backhand background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Backhand background.png"; sourceTree = "<group>"; };
+		8F1F40A015C9A876003E3C7A /* VolleyBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VolleyBackground.png; sourceTree = "<group>"; };
+		8F1F40A215C9A984003E3C7A /* Serve background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Serve background.png"; sourceTree = "<group>"; };
+		8F1F40A415C9AA5E003E3C7A /* Copyright_Cristal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Copyright_Cristal.png; sourceTree = "<group>"; };
+		8F1F40AA15C9B1CD003E3C7A /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		8F331A9E15C95EB50085CCA8 /* TennnisCourtViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TennnisCourtViewController.h; sourceTree = "<group>"; };
+		8F331A9F15C95EB50085CCA8 /* TennnisCourtViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TennnisCourtViewController.m; sourceTree = "<group>"; };
+		8F331AA215C963450085CCA8 /* TennisHistoryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TennisHistoryViewController.h; path = "Tennis Coach/TennisHistoryViewController.h"; sourceTree = "<group>"; };
+		8F331AA315C963450085CCA8 /* TennisHistoryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TennisHistoryViewController.m; path = "Tennis Coach/TennisHistoryViewController.m"; sourceTree = "<group>"; };
+		8F3CAB1D15C70B4B003C5712 /* GripsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GripsViewController.h; sourceTree = "<group>"; };
+		8F3CAB1E15C70B4B003C5712 /* GripsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GripsViewController.m; sourceTree = "<group>"; };
+		8F3CAB2215C70EB6003C5712 /* Find the grips.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Find the grips.png"; sourceTree = "<group>"; };
+		8F647B9115C987610074A951 /* CompareServeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CompareServeViewController.h; path = "Tennis Coach/CompareServeViewController.h"; sourceTree = "<group>"; };
+		8F647B9215C987610074A951 /* CompareServeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompareServeViewController.m; path = "Tennis Coach/CompareServeViewController.m"; sourceTree = "<group>"; };
+		8F6FBAE115C9804E005753B0 /* BackhandVolley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackhandVolley.png; sourceTree = "<group>"; };
+		8F6FBAE415C980C9005753B0 /* CompareVolleyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CompareVolleyViewController.h; path = "Tennis Coach/CompareVolleyViewController.h"; sourceTree = "<group>"; };
+		8F6FBAE515C980C9005753B0 /* CompareVolleyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompareVolleyViewController.m; path = "Tennis Coach/CompareVolleyViewController.m"; sourceTree = "<group>"; };
+		8F6FBAED15C984CA005753B0 /* ServeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ServeViewController.h; path = "Tennis Coach/ServeViewController.h"; sourceTree = "<group>"; };
+		8F6FBAEE15C984CA005753B0 /* ServeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ServeViewController.m; path = "Tennis Coach/ServeViewController.m"; sourceTree = "<group>"; };
+		8F6FBAF015C98547005753B0 /* ServeMotionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ServeMotionViewController.h; path = "Tennis Coach/ServeMotionViewController.h"; sourceTree = "<group>"; };
+		8F6FBAF115C98547005753B0 /* ServeMotionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ServeMotionViewController.m; path = "Tennis Coach/ServeMotionViewController.m"; sourceTree = "<group>"; };
+		8F6FBAF315C9865B005753B0 /* Serve.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Serve.png; sourceTree = "<group>"; };
+		8F9CC02615A6272200AC0E75 /* tennis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tennis.png; path = ../tennis.png; sourceTree = "<group>"; };
+		8F9DFF4115C6B9F7008DB79A /* EasternForhandViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EasternForhandViewController.h; sourceTree = "<group>"; };
+		8F9DFF4215C6B9F7008DB79A /* EasternForhandViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EasternForhandViewController.m; sourceTree = "<group>"; };
+		8F9DFF4415C6BC25008DB79A /* Eastern Forhand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Eastern Forhand.png"; sourceTree = "<group>"; };
+		8FA3F61615C8098C00F30FB9 /* Federer_Forehand2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Federer_Forehand2.png; sourceTree = "<group>"; };
+		8FA3F61815C80B1A00F30FB9 /* Eastern backhand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Eastern backhand.png"; sourceTree = "<group>"; };
+		8FA3F61915C80B1A00F30FB9 /* Extreme eastern.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Extreme eastern.png"; sourceTree = "<group>"; };
+		8FA3F61A15C80B1A00F30FB9 /* Two handed backhand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Two handed backhand.png"; sourceTree = "<group>"; };
+		8FA3F61B15C80B1A00F30FB9 /* Continential grip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Continential grip.png"; sourceTree = "<group>"; };
+		8FAFE9CC15A6245400142A44 /* Tennis Coach.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tennis Coach.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8FAFE9D015A6245400142A44 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8FAFE9D215A6245400142A44 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8FAFE9D415A6245400142A44 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		8FAFE9D815A6245400142A44 /* Tennis Coach-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tennis Coach-Info.plist"; sourceTree = "<group>"; };
+		8FAFE9DA15A6245400142A44 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8FAFE9DC15A6245400142A44 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8FAFE9DE15A6245400142A44 /* Tennis Coach-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tennis Coach-Prefix.pch"; sourceTree = "<group>"; };
+		8FAFE9DF15A6245400142A44 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		8FAFE9E015A6245400142A44 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8FAFE9E315A6245400142A44 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		8FB8E0C915C963AF0049075C /* Tennis-Court-Diagram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Tennis-Court-Diagram.png"; sourceTree = "<group>"; };
+		8FB8E0D015C979CD0049075C /* Centre_Court.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Centre_Court.png; sourceTree = "<group>"; };
+		8FB8E0D315C97DB30049075C /* VolleyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VolleyViewController.h; path = "Tennis Coach/VolleyViewController.h"; sourceTree = "<group>"; };
+		8FB8E0D415C97DB30049075C /* VolleyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VolleyViewController.m; path = "Tennis Coach/VolleyViewController.m"; sourceTree = "<group>"; };
+		8FC47F4F15C9552400E79FCC /* tennis-backhand-technique.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tennis-backhand-technique.png"; sourceTree = "<group>"; };
+		8FC47F5215C957A400E79FCC /* ForhandSwingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForhandSwingViewController.h; sourceTree = "<group>"; };
+		8FC47F5315C957A400E79FCC /* ForhandSwingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ForhandSwingViewController.m; sourceTree = "<group>"; };
+		8FC47F5515C9595A00E79FCC /* BackhandSwingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BackhandSwingViewController.h; path = "Tennis Coach/BackhandSwingViewController.h"; sourceTree = "<group>"; };
+		8FC47F5615C9595A00E79FCC /* BackhandSwingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BackhandSwingViewController.m; path = "Tennis Coach/BackhandSwingViewController.m"; sourceTree = "<group>"; };
+		8FE0491915C97FD900786FDB /* VolleyMotinoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VolleyMotinoViewController.h; path = "Tennis Coach/VolleyMotinoViewController.h"; sourceTree = "<group>"; };
+		8FE0491A15C97FD900786FDB /* VolleyMotinoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VolleyMotinoViewController.m; path = "Tennis Coach/VolleyMotinoViewController.m"; sourceTree = "<group>"; };
+		8FE32A3215C5C2CF0060CE14 /* CompareForhandViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompareForhandViewController.h; sourceTree = "<group>"; };
+		8FE32A3315C5C2CF0060CE14 /* CompareForhandViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompareForhandViewController.m; sourceTree = "<group>"; };
+		8FE32A3615C5C8E10060CE14 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		8FE32A3815C5C8F00060CE14 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		8FE32A4B15C622310060CE14 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		8FE32A4C15C622310060CE14 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		8FF1599F15C8D2B4008D2CFA /* EasternBackhandViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EasternBackhandViewController.h; path = "Tennis Coach/EasternBackhandViewController.h"; sourceTree = "<group>"; };
+		8FF159A015C8D2B4008D2CFA /* EasternBackhandViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EasternBackhandViewController.m; path = "Tennis Coach/EasternBackhandViewController.m"; sourceTree = "<group>"; };
+		8FF159A115C8D2B4008D2CFA /* ExtremeEasternBackhanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ExtremeEasternBackhanViewController.h; path = "Tennis Coach/ExtremeEasternBackhanViewController.h"; sourceTree = "<group>"; };
+		8FF159A215C8D2B4008D2CFA /* ExtremeEasternBackhanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ExtremeEasternBackhanViewController.m; path = "Tennis Coach/ExtremeEasternBackhanViewController.m"; sourceTree = "<group>"; };
+		8FF159A315C8D2B4008D2CFA /* TwoHandedBackhandViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TwoHandedBackhandViewController.h; path = "Tennis Coach/TwoHandedBackhandViewController.h"; sourceTree = "<group>"; };
+		8FF159A415C8D2B4008D2CFA /* TwoHandedBackhandViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TwoHandedBackhandViewController.m; path = "Tennis Coach/TwoHandedBackhandViewController.m"; sourceTree = "<group>"; };
+		8FF159AB15C8D560008D2CFA /* CompareBackhandViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CompareBackhandViewController.h; path = "Tennis Coach/CompareBackhandViewController.h"; sourceTree = "<group>"; };
+		8FF159AC15C8D560008D2CFA /* CompareBackhandViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CompareBackhandViewController.m; path = "Tennis Coach/CompareBackhandViewController.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8FAFE9C915A6245400142A44 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FE32A3915C5C8F00060CE14 /* MobileCoreServices.framework in Frameworks */,
+				8FE32A3715C5C8E10060CE14 /* MediaPlayer.framework in Frameworks */,
+				8FAFE9D115A6245400142A44 /* UIKit.framework in Frameworks */,
+				8FAFE9D315A6245400142A44 /* Foundation.framework in Frameworks */,
+				8FAFE9D515A6245400142A44 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8F331A9C15C95E9F0085CCA8 /* Court */ = {
+			isa = PBXGroup;
+			children = (
+				8F331A9E15C95EB50085CCA8 /* TennnisCourtViewController.h */,
+				8F331A9F15C95EB50085CCA8 /* TennnisCourtViewController.m */,
+			);
+			name = Court;
+			sourceTree = "<group>";
+		};
+		8F331AA115C963190085CCA8 /* History */ = {
+			isa = PBXGroup;
+			children = (
+				8F331AA215C963450085CCA8 /* TennisHistoryViewController.h */,
+				8F331AA315C963450085CCA8 /* TennisHistoryViewController.m */,
+			);
+			name = History;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		8F3CAB2115C70B68003C5712 /* Grip */ = {
+			isa = PBXGroup;
+			children = (
+				8F3CAB1D15C70B4B003C5712 /* GripsViewController.h */,
+				8F3CAB1E15C70B4B003C5712 /* GripsViewController.m */,
+			);
+			name = Grip;
+			sourceTree = "<group>";
+		};
+		8F6FBAEC15C984A6005753B0 /* Serve */ = {
+			isa = PBXGroup;
+			children = (
+				8F6FBAED15C984CA005753B0 /* ServeViewController.h */,
+				8F6FBAEE15C984CA005753B0 /* ServeViewController.m */,
+				8F6FBAF015C98547005753B0 /* ServeMotionViewController.h */,
+				8F6FBAF115C98547005753B0 /* ServeMotionViewController.m */,
+				8F647B9115C987610074A951 /* CompareServeViewController.h */,
+				8F647B9215C987610074A951 /* CompareServeViewController.m */,
+			);
+			name = Serve;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		8FA3F61415C792A900F30FB9 /* Backhand */ = {
+			isa = PBXGroup;
+			children = (
+				8FF1599F15C8D2B4008D2CFA /* EasternBackhandViewController.h */,
+				8FF159A015C8D2B4008D2CFA /* EasternBackhandViewController.m */,
+				8FF159A115C8D2B4008D2CFA /* ExtremeEasternBackhanViewController.h */,
+				8FF159A215C8D2B4008D2CFA /* ExtremeEasternBackhanViewController.m */,
+				8FF159A315C8D2B4008D2CFA /* TwoHandedBackhandViewController.h */,
+				8FF159A415C8D2B4008D2CFA /* TwoHandedBackhandViewController.m */,
+				8FC47F5515C9595A00E79FCC /* BackhandSwingViewController.h */,
+				8FC47F5615C9595A00E79FCC /* BackhandSwingViewController.m */,
+				8FF159AB15C8D560008D2CFA /* CompareBackhandViewController.h */,
+				8FF159AC15C8D560008D2CFA /* CompareBackhandViewController.m */,
+			);
+			name = Backhand;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		8FAFE9C115A6245400142A44 = {
+			isa = PBXGroup;
+			children = (
+				8F1F40AA15C9B1CD003E3C7A /* Default@2x.png */,
+				8FAFE9D615A6245400142A44 /* Tennis Coach */,
+				8FAFE9CF15A6245400142A44 /* Frameworks */,
+				8FAFE9CD15A6245400142A44 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8FAFE9CD15A6245400142A44 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8FAFE9CC15A6245400142A44 /* Tennis Coach.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8FAFE9CF15A6245400142A44 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8FAFE9D015A6245400142A44 /* UIKit.framework */,
+				8FAFE9D215A6245400142A44 /* Foundation.framework */,
+				8FAFE9D415A6245400142A44 /* CoreGraphics.framework */,
+				8FE32A3615C5C8E10060CE14 /* MediaPlayer.framework */,
+				8FE32A3815C5C8F00060CE14 /* MobileCoreServices.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8FAFE9D615A6245400142A44 /* Tennis Coach */ = {
+			isa = PBXGroup;
+			children = (
+				8F331A9C15C95E9F0085CCA8 /* Court */,
+				8F331AA115C963190085CCA8 /* History */,
+				8F3CAB2115C70B68003C5712 /* Grip */,
+				8FE32A4E15C637980060CE14 /* Forehand */,
+				8FA3F61415C792A900F30FB9 /* Backhand */,
+				8FB8E0D215C97C0E0049075C /* Volley */,
+				8F6FBAEC15C984A6005753B0 /* Serve */,
+				8FE32A5015C638600060CE14 /* Others */,
+				8FE32A4F15C637DC0060CE14 /* Resource */,
+				8FAFE9D715A6245400142A44 /* Supporting Files */,
+			);
+			path = "Tennis Coach";
+			sourceTree = "<group>";
+		};
+		8FAFE9D715A6245400142A44 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8FAFE9D815A6245400142A44 /* Tennis Coach-Info.plist */,
+				8FAFE9D915A6245400142A44 /* InfoPlist.strings */,
+				8FAFE9DC15A6245400142A44 /* main.m */,
+				8FAFE9DE15A6245400142A44 /* Tennis Coach-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8FB8E0D215C97C0E0049075C /* Volley */ = {
+			isa = PBXGroup;
+			children = (
+				8FB8E0D315C97DB30049075C /* VolleyViewController.h */,
+				8FB8E0D415C97DB30049075C /* VolleyViewController.m */,
+				8FE0491915C97FD900786FDB /* VolleyMotinoViewController.h */,
+				8FE0491A15C97FD900786FDB /* VolleyMotinoViewController.m */,
+				8F6FBAE415C980C9005753B0 /* CompareVolleyViewController.h */,
+				8F6FBAE515C980C9005753B0 /* CompareVolleyViewController.m */,
+			);
+			name = Volley;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		8FE32A4E15C637980060CE14 /* Forehand */ = {
+			isa = PBXGroup;
+			children = (
+				8F9DFF4115C6B9F7008DB79A /* EasternForhandViewController.h */,
+				8F9DFF4215C6B9F7008DB79A /* EasternForhandViewController.m */,
+				8F03F94515C6EAFD00CAC962 /* SemiWesternForhandViewController.h */,
+				8F03F94615C6EAFD00CAC962 /* SemiWesternForhandViewController.m */,
+				8F03F95215C6F2B600CAC962 /* WesternForhandViewController.h */,
+				8F03F95315C6F2B600CAC962 /* WesternForhandViewController.m */,
+				8FC47F5215C957A400E79FCC /* ForhandSwingViewController.h */,
+				8FC47F5315C957A400E79FCC /* ForhandSwingViewController.m */,
+				8FE32A3215C5C2CF0060CE14 /* CompareForhandViewController.h */,
+				8FE32A3315C5C2CF0060CE14 /* CompareForhandViewController.m */,
+			);
+			name = Forehand;
+			sourceTree = "<group>";
+		};
+		8FE32A4F15C637DC0060CE14 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				8F1F40A415C9AA5E003E3C7A /* Copyright_Cristal.png */,
+				8F1F40A215C9A984003E3C7A /* Serve background.png */,
+				8F1F40A015C9A876003E3C7A /* VolleyBackground.png */,
+				8F1F409E15C9A68D003E3C7A /* Backhand background.png */,
+				8F1F409C15C9A380003E3C7A /* Forhand background.png */,
+				8F1F409A15C99EFA003E3C7A /* Court button.png */,
+				8F1F409715C99866003E3C7A /* prague-tennis-courts.png */,
+				8F6FBAF315C9865B005753B0 /* Serve.png */,
+				8F6FBAE115C9804E005753B0 /* BackhandVolley.png */,
+				8FB8E0D015C979CD0049075C /* Centre_Court.png */,
+				8FB8E0C915C963AF0049075C /* Tennis-Court-Diagram.png */,
+				8FA3F61815C80B1A00F30FB9 /* Eastern backhand.png */,
+				8FA3F61915C80B1A00F30FB9 /* Extreme eastern.png */,
+				8FA3F61A15C80B1A00F30FB9 /* Two handed backhand.png */,
+				8FA3F61B15C80B1A00F30FB9 /* Continential grip.png */,
+				8F3CAB2215C70EB6003C5712 /* Find the grips.png */,
+				8F9DFF4415C6BC25008DB79A /* Eastern Forhand.png */,
+				8F03F94915C6EB5E00CAC962 /* Semi Western.png */,
+				8F03F94F15C6F28200CAC962 /* Western Forhand.png */,
+				8FC47F4F15C9552400E79FCC /* tennis-backhand-technique.png */,
+				8FA3F61615C8098C00F30FB9 /* Federer_Forehand2.png */,
+				8F9CC02615A6272200AC0E75 /* tennis.png */,
+			);
+			name = Resource;
+			sourceTree = "<group>";
+		};
+		8FE32A5015C638600060CE14 /* Others */ = {
+			isa = PBXGroup;
+			children = (
+				8FAFE9DF15A6245400142A44 /* AppDelegate.h */,
+				8FAFE9E015A6245400142A44 /* AppDelegate.m */,
+				8FE32A4B15C622310060CE14 /* ViewController.h */,
+				8FE32A4C15C622310060CE14 /* ViewController.m */,
+				8FAFE9E215A6245400142A44 /* MainStoryboard.storyboard */,
+			);
+			name = Others;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8FAFE9CB15A6245400142A44 /* Tennis Coach */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8FAFE9EA15A6245400142A44 /* Build configuration list for PBXNativeTarget "Tennis Coach" */;
+			buildPhases = (
+				8FAFE9C815A6245400142A44 /* Sources */,
+				8FAFE9C915A6245400142A44 /* Frameworks */,
+				8FAFE9CA15A6245400142A44 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Tennis Coach";
+			productName = "Tennis Coach";
+			productReference = 8FAFE9CC15A6245400142A44 /* Tennis Coach.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8FAFE9C315A6245400142A44 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+				ORGANIZATIONNAME = "四川大学";
+			};
+			buildConfigurationList = 8FAFE9C615A6245400142A44 /* Build configuration list for PBXProject "Tennis Coach" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8FAFE9C115A6245400142A44;
+			productRefGroup = 8FAFE9CD15A6245400142A44 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8FAFE9CB15A6245400142A44 /* Tennis Coach */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8FAFE9CA15A6245400142A44 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FAFE9DB15A6245400142A44 /* InfoPlist.strings in Resources */,
+				8FAFE9E415A6245400142A44 /* MainStoryboard.storyboard in Resources */,
+				8F9CC02715A6272200AC0E75 /* tennis.png in Resources */,
+				8F9DFF4515C6BC25008DB79A /* Eastern Forhand.png in Resources */,
+				8F03F94A15C6EB5E00CAC962 /* Semi Western.png in Resources */,
+				8F03F95015C6F28200CAC962 /* Western Forhand.png in Resources */,
+				8F3CAB2315C70EB6003C5712 /* Find the grips.png in Resources */,
+				8FA3F61715C8098C00F30FB9 /* Federer_Forehand2.png in Resources */,
+				8FA3F61C15C80B1A00F30FB9 /* Eastern backhand.png in Resources */,
+				8FA3F61D15C80B1A00F30FB9 /* Extreme eastern.png in Resources */,
+				8FA3F61E15C80B1A00F30FB9 /* Two handed backhand.png in Resources */,
+				8FA3F61F15C80B1A00F30FB9 /* Continential grip.png in Resources */,
+				8FC47F5015C9552400E79FCC /* tennis-backhand-technique.png in Resources */,
+				8FB8E0CA15C963AF0049075C /* Tennis-Court-Diagram.png in Resources */,
+				8FB8E0D115C979CD0049075C /* Centre_Court.png in Resources */,
+				8F6FBAE215C9804E005753B0 /* BackhandVolley.png in Resources */,
+				8F6FBAF415C9865B005753B0 /* Serve.png in Resources */,
+				8F1F409815C99866003E3C7A /* prague-tennis-courts.png in Resources */,
+				8F1F409B15C99EFA003E3C7A /* Court button.png in Resources */,
+				8F1F409D15C9A380003E3C7A /* Forhand background.png in Resources */,
+				8F1F409F15C9A68D003E3C7A /* Backhand background.png in Resources */,
+				8F1F40A115C9A876003E3C7A /* VolleyBackground.png in Resources */,
+				8F1F40A315C9A985003E3C7A /* Serve background.png in Resources */,
+				8F1F40A515C9AA5E003E3C7A /* Copyright_Cristal.png in Resources */,
+				8F1F40AB15C9B1CD003E3C7A /* Default@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8FAFE9C815A6245400142A44 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FAFE9DD15A6245400142A44 /* main.m in Sources */,
+				8FAFE9E115A6245400142A44 /* AppDelegate.m in Sources */,
+				8FE32A3415C5C2CF0060CE14 /* CompareForhandViewController.m in Sources */,
+				8FE32A4D15C622310060CE14 /* ViewController.m in Sources */,
+				8F9DFF4315C6B9F7008DB79A /* EasternForhandViewController.m in Sources */,
+				8F03F94715C6EAFD00CAC962 /* SemiWesternForhandViewController.m in Sources */,
+				8F03F95415C6F2B600CAC962 /* WesternForhandViewController.m in Sources */,
+				8F3CAB1F15C70B4B003C5712 /* GripsViewController.m in Sources */,
+				8FF159A515C8D2B4008D2CFA /* EasternBackhandViewController.m in Sources */,
+				8FF159A615C8D2B4008D2CFA /* ExtremeEasternBackhanViewController.m in Sources */,
+				8FF159A715C8D2B4008D2CFA /* TwoHandedBackhandViewController.m in Sources */,
+				8FF159AD15C8D560008D2CFA /* CompareBackhandViewController.m in Sources */,
+				8FC47F5415C957A400E79FCC /* ForhandSwingViewController.m in Sources */,
+				8FC47F5715C9595A00E79FCC /* BackhandSwingViewController.m in Sources */,
+				8F331AA015C95EB50085CCA8 /* TennnisCourtViewController.m in Sources */,
+				8F331AA415C963450085CCA8 /* TennisHistoryViewController.m in Sources */,
+				8FB8E0D515C97DB30049075C /* VolleyViewController.m in Sources */,
+				8FE0491B15C97FD900786FDB /* VolleyMotinoViewController.m in Sources */,
+				8F6FBAE615C980C9005753B0 /* CompareVolleyViewController.m in Sources */,
+				8F6FBAEF15C984CA005753B0 /* ServeViewController.m in Sources */,
+				8F6FBAF215C98547005753B0 /* ServeMotionViewController.m in Sources */,
+				8F647B9315C987610074A951 /* CompareServeViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8FAFE9D915A6245400142A44 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8FAFE9DA15A6245400142A44 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		8FAFE9E215A6245400142A44 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8FAFE9E315A6245400142A44 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8FAFE9E815A6245400142A44 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		8FAFE9E915A6245400142A44 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8FAFE9EB15A6245400142A44 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tennis Coach/Tennis Coach-Prefix.pch";
+				INFOPLIST_FILE = "Tennis Coach/Tennis Coach-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		8FAFE9EC15A6245400142A44 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tennis Coach/Tennis Coach-Prefix.pch";
+				INFOPLIST_FILE = "Tennis Coach/Tennis Coach-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8FAFE9C615A6245400142A44 /* Build configuration list for PBXProject "Tennis Coach" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8FAFE9E815A6245400142A44 /* Debug */,
+				8FAFE9E915A6245400142A44 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8FAFE9EA15A6245400142A44 /* Build configuration list for PBXNativeTarget "Tennis Coach" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8FAFE9EB15A6245400142A44 /* Debug */,
+				8FAFE9EC15A6245400142A44 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8FAFE9C315A6245400142A44 /* Project object */;
+}
